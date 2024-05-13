@@ -11,4 +11,6 @@ github.csv contains the concatenation of the fallacies contained in this github 
 argotario_2018-01-15.csv contains the argotario data where the labels have been converted to the MAFALDA format and annotation scheme, apart from 'appeal to emotion', which is annotated as 'appeal to ?'.
 argotario_in_mafalda_format.csv contains the same data, but the 'appeal to ?' items have been annotated semi-automatically.
 
+### ElecDeb60to20 data
 
+elecdeb60to20_final_fall.csv contains the elecdeb final fall data with the MAFALDA format labels and duplicates removed. It includes instances of 'appeal to emotion'. elecdeb60to20_appeal_to_emotion_labeled.csv was created by separating the 'appeal to emotion' instances from the previous dataset and generating labels using the classify_appeal_to_emotion_using_gpt.py code. Regex was performed on the data to retreive the final labels in MAFALDA format and any labels that were not easily identifiable were removed from the dataset. 
