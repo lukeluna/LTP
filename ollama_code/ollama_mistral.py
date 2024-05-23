@@ -3,6 +3,78 @@ import ollama
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 import re
 
+#creating the dataset
+
+ad_hominem = pd.read_csv('data/handmade data/ad_hominem_final.csv')
+ad_populum = pd.read_csv('data/handmade data/ad_populum_final.csv')
+appeal_to_anger = pd.read_csv('data/handmade data/appeal_to_anger_final.csv')
+appeal_to_authority = pd.read_csv('data/handmade data/appeal_to_authority_final.csv')
+#appeal_to_fear = pd.read_csv('data/handmade data/appeal_to_fear_final.csv')
+appeal_to_nature = pd.read_csv('data/handmade data/appeal_to_nature_final.csv')
+appeal_to_pity = pd.read_csv('data/handmade data/appeal_to_pity_final.csv')
+#appeal_to_ridicule = pd.read_csv('data/handmade data/appeal_to_ridicule_final.csv')
+appeal_to_tradition = pd.read_csv('data/handmade data/appeal_to_tradition_final.csv')
+appeal_to_worse_problems = pd.read_csv('data/handmade data/appeal_to_worse_problems_final.csv')
+causal_oversimplifiation = pd.read_csv('data/handmade data/causal_oversimplification_final.csv')
+equivocation = pd.read_csv('data/handmade data/equivocation_final.csv')
+fallacy_of_division = pd.read_csv('data/handmade data/fallacy_of_division_final.csv')
+false_analogy = pd.read_csv('data/handmade data/false_analogy_final.csv')
+false_causality = pd.read_csv('data/handmade data/false_causality_final.csv')
+false_dilemma = pd.read_csv('data/handmade data/false_dilemma_final.csv')
+hasty_generalization = pd.read_csv('data/handmade data/hasty_generalization_final.csv')
+nothing = pd.read_csv('data/handmade data/nothing_final.csv')
+slippery_slope = pd.read_csv('data/handmade data/slippery_slope_final.csv')
+strawman = pd.read_csv('data/handmade data/strawman_final.csv')
+
+data_tuples_fear = [
+    ("Nuclear power was the reason of death of millions of people. It should vanish from this planet", "appeal to fear"),
+    ("Yes, all the polar-bears are dying, and we are next.", "appeal to fear"),
+    ("Yes,,you certainly don't want your children to die from this virus.", "appeal to fear"),
+    ("When we go to war, we kill children with drones and kill innocent civilians.", "appeal to fear"),
+    ("If people smoke at home they hurt their family-members, the one they love, through passive-smoke. It was such a shame if this was not illegal.", "appeal to fear"),
+    ("Yes, and that is why we do also have to censor the web. Think about all the brutality, which poisons our minds, all this porn that poisons the thoughts and relationships of our children.", "appeal to fear"),
+    ("For little children it is already enough if one cheats. they might get drug addicts as well. You have the choice, save children or drug addicts.", "appeal to fear"),
+    ("Do you want to have a Hitler again? No? Then this Topic is not arguable.", "appeal to fear"),
+    ("Test them, otherwise our children might get drug addicts as well.", "appeal to fear"),
+    ("We must keep Europe safe - these people are mostly muslim terrorist and they're going to overtake our country if we let them in!", "appeal to fear"),
+    ("Me and my family have been living a peaceful life, so far. Everything is fine. I dont want sick black people to come and ruin my idyll.", "appeal to fear"),
+    ("Imagine you have a little child that dies because a drunken driver causes an accident. Now tell me you dont want to have that forbidden.", "appeal to fear"),
+    ("Co-ed schools... think about what this means. Young boys and girls together in a room, partly without supervision of a teacher. I would not want my daughter to get pregnant while school.", "appeal to fear"),
+    ("If your mom or sister or friend and she was gang raped by a group of illegals wouldn't you want her to have the chance to have the baby taken care of?", "appeal to fear"),
+    ("If you don't believe in Jesus Christ you'll suffer eternal damnation and torment in the afterlife.", "appeal to fear"),
+    ("Look I know it seems pricey but think about the safety of your family. Without this home security system you leave your loved ones vulnerable to break-ins and potential harm.", "appeal to fear"),
+    ("No. Do you really want our children to waste away in prison because they tried smoking weed at a party once? Just imagine your childs life being ruined by such a small mistake.", "appeal to fear"),
+    ("But if Turkey joins the EU, poor Turks might invade our country and take away our jobs. DONT MAKE THAT HAPPEN!", "appeal to fear"),
+    ("Marijuana ruins lives and should not be legal- it can leave children without their parents.", "appeal to fear"),
+    ("We should go to war; remember the horrified people leaping from the World Trade Center? If we don't fight, that will happen again.", "appeal to fear"),
+    ("They will bring the disease to our country and many people will die because of that.", "appeal to fear"),
+    ("You might think you're healthy now but what if illness strikes? Taking this miracle drug could save your life.", "appeal to fear"),
+    ("Consider the consequences of your vote. If you don't support this candidate you're risking the stability and future of our country.", "appeal to fear"),
+    ("It's tempting to skip out on insurance but think about the worst-case scenario. Without coverage you could face devastating financial consequences in times of need.", "appeal to fear"),
+    ("I know it's easy to dismiss alternative news sources but think about the information you might be missing. Without subscribing you're leaving yourself vulnerable to biased reporting.", "appeal to fear"),
+    ("I understand your concerns but national security should be our top priority. Without this policy we're leaving ourselves vulnerable to potential threats.", "appeal to fear"),
+    ("Sticking to a diet isn't easy. But think about the long-term health risks you're avoiding. Without it you're opening yourself up to serious diseases.", "appeal to fear"),
+    ("Investing in this stock might seem risky but the alternative is financial disaster. Without it you could lose everything.", "appeal to fear"),
+    ("If you don't buy this miracle anti-aging cream you'll look old and unattractive.", "appeal to fear"),
+    ("If you don't enroll your child in this elite private school they'll fall behind academically and struggle to succeed in life.", "appeal to fear")
+]
+
+
+list_of_tuples = []
+list_of_tuples += data_tuples_fear
+
+datasets = [ad_hominem, ad_populum, appeal_to_anger, appeal_to_authority, appeal_to_nature, appeal_to_authority, appeal_to_nature, 
+           appeal_to_pity, appeal_to_tradition, appeal_to_worse_problems, causal_oversimplifiation, 
+           equivocation, fallacy_of_division, false_analogy, false_causality, false_dilemma, 
+           hasty_generalization, nothing, slippery_slope, strawman]
+for df in datasets:
+   
+    list_of_tuples += [tuple(x) for x in df.to_numpy()]
+
+# Print the first few tuples
+print(list_of_tuples[:5])
+    
+
 def contains_whole_word(large_string, word):
     pattern = rf'\b{re.escape(word)}\b'
     return bool(re.search(pattern, large_string))
@@ -43,19 +115,7 @@ I will give you different texts. For each text, determine if it is a fallacy or 
 '''
 
 # List of example texts and their expected labels
-examples = [
-    ('Why is the sky blue?', 'nothing'),
-    ('You have no idea how street is, you better stop talking!', 'ad hominem'),
-    ("You're probably a drug addict yourself.", 'ad hominem'),
-    ("Why do you want a university-doctor's title to be shown on their identification-card? You must be one yourself, you egotistic prick ! Does it make you feel respected that we all know your little title?", "ad hominem"),
-    ("You’re way too nervous about driving at night so of course you don’t want to drive.", "ad hominem"),
-    ("Three million fans can't be wrong!", 'ad populum'),
-    ("The human soul is immortal, because all learned men agree that anything which does not come out of the potentiality of matter is incorruptible and immortal.", "ad populum"),
-    ("We all believe such preachers as Mr. Raskin. He is so nearly right, his ideals are so very high, that most people assent — while they have no difficulty in evading them and going on their way as if a breath of wind had fanned their faces, and no voice of truth had stirred their spirits.", "ad populum"),
-    ("You should buy this phone; it's the best-selling model worldwide.","ad populum"),
-    ("Are you tired of being ignored by your government? Is it right that the top 1% have so much when the rest of us have so little? I urge you to vote for me today!", 'appeal to anger'),
-    ("I get mad when i think about all these poor guys on the street, having no home, no job, no family. All because they started taking drugs. Its so sad, we need heavier penalties.","appeal to anger"),
-]
+examples = list_of_tuples
 test_results = []
 start_time = time.time() 
 # Iterate over each text and its expected label
