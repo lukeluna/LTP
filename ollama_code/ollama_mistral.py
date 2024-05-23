@@ -1,6 +1,11 @@
 import time
 import ollama
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
+import re
+
+def contains_whole_word(large_string, word):
+    pattern = rf'\b{re.escape(word)}\b'
+    return bool(re.search(pattern, large_string))
 
 # Define the base message content
 message_base_content = '''
