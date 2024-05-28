@@ -14,8 +14,10 @@ def contains_whole_word(large_string, word):
 path = '/Users/lukevandenwittenboer/PycharmProjects/LTP/test/'
 
 # change this to the name of the txt file with your prompt (in the working directory)
-filename = '''test'''
-filename = '''zero_shot_tot_2'''
+#filename = '''test'''
+#filename = '''zero_shot_tot'''
+#filename = '''real_zero_shot'''
+filename = '''zero_shot_cot'''
 with open(path + filename + '.txt', 'r') as file:
     message_base_content = file.read()
 file.close()
@@ -33,7 +35,7 @@ appeal_to_ridicule = pd.read_csv(path + 'data/handmade/appeal_to_ridicule_final.
 appeal_to_tradition = pd.read_csv(path + 'data/handmade/appeal_to_tradition_final.csv')
 appeal_to_worse_problems = pd.read_csv(path + 'data/handmade/appeal_to_worse_problems_final.csv')
 causal_oversimplifiation = pd.read_csv(path + 'data/handmade/causal_oversimplification_final.csv')
-#circular_reasoning =
+circular_reasoning = pd.read_csv(path + 'data/handmade/circular_reasoning.csv')
 equivocation = pd.read_csv(path + 'data/handmade/equivocation_final.csv')
 fallacy_of_division = pd.read_csv(path + 'data/handmade/fallacy_of_division_final.csv')
 false_analogy = pd.read_csv(path + 'data/handmade/false_analogy_final.csv')
@@ -44,18 +46,18 @@ hasty_generalization = pd.read_csv(path + 'data/handmade/hasty_generalization_fi
 nothing = pd.read_csv(path + 'data/handmade/nothing_final.csv')
 slippery_slope = pd.read_csv(path + 'data/handmade/slippery_slope_final.csv')
 strawman = pd.read_csv(path + 'data/handmade/strawman_final.csv')
-#tu_quoque =
+tu_quoque = pd.read_csv(path + 'data/handmade/tu_quoque.csv')
 
 list_of_tuples = []
 
 datasets = [ad_hominem, ad_populum, appeal_to_anger, appeal_to_authority, appeal_to_fear, appeal_to_nature,
             appeal_to_pity, appeal_to_ridicule, appeal_to_tradition, appeal_to_worse_problems, causal_oversimplifiation,
-#            circular_reasoning, guilt_by_association, tu_quoque,
+            circular_reasoning, tu_quoque, #guilt_by_association,
             equivocation, fallacy_of_division, false_analogy, false_causality, false_dilemma,
             hasty_generalization, nothing, slippery_slope, strawman]
 
 # define the number of samples per class you want to use.
-nr_of_samples = 3
+nr_of_samples = 5
 
 for dataset in datasets:
     if len(dataset) >= nr_of_samples:
@@ -91,12 +93,22 @@ for text, expected_label in examples:
     counter = counter + 1
     actual_label = response['message']['content'].strip()
     actual_label = actual_label.lower()
-    test_passed = contains_whole_word(actual_label, 'answer: ' + expected_label)
+    pattern = r'answer:\s*(.*)'
+
+    # Perform the search
+    match = re.search(pattern, actual_label)
+    if match:
+        prediction = match.group(1)
+    else:
+        prediction = ''
+    #test_passed = contains_whole_word(actual_label, expected_label)
+    test_passed = contains_whole_word(prediction, expected_label)
     test_results.append(test_passed)
 
     # Print the response and test result
     print(f'Text: {text}')
     print(f'Expected: {expected_label}')
+    print(f'Prediction: {prediction}')
     print(f'Actual: {actual_label}')
     print(f'Test Passed:', test_passed)
     print('----------------------------')
@@ -108,4 +120,4 @@ recall = recall_score([True] * len(test_results), test_results, average='weighte
 
 print(f'Time Taken: {end_time - start_time:.2f} seconds\n')
 
-print(accuracy, f1, precision, recall)
+print(filename, nr_of_samples, accuracy, f1, precision, recall)
