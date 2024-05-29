@@ -1,0 +1,19 @@
+Given the segment below, which of the following fallacies occurs in the segment: hasty generalization, slippery slope, causal oversimplification, appeal to ridicule, appeal to nature, false causality, ad populum, ad hominem, false analogy, false dilemma, appeal to fear, appeal to (false) authority, appeal to worse problems, circular reasoning, guilt by association, appeal to anger, straw man, appeal to tradition, equivocation, fallacy of division, tu quoque, appeal to positive emotion
+appeal to pity?
+
+
+Rephrase the question and respond using the below template:
+
+
+Rephrased Question and Response Template
+
+
+Rephrased Question:
+Given the definition of an argument and the list of possible fallacies, identify which fallacy is present in the following segment:
+
+
+**Segment:** {}
+
+
+#### Response Template:
+The segment contains the fallacy of [fallacy name]. This fallacy occurs when [short explanation of the identified fallacy].
