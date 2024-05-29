@@ -1,0 +1,70 @@
+Look at the definitions, examples and their explanations below:
+
+hasty generalization: 
+Example: My father smoked four packs of cigarettes a day since age fourteen and lived until age sixty-nine. Therefore, smoking really can’t be that bad for you.
+Explanation: It is extremely unreasonable (and dangerous) to draw a universal conclusion about the health risks of smoking by the case study of one man.
+
+slippery slope: A fallacy where the initial step is not demonstrably likely to result in the claimed effects.
+causal oversimplification: 
+Example: I ran my car off the side of the road because that damn squirrel ran in front of my car.
+Explanation: While if it were not for the squirrel, perhaps Hank wouldn’t have totaled his car.  However, if it weren’t for him texting while driving drunk, he could have almost certainly prevented taking his unauthorized shortcut through the woods and into a tree.
+
+appeal to ridicule: A fallacy where an argument is presented in such a way that makes the argument look ridiculous, usually by misrepresenting the argument or the use of exaggeration.
+
+appeal to nature: 
+Example: Cocaine is all natural; therefore, it is good for you.
+Explanation: There are very many things in this world that are “all natural” and very bad for you besides cocaine, including, earthquakes, monsoons, and viruses, just to name a few.  Whereas “unnatural” things such as aspirin, pacemakers, and surgery can be very good things.
+false causality: A fallacy where it is assumed inaccurately that one thing causes another thing to happen without any substantial proof.
+
+ad populum: 
+Example: How could you not believe in virgin births? Roughly two billion people believe in them, don’t you think you should reconsider your position?
+Explanation: Anyone who believes in virgin births does not have empirical evidence for his or her belief.  This is a claim accepted on faith, which is an individual and subjective form of accepting information, that should not have any effect on your beliefs.  Don’t forget that there was a time that the common beliefs included a flat earth, earth-centered universe, and demon possession as the cause of most illness.
+
+ad hominem: A fallacy where the speaker attacks the character, motive, or some other attribute of the person making an argument rather than attacking the substance of the argument itself.
+
+false analogy: A fallacy where the assumption is made that two things share multiple similarities simply because they have one thing in common.
+
+false dilemma: 
+Example: You are either with God or against him.
+Explanation: There are also those who simply don’t believe there is a God to be either with or against.
+
+appeal to fear: 
+Example: If we don’t bail out the big automakers, the US economy will collapse.  Therefore, we need to bail out the automakers.
+Explanation: The idea of a collapsed economy is frightening enough for many people to overlook the fact that this is a premise without justification, resulting in them just accepting the conclusion. There is no evidence or reason provided for the claim that if we don’t bail out the big automakers, the US economy will collapse.
+
+appeal to (false) authority: A fallacy where an alleged authority is used as evidence in your argument when the authority is not really an authority on the facts relevant to the argument.
+
+appeal to worse problems: A fallacy where it is tried to make a scenario better by comparing it to the worst case scenario.
+
+circular reasoning: A fallacy type in which the proposition is supported by the premises, which is supported by the proposition, creating a circle in reasoning where no useful information is being shared.
+
+guilt by association: 
+Example: Pol Pot, the Cambodian Maoist revolutionary, was against religion, and he was a very bad man.  Frankie is against religion; therefore, Frankie also must be a very bad man.
+Explanation: The fact that Pol Pot and Frankie share one particular view does not mean they are identical in other ways unrelated, specifically, being a very bad man.  Pol Pot was not a bad man because he was against religion, he was a bad man for his genocidal actions.
+
+appeal to anger: A fallacy where the emotions of anger, hatred, or rage are substituted for evidence in an argument.
+
+straw man fallacy: 
+Example: You say evolution is true? That is ridiculous!  How can you possibly be absolutely certain that we evolved from pond scum!
+Explanation: The person has ignorantly mischaracterized the argument by a) assuming we evolved from pond scum, and b) assuming “fact” means “certainty”.
+
+appeal to tradition: 
+Example: Marriage has traditionally been between a man and a woman; therefore, gay marriage should not be allowed.
+Explanation: Just because it was acceptable in past cultures and times, does not mean it is acceptable today.
+
+equivocation: A fallacy where an ambiguous term with more than one sense is used, thus making an argument misleading.
+
+fallacy of division:
+Example: His house is about half the size of most houses in the neighborhood. Therefore, his doors must all be about 3 1/2 feet high.
+Explanation: The size of one’s house almost certainly does not mean that the doors will be smaller, especially by the same proportions. The size of the whole (the house) is not directly related to the size of every part of the house.
+
+tu quoque: A fallacy where the argument is claimed to be flawed by pointing out that the one making the argument is not acting consistently with the claims of the argument.
+
+appeal to positive emotion: 
+Example: If you buy this ticket, I’m sure you will be happy!
+Explanation: The person here is trying to make the argument apparently seem reasonable by appealing to the position emotion, rather than giving substantial evidence in favor of the action.
+
+appeal to pity: A fallacy where an attempt is made to distract from the truth of the conclusion by the use of pity.
+
+Given the definitions, examples and their corresponding explanations above, classify the sentences by indicating which type of fallacy they have. If it is not, or cannot be judged based on the text, write 'nothing'. If you are unsure, write the one answer that seems most likely. Do not give any explanation, just write the answer as the output. Think step by step as in the examples above:
+{}
