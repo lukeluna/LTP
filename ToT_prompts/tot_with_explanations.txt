@@ -1,0 +1,97 @@
+Look at the definitions, examples and their explanations below:
+
+hasty generalization: A fallacy where you draw a conclusion based on a small sample size, rather than looking at statistics that are much more in line with the typical or average situation.
+Example: My father smoked four packs of cigarettes a day since age fourteen and lived until age sixty-nine. Therefore, smoking really can’t be that bad for you.
+Explanation: It is extremely unreasonable (and dangerous) to draw a universal conclusion about the health risks of smoking by the case study of one man.
+
+slippery slope: A fallacy where the initial step is not demonstrably likely to result in the claimed effects.
+Example: We can't permit the sale of marijuana by doctor's prescription, because that will lead people to believe it's an acceptable drug; this will open the floodgates to the complete legalization of the drug for use by every pothead in the country.
+Explanation: Permitting the sale of marijuana by doctor's prescription won't lead to the legalization of the drugs in general. Without any sufficient reason, the speaker is jumping to the conclusion.
+
+causal oversimplification: A fallacy where a person assumes a single cause or reason when there were actually multiple causes or reasons.
+Example: I ran my car off the side of the road because that damn squirrel ran in front of my car.
+Explanation: While if it were not for the squirrel, perhaps Hank wouldn’t have totaled his car. However, if it weren’t for him texting while driving drunk, he could have almost certainly prevented taking his unauthorized shortcut through the woods and into a tree.
+
+appeal to ridicule: A fallacy where an argument is presented in such a way that makes the argument look ridiculous, usually by misrepresenting the argument or the use of exaggeration.
+Example: It takes faith to believe in God just like it takes faith to believe in the Easter Bunny -- but at least the Easter Bunny is based on a creature that actually exists!
+Explanation: Comparing the belief in God to belief in the Easter Bunny is an attempt at ridicule and not a good argument. In fact, this type of fallacy usually shows desperation in the one committing the fallacy.
+
+appeal to nature: A fallacy where the belief or suggestion that “natural” is better than “unnatural” based on its naturalness.
+Example: Cocaine is all natural; therefore, it is good for you.
+Explanation: There are very many things in this world that are “all natural” and very bad for you besides cocaine, including, earthquakes, monsoons, and viruses, just to name a few.  Whereas “unnatural” things such as aspirin, pacemakers, and surgery can be very good things.
+false causality: A fallacy where it is assumed inaccurately that one thing causes another thing to happen without any substantial proof.
+
+ad populum: A fallacy where the claim that many people in general accept a belief as true is presented as evidence for the claim.
+Example: How could you not believe in virgin births? Roughly two billion people believe in them, don’t you think you should reconsider your position?
+Explanation: Anyone who believes in virgin births does not have empirical evidence for his or her belief.  This is a claim accepted on faith, which is an individual and subjective form of accepting information, that should not have any effect on your beliefs.  Don’t forget that there was a time that the common beliefs included a flat earth, earth-centered universe, and demon possession as the cause of most illness.
+
+ad hominem: A fallacy where the speaker attacks the character, motive, or some other attribute of the person making an argument rather than attacking the substance of the argument itself.
+Example: My opponent suggests that lowering taxes will be a good idea -- this is coming from a woman who eats a pint of Ben and Jerry’s each night!
+Explanation: The fact that the woman loves her ice cream, has nothing to do with the lowering of taxes, and therefore, is irrelevant to the argument.
+
+false analogy: A fallacy where the assumption is made that two things share multiple similarities simply because they have one thing in common.
+Example: Believing in the literal resurrection of Jesus is like believing in the literal existence of zombies.
+Explanation: This is a weak analogy because Jesus was said to be alive not just undead.
+
+false dilemma: A fallacy where only two choices are presented yet more exist, or a spectrum of possible choices exists between two extremes.
+Example: You are either with God or against him.
+Explanation: There are also those who simply don’t believe there is a God to be either with or against.
+
+appeal to fear: A fallacy where fear, not based on evidence or reason, is being used as the primary motivator to get others to accept an idea, proposition, or conclusion.
+Example: If we don’t bail out the big automakers, the US economy will collapse.  Therefore, we need to bail out the automakers.
+Explanation: The idea of a collapsed economy is frightening enough for many people to overlook the fact that this is a premise without justification, resulting in them just accepting the conclusion. There is no evidence or reason provided for the claim that if we don’t bail out the big automakers, the US economy will collapse.
+
+appeal to (false) authority: A fallacy where an alleged authority is used as evidence in your argument when the authority is not really an authority on the facts relevant to the argument.
+Example: How do I know the adult film industry is the third largest industry in the United States? Derek Shlongmiester, the adult film star of over 50 years, said it was. That's how I know.
+Explanation: Shlongmiester may be an industry expert, as well as have a huge talent, but a claim such as the one made would require supporting evidence.
+
+appeal to worse problems: A fallacy where it is tried to make a scenario better by comparing it to the worst case scenario.
+Example: Stop being unhappy, there are people who are worse than you.
+Explanation: Just because there are people in worse situations, does not mean that the current problem that makes someone unhappy is not important.
+
+circular reasoning: A fallacy type in which the proposition is supported by the premises, which is supported by the proposition, creating a circle in reasoning where no useful information is being shared.
+Example: Only an untrustworthy person would run for president. The fact that politicians are untrustworthy is proof of that.
+Explanation: The claim relies on its own premise (i.e., politicians are untrustworthy) to support its conclusion that only an untrustworthy person would run for president.
+
+guilt by association: A fallacy where the source is viewed negatively because of its association with another person or group who is already viewed negatively.
+Example: Pol Pot, the Cambodian Maoist revolutionary, was against religion, and he was a very bad man.  Frankie is against religion; therefore, Frankie also must be a very bad man.
+Explanation: The fact that Pol Pot and Frankie share one particular view does not mean they are identical in other ways unrelated, specifically, being a very bad man.  Pol Pot was not a bad man because he was against religion, he was a bad man for his genocidal actions.
+
+appeal to anger: A fallacy where the emotions of anger, hatred, or rage are substituted for evidence in an argument.
+Example: How can you possibly think that humans evolved from monkeys!  Does my nanna look like a flippin' monkey to you?
+Explanation: Ignoring the fact that we didn’t evolve from monkeys (we share a common ancestor with modern African apes), the fact that the arguer is obviously offended is irrelevant to the facts.
+
+straw man fallacy: A fallacy where someone substitutes a person’s actual position or argument with a distorted, exaggerated, or misrepresented version of the position of the argument.
+Example: You say evolution is true? That is ridiculous!  How can you possibly be absolutely certain that we evolved from pond scum!
+Explanation: The person has ignorantly mischaracterized the argument by a) assuming we evolved from pond scum, and b) assuming “fact” means “certainty”.
+
+appeal to tradition: A fallacy where a person uses historical preferences of the people (tradition), either in general or as specific as the historical preferences of a single individual, as evidence that the historical preference is correct.
+Example: Marriage has traditionally been between a man and a woman; therefore, gay marriage should not be allowed.
+Explanation: Just because it was acceptable in past cultures and times, does not mean it is acceptable today.
+
+equivocation: A fallacy where an ambiguous term with more than one sense is used, thus making an argument misleading.
+Example: I want to have myself a merry little Christmas, but I refuse to do as the song suggests and make the yuletide gay.  I don't think sexual preference should have anything to do with enjoying the holiday.
+Explanation: The word, “gay” is meant to be in light spirits, joyful, and merry, not in the homosexual sense.
+
+fallacy of division: A fallacy where someone infers that something is true of one or more of the parts from the fact that it is true of the whole.
+Example: His house is about half the size of most houses in the neighborhood. Therefore, his doors must all be about 3 1/2 feet high.
+Explanation: The size of one’s house almost certainly does not mean that the doors will be smaller, especially by the same proportions. The size of the whole (the house) is not directly related to the size of every part of the house.
+
+tu quoque: A fallacy where the argument is claimed to be flawed by pointing out that the one making the argument is not acting consistently with the claims of the argument.
+Example: Helga, you tell me to not eat fat burgers but you eat them all the time!
+Explanation: It does not matter (to the truth claim of the argument at least) if Helga follows her own advice or not.  While it might appear that the reason she does not follow her own advice is that she doesn’t believe it’s true, it could also be that those fat burgers are just too damn irresistible.
+
+appeal to positive emotion: A fallacy where the emotions of a person is manipulated to a positive direction to make the argument seem reasonable.
+Example: If you buy this ticket, I’m sure you will be happy!
+Explanation: The person here is trying to make the argument apparently seem reasonable by appealing to the position emotion, rather than giving substantial evidence in favor of the action.
+
+appeal to pity: A fallacy where an attempt is made to distract from the truth of the conclusion by the use of pity.
+Example: Professor, please consider raising my grade. I had a terrible semester: my car broke down, my laptop got stolen, and my cat got sick.
+Explanation: The student might deserve raise in the grade, however, unfortunately, papers are not graded that way. The fact that we should pity this student has nothing to do with the quality of the paper written, and if we were to adjust the grade because of the sob stories, we would have fallen victim to the appeal to pity.
+
+For each statement, define your classification. Explain your reasoning step by step
+
+Imagine three different experts are doing this classification. All experts will write down 1 step of their thinking, then share it with the group. Then all experts will go on to the next step, etc. If any expert realises they're wrong at any point then they leave.
+The experts must come to a final agreement.
+The answer must just be a fallacy class in the exact wording as described above or 'nothing' Write down the final answer as 'answer: -insert answer-'. Examples: 'answer: appeal to pity', 'answer: nothing'.
+{}

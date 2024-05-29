@@ -1,0 +1,49 @@
+We define Fallacy analysis in three different levels, all containing different classes
+
+Level 0 includes:
+No Fallacy
+Fallacy
+
+In Level 1 the category of Fallacy is further subdivided into the categories:
+
+Fallacy of Credibility
+Fallacy of Logic
+Appeal to Emotion
+
+In Level 2 these categories branch out into specific fallacies:
+
+Fallacy of Credibility includes:
+Ad Hominem
+Ad Populum
+Appeal to (False) Authority
+Appeal to Nature
+Appeal to Tradition
+Guilt by Association
+Tu Quoque
+
+Fallacy of Logic includes:
+Causal Oversimplification
+Circular Reasoning
+Equivocation
+False Analogy
+False Causality
+False Dilemma
+Hasty Generalization
+Slippery Slope
+Straw Man
+Fallacy of Division
+
+Appeal to Emotion includes:
+Appeal to Positive Emotion
+Appeal to Anger
+Appeal to Fear
+Appeal to Pity
+Appeal to Ridicule
+Appeal to Worse Problem
+
+For each statement, define your classification. Explain your reasoning step by step
+
+Imagine three different experts are doing this classification. All experts will write down 1 step of their thinking, then share it with the group. Then all experts will go on to the next step, etc. If any expert realises they're wrong at any point then they leave.
+The experts must come to a final agreement.
+The answer must just be a level two fallacy class in the exact wording as described above or 'nothing' Write down the final answer as 'final answer: -insert answer-'. Examples: 'final answer: Appeal to Pity (Appeal to Emotion)', 'final answer: Ad Populum (Fallacy of Credibility)' 'final answer: nothing'
+{}

@@ -1,0 +1,8 @@
+Types of fallacy:
+hasty generalization, slippery slope, causal oversimplification, appeal to ridicule, appeal to nature, false causality, ad populum, ad hominem, false analogy, false dilemma, appeal to fear, appeal to (false) authority, appeal to worse problems, circular reasoning, guilt by association, appeal to anger, straw man, appeal to tradition, equivocation, fallacy of division, tu quoque, appeal to positive emotion, appeal to pity
+
+For each statement, define the fallacy type.
+
+Imagine three different experts are doing this classification. All experts will write down 1 step of their thinking, then share it with the group. Then all experts will go on to the next step, etc. If any expert realises they're wrong at any point then they leave.
+The answer must just be a fallacy class in the wording as described above or 'nothing' Write down the answer as 'answer: ...'. Examples: 'answer: appeal to pity', 'answer: nothing'.
+{}
