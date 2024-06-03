@@ -25,7 +25,7 @@ def level_1_mapping(column):
         'circular reasoning': 'fallacy of logic',
         'guilt by association': 'fallacy of credibility',
         'appeal to anger': 'appeal to emotion',
-        'strawman': 'fallacy of logic',
+        'straw man': 'fallacy of logic',
         'appeal to tradition': 'fallacy of credibility',
         'equivocation': 'fallacy of logic',
         'fallacy of division': 'fallacy of logic',
@@ -34,7 +34,7 @@ def level_1_mapping(column):
         'appeal to pity': 'appeal to emotion'
 
     }
-    return column.map(level_1)
+    return column.map(level_1).fillna(column)
 
 
 def level_0_mapping(column):
@@ -64,10 +64,34 @@ def level_0_mapping(column):
         'appeal to pity': 'fallacy detected'
     }
 
-    return column.map(level_0).fillna('no fallancy detected')
+    return column.map(level_0).fillna('no fallacy detected')
 
+def find_fallacy(input_sentence):
+    # Normalize the input sentence to lowercase for case-insensitive matching
+    input_sentence = input_sentence.lower()
+    answer = ''
+    pattern = r'answer:\s*(.*)' #TODO: this now requires the format answer: ... so it does not work for RaR or CoT
 
-file_path = 'results-rar_2-openchat.csv'  # Replace with the actual file path
+    # Perform the search
+    match = re.search(pattern, input_sentence)
+    if match:
+        answer = match.group(1)
+
+    #answer = input_sentence #uncomment this if you want to run on the entire input
+
+    # Check each fallacy and its synonyms
+    for canonical, synonyms in fallacy_types.items():
+        # Create a regex pattern that matches any of the synonyms
+        pattern = r'\b(' + '|'.join(re.escape(syn) for syn in synonyms) + r')\b'
+
+        # Search for the pattern in the input sentence
+        if re.search(pattern, answer):
+            return canonical, answer  #TODO: option to find multiple classes in answer
+
+    # Return None if no fallacy type is found
+    return 'no match', answer
+
+file_path = 'results-cot-sc-mistral_canonical.csv'  # Replace with the actual file path
 results = pd.read_csv(file_path)
 
 
@@ -75,4 +99,6 @@ results = pd.read_csv(file_path)
 results['expected_label_level1'] =  level_1_mapping(results['expected_label'])
 results['expected_label_level2'] = level_0_mapping(results['expected_label'])
 
-print(results.head())
+results['canonical_level1'] = level_1_mapping(results['canonical'])
+
+print(results['canonical_level1'].head())
