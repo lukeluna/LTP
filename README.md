@@ -21,3 +21,4 @@ elecdeb60to20_final_fall.csv contains the elecdeb final fall data with the MAFAL
 # get_mafalda_spans.py
 
 This code was used to extract the data on which we tested our LLM prompts from the MAFALDA dataset. Spans annotated with fallacies are extracted and paired with their annotation in a .csv file. 
+To properly balance the dataset over level-2 annotation, we add 20 items labeled 'nothing' to the dataset. These are extracted by finding MAFALDA texts that are labeled with no fallacies, and selecting the longest sentence from these texts. We do this because otherwise, the length of the 'nothing' sentences would be far too long, and this way, the average 'nothing' item length is almost identical to that of the other classes averaged.
