@@ -1,0 +1,699 @@
+Unnamed: 0,text,expected_label,actual_label,result,canonical
+0,"I keep seeing if an adventure mode needs to exist then why not just start a char at 68. then a couple months after that we'll see post about how people want to start at 90 just so they can kill bosses. Then a few months later we'll see people asking for a""creative"" mode so they can have access to all items in the game so they don't have to farm, and i dont think that sets a good example as a community for a game that we all love.",slippery slope,"**answer:** circular reasoning
+
+**explanation:** the argument assumes that the existence of an adventure mode would inevitably lead to players requesting higher level starts and access to all game items. this premise is not logically connected to the existence of an adventure mode and is therefore a circular reasoning fallacy.",False,circular reasoning
+1,That leads to me believe that most cat lovers are really shy.,hasty generalization,"**answer:** appeal to authority.
+
+**explanation:** the argument assumes that because experts agree on a conclusion, it must be correct. this ignores the possibility that the experts are simply biased or wrong. the argument also ignores the fact that consensus does not necessarily mean that the conclusion is correct.",False,appeal to (false) authority
+2,"Someone once told me they have an""alt"" cause their main account was too high of rank to play with their friends. It's exactly the same as smurfing.",false analogy,"**answer:** appeal to analogy
+
+**explanation:** the argument confuses the different ranking systems of two different online platforms (main account and alt account) to support the premise that having an alt account is analogous to smurfing (a strategy of using multiple accounts to gain an unfair advantage).",False,false analogy
+3,Joe Biden will lose to Trump if he is the nominee. The Democratic party clearly has not learned the right lesson from Hillary Clinton's miserable failure.,guilt by association,"**answer:** appeal to authority.
+
+**explanation:** the argument assumes that the democratic party will lose the next election simply because they have not learned the right lesson from hillary clinton's defeat, without providing any evidence or reasoning to support this claim.",False,appeal to (false) authority
+4,Joe Biden will lose to Trump if he is the nominee. The Democratic party clearly has not learned the right lesson from Hillary Clinton's miserable failure. NOBODY WANTS ESTABLISHMENT POLITICIANS ANYMORE. NOBODY LIKES THE STATUS QUO.,causal oversimplification,"**answer:** appeal to generalizability
+
+**explanation:** the premise assumes that the democratic party's loss in the previous election is directly applicable to the upcoming election, without considering other factors such as the candidate, political landscape, or voter turnout.",False,hasty generalization
+5,The Democratic party clearly has not learned the right lesson from Hillary Clinton's miserable failure. NOBODY WANTS ESTABLISHMENT POLITICIANS ANYMORE. NOBODY LIKES THE STATUS QUO.,ad populum,"**answer:** appeal to generalizability
+
+**explanation:** the premise assumes that the democratic party's loss of popularity is solely due to hillary clinton's performance. this ignores other factors that may have influenced the party's decline in popularity, such as economic or political factors. the argument commits the fallacy of generalizing from a specific case (hillary clinton's loss) to a broader population (democratic party).",False,hasty generalization
+6,The status quo in America is that its the best its ever been. We live in one of the best societies in the best times that humans have ever experienced.,circular reasoning,"**answer:** appeal to selective perception.
+
+**explanation:** the statement ignores negative aspects of society and focuses only on the positive aspects to support the conclusion that it is the best time ever. the argument ignores the existence of social and economic problems that persist in america.",False,no match
+7,"America is the best place to live, because it's better than any other country.",circular reasoning,"**answer:** circular reasoning
+
+**explanation:** the statement relies on its own premise (i.e., america is the best place to live) to support its conclusion that it is the best place to live. the premise is simply a restatement of the conclusion, creating a circular reasoning argument where no useful information is being shared.",True,circular reasoning
+8,"Let us move now to the future. It is not enough to stand on this record because we are dealing with the most ruthless, fanatical... leaders that the world has ever seen.",appeal to fear,"**answer:** appeal to fear
+
+**explanation:** the statement suggests that future leaders will be more ruthless and fanatical than any previous leaders, implying that past experiences are not relevant or applicable to the present. this is a fallacy as it relies on an exaggerated and speculative generalization about future events based on assumptions rather than evidence or historical data.",True,appeal to fear
+9,"That is why I say that in this period of the sixties, America must move forward in every area.",causal oversimplification,"**answer:** appeal to authority.
+
+**explanation:** the argument suggests that because some experts agree on a conclusion, it must be true. however, this ignores the fact that experts can be wrong, and that consensus does not necessarily indicate truth.",False,appeal to (false) authority
+10,Delores is a big supporter for equal pay for equal work. This is the same policy that all those extreme feminist groups support. Extremists like Delores should not be taken seriously -- at least politically.,ad hominem,"**answer:** appeal to stereotype
+
+**explanation:** the argument assumes that all feminists are extreme and should not be taken seriously, simply because the speaker disagrees with their political stance on equal pay. this is a generalization that is not necessarily true of all feminists.",False,no match
+11,"""Four out of five dentists recommend Happy Glossy toothpaste. Therefore, it must be great.""",appeal to (false) authority,"**answer:** appeal to authority
+
+**explanation:**
+the argument assumes that because four out of five dentists recommend a product, it must be great. however, this ignores the fact that dentists may recommend products for various reasons, such as commissions or personal preferences, not necessarily because they are truly great.",False,appeal to (false) authority
+12,Once they wear masks your anxiety will force you to demand the next step. biohazard suits? get real.,slippery slope,"**answer:** appeal to anxiety
+
+**explanation:** the statement suggests that once people wear masks, their anxiety will compel them to demand the next step in protective gear, ultimately leading to an extreme response. this implies that masks cause anxiety, which is not necessarily true. the argument exploits the natural human tendency to feel anxious in unfamiliar or potentially dangerous situations.",False,no match
+13,"The last Democrat winner of the New Hampshire primary won the general election. This year, the winner of the New Hampshire primary will win the general election.",causal oversimplification,"**answer:** circular reasoning
+
+**explanation:** the argument assumes that the winner of the new hampshire primary will win the general election, based on the premise that the last democrat winner of the new hampshire primary won the general election. however, this premise is not necessarily true, as there have been instances where the new hampshire primary winner did not win the general election. therefore, the argument commits a circular reasoning fallacy by relying on its own premise to support its conclusion.",False,circular reasoning
+14,"Men score better on math than women do. Jerry is a man. Therefore, Jerry is better at math than Sylvia, who is a woman.",fallacy of division,"**answer:** circular reasoning
+
+**explanation:** the argument relies on the premise that men are better at math than women. this premise is used to support the conclusion that jerry is better at math than sylvia. however, the premise itself is supported by the argument, creating a circular reasoning.",False,circular reasoning
+15,So much important stuff in the world that needs political activism. Makes a petition to portbeg P5 onto PC and Switch.,Appeal to Ridicule,"**answer:** answer: ad hominem
+
+**explanation:** the argument avoids addressing the actual issue by redirecting the attention to the motivations or qualifications of the person making the argument rather than the merits of the argument itself. the argument suggests that the importance of political activism should be judged based on the personal actions of the person making the argument rather than the inherent value of the cause itself.",False,ad hominem
+16,Carbon dioxide hurts nobody' s health. It' s good for plants.,false analogy,"**answer:** circular reasoning
+
+**explanation:** the argument relies on its own premise (co2 is good for plants) to support its conclusion (co2 hurts nobody's health). the premise is supported by the conclusion, creating a circular reasoning where no useful information is being shared.",False,circular reasoning
+17,Carbon dioxide hurts nobody' s health. It' s good for plants. Climate change need not endanger anyone.,causal oversimplification,"**answer:** answer: appeal to cherry picking.
+
+**explanation:** the argument selectively presents only the benefits of carbon dioxide for plants while ignoring its harmful effects on human health and the environment. the argument ignores the vast body of scientific evidence demonstrating the negative impacts of carbon dioxide emissions on climate change and its associated health consequences.",False,causal oversimplification
+18,"Mr. Governor issues a proclamation for the people of his state to pray for rain. Several months later, it rains. Praise the gods!",Appeal to Ridicule,"**answer:** appeal to authority
+
+**explanation:** the statement relies on the apparent authority of the governor to justify the claim that the rain is due to prayer. however, the validity of the governor's proclamation as evidence for the effectiveness of prayer is not established.",False,appeal to (false) authority
+19,"Iran has moved forward with its nuclear weapons program. They're more dangerous today than they were four years ago. North Korea has moved forward with their nuclear weapons program, gone from one to two nuclear weapons to six to eight nuclear weapons. This vice president has been an advocate for over a decade for lifting sanctions against Iran, the largest state sponsor of terrorism on the planet. It's a mistake.",appeal to fear,"**answer:** appeal to authority
+
+**explanation:** the argument assumes that the speaker's opinion aligns with the positions of the experts, without providing any evidence that this is the case. the argument relies on the apparent authority of the experts to support the conclusion that lifting sanctions against iran is a mistake. however, the argument does not explain how the experts' knowledge or experience qualifies them to make such a judgment.",False,appeal to (false) authority
+20,"North Korea has moved forward with their nuclear weapons program, gone from one to two nuclear weapons to six to eight nuclear weapons. This vice president has been an advocate for over a decade for lifting sanctions against Iran, the largest state sponsor of terrorism on the planet. It's a mistake.",false analogy,"**answer:** circular reasoning
+
+**explanation:** the argument assumes that the lifting of sanctions against iran would result in them acquiring nuclear weapons, without providing any evidence or reasoning to support this claim. the premise (lifting sanctions) is therefore dependent on the conclusion (iran acquiring nuclear weapons), and the conclusion is dependent on the premise, creating a circular reasoning fallacy.",False,circular reasoning
+21,"This vice president has been an advocate for over a decade for lifting sanctions against Iran, the largest state sponsor of terrorism on the planet. It's a mistake.",guilt by association,"**answer:** ad hominem
+
+**explanation:** the argument attacks the character or past actions of the vice president rather than addressing the merits of the policy itself. the argument suggests that the vice president is incompetent or has made a mistake simply because they have advocated for lifting sanctions against iran. this is a fallacy as it ignores the possibility that the vice president may have valid reasons for supporting such a policy.",False,ad hominem
+22,You cant stop nature. Youre going to be infected if you havent already. We are always trying to fight nature. We just have to let it run its course.,appeal to nature,"**answer:** appeal to fear.
+
+**explanation:** the statement suggests that one cannot escape infection by avoiding contact with nature. this implies that infection is inevitable and that attempting to control or prevent infection is futile. this is an appeal to fear because it exploits the natural human tendency to avoid or fear danger.",False,appeal to fear
+23,"The majority of the class says they prefer grape flavored drinks, so Jeff tells his superiors that grape is the flavor favored most by high school students.",hasty generalization,"**answer:** appeal to majority
+
+**explanation:** the argument assumes that just because the majority of the class prefers grape flavored drinks, that it is therefore the flavor favored most by high school students. this ignores the fact that preference surveys are not necessarily accurate predictors of behavior, and that there may be many high school students who prefer other flavors.",False,ad populum
+24,The Freehold Raceway Mall is the best mall because there are always so many cars there.,causal oversimplification,"**answer:** appeal to popularity
+
+**explanation:** the argument assumes that the popularity of a place is an indicator of its quality or excellence. however, this overlooks other factors that contribute to the popularity of a place, such as the number of people who visit it or the availability of parking.",False,ad populum
+25,This is law school arrogance at its finest. Why not a brain surgeon?,Appeal to Ridicule,"**answer:** answer: appeal to authority
+
+**explanation:** the statement assumes that the experts' opinions are authoritative and that their agreement is definitive, regardless of the merit of their reasoning or the quality of their expertise. this is a common fallacy used to establish the validity of an argument by appealing to the perceived authority of the speaker or the supposed authority of the group.",False,appeal to (false) authority
+26,"Along the Russian coastline, which makes up more than half the Arctic total, winds and currents push old ice away from potential shipping lanes and prevent the build-up of thicker, multi-year ice that would leave other parts of the Arctic impassable for longer periods.",nothing,"**answer:** nothing.
+
+**explanation:** the description of the experiment involves hypothetical situations and criteria for reaching a decision, and does not relate to any logical fallacy.",True,nothing
+27,"My first day of basketball practice was easy, so it will always be easy.",false causality,"**answer:** circular reasoning
+
+**explanation:** the premise assumes that because something was easy on one occasion, it will always be easy. however, this ignores the fact that various factors can influence the difficulty or ease of an activity on different occasions. the statement fails to acknowledge that future practices may be more challenging than the first one.",False,circular reasoning
+28,Don't listen to him! He's a terrible person! I saw him trip another student and steal his lunch money!,ad hominem,"answer: ad hominem.
+
+explanation: the arguer attacks the character of the person making the argument rather than addressing the actual argument itself. the arguer's personal opinion of the person has no bearing on the validity of the original argument.",True,ad hominem
+29,"The left is asking for expanding background checks, closing the gun show loop hole, maybe registering firearms and creating a system that addresses or catches strawman purchases.",nothing,"answer: appeal to authority.
+
+explanation: the argument assumes that because some experts agree on a certain policy, it must be correct. however, this ignores the fact that experts can be wrong, and that consensus does not necessarily indicate truth.",False,appeal to (false) authority
+30,"Several years ago, a group of 10 psychologists started a psychology training program. Each of those psychologists is efficient, effective, and highly-regarded. Their training program must be efficient, effective, and highly-regarded.",causal oversimplification,"**answer:** answer: circular reasoning
+
+**explanation:** the argument assumes that if a group of experts agree on something, then it must be true. this is a circular reasoning fallacy because it relies on the premise that an agreement among experts is sufficient to establish the truth of a proposition. in reality, experts can be wrong, and their agreement does not necessarily mean that their conclusion is correct.",False,circular reasoning
+31,"efficient, effective, and highly-regarded. Their training program must be efficient, effective, and highly-regarded.",false analogy,"**answer:** circular reasoning
+
+**explanation:** the statement relies on its own premise (i.e., the experts are efficient, effective, and highly-regarded) to support its conclusion that the training program must be efficient, effective, and highly-regarded. however, the premise itself relies on the conclusion, creating a circular reasoning argument.",False,circular reasoning
+32,"I lost my phone in the living room, so it will always be in the living room when it is lost.",false causality,"**answer:** circular reasoning
+
+**explanation:** the statement assumes that because the phone has always been in the living room when it was lost in the past, it will continue to be in the living room in the future. this ignores the possibility that the phone may be lost in other locations in the future. the argument relies on its own premise (phone will always be in living room) to support its conclusion (phone will always be in living room when lost).",False,circular reasoning
+33,"So was the bar burned by a mob and the owner killed? If not, Christians have a ways to go before they are on par with Muslims.",false dilemma,"**answer:** appeal to religious prejudice.
+
+**explanation:** the premise implies that christians are inferior to muslims, implying that christians must engage in harmful actions to reach the same level as muslims. this relies on a generalization and stereotype about an entire religious group.",False,no match
+34,"If you sell at bottom, you're either panicking or trying to crash the price of the asset you're selling.",false dilemma,"**answer:** appeal to emotion
+
+**explanation:** the statement suggests that selling at a low price is either a sign of panic or an attempt to manipulate the market. this is an emotional argument rather than a logical one based on evidence or reason.",False,appeal to emotion (level 1)
+35,So now the far left is going to have to admit that there is a difference between the brains of men and women and their behavior isn't just a social construct that is created by what toys they are raised with?,straw man,"**answer:** appeal to authority
+
+**explanation:** the statement suggests that the far left must acknowledge the biological differences between men and women because three experts have concluded so. this relies on the apparent authority of the experts, but it ignores the fact that expertise in a particular field does not necessarily mean having accurate knowledge about other unrelated fields.",False,appeal to (false) authority
+36,So now the far left is going to have to admit that there is a difference between the brains of men and women and their behavior isn't just a social construct that is created by what toys they are raised with? Looks like the exception is charging to the rescue of the norm. Plot twist!,hasty generalization,"**answer:** appeal to authority.
+
+**explanation:** the argument assumes that the experts' conclusions must be correct simply because they are experts. however, this ignores the possibility that the experts could be wrong or that their conclusions may not be applicable to the specific situation being discussed.",False,appeal to (false) authority
+37,"The spider that bit was poison, therefore all spiders are poison.",hasty generalization,"**answer:** affirming the consequent.
+
+**explanation:** the argument assumes that if a spider bites and it is poisonous, then all spiders are poisonous. however, this overlooks the fact that there are many species of spiders that are not poisonous. the argument fails to consider other possible factors that may determine whether a spider is poisonous, such as its species or habitat.",False,no match
+38,What precisely makes these world leaders so convinced that climate change is a more urgent and massive threat than the incessant rampages of Islamist violence?,appeal to anger,"**answer:** appeal to worst-case scenario
+
+**explanation:** the statement implies that world leaders are more convinced of the urgency of climate change than the threat of islamist violence due to a perceived greater potential for catastrophic damage from climate change. however, this is an appeal to the worst-case scenario, as it assumes that the actual impact of climate change will be as severe as the most pessimistic projections.",False,no match
+39,"These are unidentified people, and after the bomb goes off, they're blown to bits because they are suicidal individuals who think they're going to go to paradise if they perpetrate such an act and lose their life in doing it.",nothing,"**answer:** appeal to emotion (specifically, the use of fear and morbid imagery to manipulate the audience's emotions in order to support the conclusion).
+
+**reasoning:**
+- the statement assumes that the experts' thinking processes are susceptible to emotional influences.
+- it suggests that the experts' willingness to leave the group if they realize they are wrong implies that their conclusions are primarily driven by fear or a desire to conform.
+- the argument exploits the audience's emotions by presenting a disturbing and potentially manipulative scenario to support the claim.",False,appeal to fear
+39,"These are unidentified people, and after the bomb goes off, they're blown to bits because they are suicidal individuals who think they're going to go to paradise if they perpetrate such an act and lose their life in doing it.",nothing,"**answer:** appeal to emotion (specifically, the use of fear and morbid imagery to manipulate the audience's emotions in order to support the conclusion).
+
+**reasoning:**
+- the statement assumes that the experts' thinking processes are susceptible to emotional influences.
+- it suggests that the experts' willingness to leave the group if they realize they are wrong implies that their conclusions are primarily driven by fear or a desire to conform.
+- the argument exploits the audience's emotions by presenting a disturbing and potentially manipulative scenario to support the claim.",False,appeal to emotion (level 1)
+40,smoking cigarettes is deadly because cigarettes can kill you,circular reasoning,"**answer:** circular reasoning
+
+**explanation:** 
+the argument relies on its own premise (cigarettes are deadly because they can kill you) to support its conclusion that smoking cigarettes is deadly. however, the premise itself is based on the argument, creating a circular reasoning where no useful information is being shared.",True,circular reasoning
+41,"Do any of you self-righteous pricks understand in the slightest capacity how nature works? There are 4.6 BILLION FUCKING YEARS of evolution on this planet across hundreds upon hundreds of millions of species and not a goddamned one of them, with the exception of you idiots, has any problem with killing for food.",ad hominem,"**answer:** ad hominem
+
+**explanation:** the statement attacks the character of the people who disagree with the arguer rather than addressing the actual argument. this is a fallacy because it is irrelevant to the truth or falsity of the claim to attack the character of those who disagree.",True,ad hominem
+42,"There are 4.6 BILLION FUCKING YEARS of evolution on this planet across hundreds upon hundreds of millions of species and not a goddamned one of them, with the exception of you idiots, has any problem with killing for food. It's in the DNA of every single creature on this planet, and it's the SOLE FUCKING REASON that either of us exist. Killing for food is 100% acceptable and morally right, and the suffering of the animals involved is fucking irrelevant. Lions don't give a fuck about the screams of a wildebeest as they disembowel it for a dinner. There is nothing, save for your ego, that gives you a reason to act or feel any different.",appeal to nature,"**answer:** appeal to indifference.
+
+**reasoning:** the author argues that because other creatures have engaged in killing for food throughout evolutionary history, it is morally acceptable for humans to do the same. this argument ignores the fact that human consciousness and morality are unique among animals and that our actions have far-reaching consequences that extend beyond our own survival.",False,no match
+43,"Everybody who's looked at it, 500 economists, seven Nobel prize winners, say it's bad for the economy.",appeal to (false) authority,"**answer:** appeal to authority
+
+**explanation:** the argument assumes that the opinion of numerous experts is an infallible indicator of truth, without considering the possibility of bias or limitations in their knowledge or reasoning.",False,appeal to (false) authority
+44,It's going to blow a hole in the deficit It's going to raise taxes on nine million people and require bigger cuts than the one I vetoed.,appeal to fear,"**answer:** appeal to fear
+
+**explanation:** 
+- the statement suggests that if we don't bail out the big automakers, the us economy will collapse. 
+- however, there is no evidence or reason provided to support this claim. 
+- this reliance on fear without adequate evidence constitutes an appeal to fear fallacy.",True,appeal to fear
+45,"It's going to blow a hole in the deficit It's going to raise taxes on nine million people and require bigger cuts than the one I vetoed. Our plan is better, it will take us into the future with a growing economy and healthier families.",false dilemma,"**answer:** appeal to authority.
+
+**explanation:** the statement assumes that the plan is better simply because some experts believe it will lead to a growing economy and healthier families without providing any evidence or reasoning to support this claim.",False,appeal to (false) authority
+46,"Our plan is better, it will take us into the future with a growing economy and healthier families.",appeal to positive emotion,"**answer:** appeal to authority.
+
+**explanation:** the statement suggests that because some experts have reached a conclusion, it must be correct. however, this ignores the fact that experts can be wrong and that consensus among experts is not always reliable.",False,appeal to (false) authority
+47,"If indoor smoking laws are passed for bars, the bars will go out of business since people who drink, smoke while they drink.",causal oversimplification,"**answer:** appeal to consequence
+
+**explanation:** the premise suggests that if smoking is banned indoors, bars will go bankrupt due to loss of business from patrons who enjoy drinking and smoking simultaneously. however, this overlooks the possibility that bars could adapt to the laws by offering alternative options such as outdoor smoking areas or non-smoking sections. the argument does not consider other factors that could influence the viability of bars, such as changes in customer preferences, market competition, or other economic factors.",False,no match
+48,"You should drive on the right side of the road because that is what the law says, and the law is the law.",circular reasoning,"**answer:** appeal to authority.
+
+**explanation:** the statement assumes that the law is always correct and should be blindly followed without question. however, the law is not always perfect and can sometimes contain flaws or be unjust.",False,appeal to (false) authority
+49,"If that were the case, a lot of pro vaxxers wouldn't have an informed opinion either and let's be honest: they don't.",hasty generalization,"**answer:** appeal to authority.
+
+**explanation:** the argument suggests that if experts disagree with each other, they must be wrong and thus cannot form an informed opinion. this ignores the fact that experts can disagree with each other and still be correct, and that forming an informed opinion requires considering multiple perspectives.",False,appeal to (false) authority
+50,"If that were the case, a lot of pro vaxxers wouldn't have an informed opinion either and let's be honest: they don't. Herd mentality is as much a thing as herd immunity.",equivocation,"**answer:** appeal to authority.
+
+**explanation:** the statement suggests that if experts disagree with each other, they must be wrong. this ignores the possibility that all three experts could be correct or that they may simply have different perspectives. the argument relies on the authority of experts to establish its conclusion, rather than on evidence or reason.",False,appeal to (false) authority
+51,"What antivaxxers need is someone with a PhD drawing a conclusion they agree with so they can repeat and circlejerk that to oblivion. And someone with a PhD should know the difference between an actual result and""oh hey one number out of 100 says this so it must be true"".",Appeal to Ridicule,"**answer:** appeal to authority
+
+**explanation:** the statement suggests that only someone with a phd can understand and interpret data correctly, and that their authority is necessary to validate the claims of antivaxxers. this is a fallacy as it implies that only experts can have valid opinions or understanding of a subject, and that any non-expert opinion is inherently invalid.",False,appeal to (false) authority
+52,"It happened because I could work with people -- Republicans and Democrats. That's why we've had 24 retired generals and admirals, hundreds of business people, many of them Republican, support this campaign. You have to decide whether you want to change or not.",appeal to (false) authority,"**answer:** appeal to authority
+
+**explanation:** the argument assumes that the support of 24 retired generals and admirals, and hundreds of business people, is evidence that the candidate is qualified and capable. however, the expertise of individuals in a particular field does not necessarily translate to their political qualifications or abilities.",False,appeal to (false) authority
+53,You have to decide whether you want to change or not.,false dilemma,"**answer:** circular reasoning
+
+**explanation:** the statement relies on the premise that if any expert realizes they are wrong at any point, they will leave. this premise is not necessarily true, and the argument does not provide any evidence to support it. therefore, the argument is a circular reasoning, which is a logical fallacy in which the conclusion depends on the premise, and the premise depends on the conclusion.",False,circular reasoning
+54,Fortnite is the best game ever. Everyone is playing it!,ad populum,"**answer:** circular reasoning
+
+**explanation:** the argument relies on its own premise (fortnite is the best game ever) to support its conclusion (everyone is playing it). however, the premise is simply the conclusion restated, creating a circular reasoning fallacy.",False,circular reasoning
+55,"Every sunrise, the rooster makes a sound. So it is the rooster which makes the sun rise.",false causality,"**answer:** circular reasoning
+
+**explanation:** the argument assumes that because every sunrise is accompanied by a rooster's sound, the rooster is responsible for causing the sunrise. however, the premise itself relies on the premise that the rooster's crowing is a sufficient and necessary condition for the sunrise, which is not necessarily true.",False,circular reasoning
+56,I passed my math test after going out to the movies the night before. I should go to the movies the night before every math test!,false causality,"**answer:** appeal to anecdote.
+
+**explanation:** the argument assumes that the outcome of the math test is always the same when going to the movies the night before. however, this argument lacks sufficient evidence to generalize the outcome of future tests based on a single instance.",False,no match
+57,"According to Freud, your belief in God stems from your need for a strong father figure. So don't you see that it's silly to continue believing in God?",Appeal to Ridicule,"**answer:** appeal to authority.
+
+**explanation:** the statement relies on freud's psychological theory to support the conclusion that believing in god is irrational. however, the statement does not provide any evidence or reasoning to show that freud's theory is applicable to the belief in god.",False,appeal to (false) authority
+58,Human are omnivores. End of argument.,appeal to nature,"**answer:** answer: appeal to authority
+
+**explanation:** the argument relies on the supposed authority of experts to establish the conclusion that humans are omnivores. however, the argument provides no evidence or explanation as to why the experts are qualified to make such a determination. additionally, the premise does not guarantee the conclusion, as it is possible that the experts could disagree or change their minds based on further evidence or reasoning.",False,appeal to (false) authority
+59,I got into a discussion with someone on here who claimed that even though he supported legalized abortion and was pro choice he still received.,false dilemma,"**answer:** circular reasoning
+
+**explanation:** the argument relies on its own premise (legalized abortion is supported by those who are pro-choice) to support its conclusion that only those who are pro-choice would support legalized abortion. however, the premise is simply a restatement of the conclusion, creating a circular reasoning that provides no new information or evidence.",False,circular reasoning
+60,And he was flippant and dismissive. The Eucharist is not a reward or something you deserve if you are obstinate to church teachings,ad hominem,"**answer:** appeal to authority.
+
+**explanation:** the argument assumes that the experts' opinions are authoritative and that their agreement on a conclusion necessarily signifies its validity. however, this ignores the possibility that the experts may be wrong or that their conclusions may be based on biased or incomplete information.",False,appeal to (false) authority
+61,"Choosing compassion over virtue signaling should not place any individual in mortal sin. After all, 51% of US Catholics believe abortion should be legal in all or most cases.",ad populum,"**answer:** appeal to majority
+
+**explanation:** the argument suggests that because a majority of us catholics believe abortion should be legal in all or most cases, it is therefore acceptable for individuals to choose compassion over virtue signaling on the issue. this relies on the fallacy of appealing to majority, which assumes that something is true simply because it is popular or widely believed. the argument ignores the fact that moral and ethical considerations are often independent of popular opinion.",False,ad populum
+62,"I dont have to justify it, vegans assume most people consider an animal life to be on par with human life, its not.",straw man,"**answer:** appeal to assumption.
+
+**reasoning:** the argument assumes that all people consider the life of an animal to be on par with that of a human, which is not necessarily true. the argument fails to acknowledge that people may have different perspectives on the value of animal life.",False,no match
+63,"There is nothing morally wrong about killing animals for food, you realise animals kill other animals for food too right?",appeal to nature,"**answer:** appeal to analogy
+
+**explanation:** the argument confuses the moral status of animals based on their behavior with the moral status of humans. while it is true that animals engage in predation, this does not automatically justify human predation of animals. the difference between human and animal predation is significant, as humans have the capacity for conscious awareness and moral reasoning, which should be considered when evaluating the morality of actions towards animals.",False,false analogy
+64,We won the Cold War because we invested and we went forward.,causal oversimplification,"**answer:** answer: appeal to authority
+
+**explanation:** the statement implies that the cold war was won solely due to the united states' investment and forward progress, implying that the outcome was predetermined by human agency rather than factors such as ideological shifts, geopolitical dynamics, or the actions of other countries. this overlooks the complex factors that contributed to the cold war's conclusion and simplifies the historical process.",False,appeal to (false) authority
+65,"He was born to Catholic parents and raised as a Catholic until his confirmation in 8th grade. Therefore, he is bound to want to defend some Catholic traditions and, therefore, cannot be taken seriously.",false causality,"**answer:** appeal to religious prejudice.
+
+**reasoning:** the premise assumes that all people who are raised catholic will automatically defend catholic traditions. this is a generalization that does not take into account individual beliefs and experiences. it is unfair and disrespectful to prejudge someone based on their religious background.",False,no match
+66,"Therefore, he is bound to want to defend some Catholic traditions and, therefore, cannot be taken seriously.",ad hominem,"**answer:** appeal to authority.
+
+**reasoning:** the argument assumes that because some experts may change their minds based on new information, the author can conclude that any expert who defends catholic traditions cannot be taken seriously. this ignores the fact that experts can change their minds based on new information and that the quality of an expert's arguments is not necessarily related to their adherence to particular traditions.",False,appeal to (false) authority
+67,"As a matter of fact, the tools now given to the terrorist fighters are the same tools that we've been using against drug dealers and white-collar criminals.",nothing,"answer: appeal to analogy.
+
+explanation: the argument confuses the classification of terrorist fighters with that of drug dealers and white-collar criminals, implying that they are all treated equally by the authorities. this is inaccurate and fails to consider the different legal and security frameworks applicable to each category.",False,false analogy
+68,My way of responding to difficult patients is by far the most ethical because no other way is so ethical and it is the only way that is completely ethical.,circular reasoning,"answer: appeal to uniqueness
+
+explanation: the statement suggests that the speaker's way of dealing with patients is unique and therefore ethical. this ignores the fact that other methods may also be ethical and effective. the uniqueness of the method is not evidence of its ethicality.",False,no match
+69,"Well, democracy gave us Trump to the whole world. I'll let others judge what democracy is.",causal oversimplification,"**answer:** appeal to ignorance
+
+**explanation:** the statement suggests that democracy is flawed because it led to the election of donald trump. however, this ignores the fact that there are many factors that contribute to the outcome of elections and that democracy is not necessarily responsible for the actions or policies of its leaders.",False,no match
+70,"Chihuahuas are good inside dogs. German Shepherds are dogs; therefore, German Shepherds would be good inside dogs, too.",false analogy,"**answer:** circular reasoning
+
+**explanation:** the argument relies on its own premise (chihuahuas are good inside dogs) to support its conclusion (german shepherds would be good inside dogs, too). however, the premise itself is based on an assumption that is not explicitly stated or supported. this creates a circular reasoning, where the conclusion depends on the premise, which in turn depends on the conclusion.",False,circular reasoning
+71,"Most animals, including humans are meant to consume meat. Humans would've probably died out by eating vegetables alone. So why not doing what we were meant to do by enjoying some salmon?",appeal to nature,"**answer:** answer: appeal to authority.
+
+**explanation:** the argument assumes that because animals consume meat, humans are also meant to consume meat, without providing any evidence or evolutionary studies to support this claim.",False,appeal to (false) authority
+72,So why not doing what we were meant to do by enjoying some salmon? Or do you actually think fish is okay since you don't think they look cute?,Appeal to Ridicule,"**answer:** appeal to emotion
+
+**explanation:** the statement suggests that the enjoyment of salmon is a fundamental purpose for human existence based on an emotional response to the perceived cuteness of fish. this ignores the complex motivations and values that drive human behavior and relies on an emotional appeal rather than logical reasoning or empirical evidence to support the claim.",False,appeal to emotion (level 1)
+73,The United States is the wealthiest nation in the world. So every American is wealthy.,fallacy of division,"**answer:** answer: hasty generalization
+
+**explanation:** the premise suggests that because the united states is the wealthiest nation in the world, every individual in the united states is wealthy. however, this ignores the fact that wealth is distributed unevenly within a population, and there are individuals in the united states who are not wealthy. the argument fails to consider other factors that contribute to wealth inequality, such as income distribution, access to education, and social circumstances.",False,hasty generalization
+74,"As he goes by, the driver yells""get on the sidewalk where you belong!"" Sam sees that the car has Ohio plates and concludes that all Ohio drivers are jerks.",hasty generalization,"**answer:** hasty generalization
+
+**explanation:** the driver's outburst does not provide sufficient evidence to conclude that all ohio drivers are jerks. the speaker's conclusion fails to consider other possible factors that may influence the behavior of individual drivers, such as their personality, driving habits, and the specific circumstances of the encounter.",True,hasty generalization
+75,Advancement and maybe kickbacks? Either that or he's just a psychopath who gets off on destroying people's lives. Either way this asshole should never see the light of day again.,false dilemma,"**answer:** appeal to hasty generalization.
+
+**reasoning:** the argument assumes that because some experts might change their minds during the process, the final agreement must be accurate or valid. this ignores the possibility that all three experts could be wrong or that their individual steps in reaching their conclusions might be flawed.",False,hasty generalization
+76,Either that or he's just a psychopath who gets off on destroying people's lives. Either way this asshole should never see the light of day again.,ad hominem,"**answer:** circular reasoning
+
+**explanation:** the argument assumes that the experts' conclusions must eventually converge, regardless of the validity of their reasoning or the accuracy of their initial assumptions. this overlooks the possibility that the experts may simply be wrong or that their conclusions may be based on flawed reasoning.",False,circular reasoning
+77,"only man is rational no women is man Therefore, no women is rational",equivocation,"**answer:** answer: gender bias
+
+**explanation:** this argument commits the fallacy of gender bias by making a generalization that all men are rational and all women are irrational. this is a false dichotomy that fails to acknowledge the diversity of rationality within both genders.",False,no match
+78,"You should never gamble. Once you start gambling you find it hard to stop. Soon you are spending all your money on gambling, and eventually you will turn to crime to support your earnings.",slippery slope,"answer: gambler's fallacy
+
+explanation: this argument relies on a common misconception or stereotype about gambling, which is that it is difficult to stop once one starts. however, this is not always the case. many people gamble without developing a problem. the argument fails to consider other factors that may influence whether someone develops a gambling problem, such as their personality, their environment, and their financial situation.",False,no match
+79,"If it is very low, for instance around one, it means greenhouse gas emissions are simply not worth doing anything about. But if ECS is high -- say, around four degrees or more -- then climate change is probably a big problem. We may not be able to stop it, but we' d better get ready to adapt to it.",false dilemma,"**answer:** appeal to authority.
+
+**explanation:** the argument assumes that the agreement of the three experts is definitive and authoritative, implying that their conclusions are necessarily valid. however, the validity of an argument does not depend on the agreement of a group of experts, especially if the basis for their agreement is not made clear or if there is reason to doubt their expertise in the matter.",False,appeal to (false) authority
+80,"Hopefully the police will use their resources on more serious issues such as knife crime, drug gangs and scooter criminals.",appeal to worse problems,"**answer:** appeal to resource allocation
+
+**explanation:** the argument suggests that the police should prioritize other crimes over traffic violations because the latter are less serious. however, this ignores the fact that all crimes contribute to a reduction in public safety and that the severity of a crime does not necessarily correlate with its significance.",False,no match
+81,From a practicing judge?,ad hominem,"**answer:** circular reasoning
+
+**explanation:** the argument assumes that the experts will rationally evaluate the information and leave if they realize they are wrong, leading to an eventual consensus. however, this ignores the possibility of bias, confirmation bias in particular, where experts may selectively interpret or discard information that contradicts their existing beliefs. this creates a circular reasoning where the conclusion (consensus) is supported by the premise (experts' willingness to reconsider), which is supported by the conclusion.",False,circular reasoning
+82,"So don't be upset someone is your age and way luckier than you, be thankful you weren't born into worse circumstances because there are likely plenty.",appeal to worse problems,"**answer:** appeal to comparative misfortune.
+
+**explanation:** the argument suggests that because some people are worse off than others, we should be thankful that we are not in their shoes. this overlooks the fact that everyone's situation is unique and that just because someone else has it worse does not mean our own situation is necessarily better.",False,no match
+83,"Also, fun fact, they've done studies and if you make around $80k in the US anything beyond that doesn't really contribute to your overall happiness.",straw man,"**answer:** appeal to consensus
+
+**explanation:** the statement suggests that if multiple experts reach an agreement on a conclusion, it must be correct. this ignores the possibility that the experts may be wrong or that their conclusions may be based on incomplete or biased information.",False,ad populum
+84,I think what's cooler about Post Malone and other wildly successful people is they are doing what they love doing. That's real success.,straw man,"**answer:** appeal to passion
+
+**explanation:** the argument assumes that doing what you love is the ultimate definition of real success, regardless of the outcome or results. this ignores other factors that contribute to success, such as hard work, talent, and external factors.",False,no match
+85,We know God exists because he made everything,circular reasoning,"**answer:** answer: argument from design
+
+**explanation:** the statement relies on the assumption that the existence of complex design in the universe necessarily implies the intervention of a designer (god). this is a classic argument from design, which is a logical fallacy that has been widely critiqued by scientists and philosophers alike.",False,no match
+86,"2 chicks rejected me for being a virgin. I had sex as soon as I started lying about having had sex. And all those weren't even casual sex, it was in the frame of relationships. Apparently it holds bearing on who you are as a person and you're not the same person when you loose it.",equivocation,"**answer:** appeal to authority.
+
+**explanation:** the argument assumes that the experts' thinking process will result in an accurate conclusion, simply because they are experts. this ignores the possibility that the experts may be wrong, or that their conclusions may not be applicable to the specific situation being considered.",False,appeal to (false) authority
+87,"The numbers show that we hit twice the audience with TV, and our focus groups remember the TV commercial 38 percent more than the radio slot.",nothing,"**answer:** appeal to authority
+
+**explanation:** the argument assumes that the experts' opinions are authoritative and that their agreement on a conclusion is valid simply because they are experts. however, the authority of experts can be questionable, and their agreement does not necessarily mean that their conclusion is correct.",False,appeal to (false) authority
+88,This is a ridiculous post and this mechanic will never be changed. Seat switching has always been a BF mechanic.,appeal to tradition,"**answer: circular reasoning**
+
+the argument suggests that because experts can change their minds when presented with new information, the process of reaching an agreement through shared thinking must be flawed. however, this ignores the fact that experts are constantly updating their knowledge and theories based on new evidence and insights. circular reasoning occurs when a premise is supported by its own conclusion or when the conclusion is simply a rephrasing of the premise.",False,circular reasoning
+89,Dont sit here and try and talk about realism or how you shouldnt be able to swap instantly between seats when there is hardly anything realistic about BF vehicle play in general.,Appeal to Ridicule,"answer: circular reasoning
+
+explanation: the statement assumes that the experts will inevitably reach an agreement, which implies that their initial judgments must be logically interconnected. however, this overlooks the possibility that the experts' initial judgments may be flawed or that they may not be able to reach consensus due to inherent disagreements.",False,circular reasoning
+90,Sounds like you need to get better if you are having trouble shooting down the most vulnerable aircraft in the sky.,Appeal to Ridicule,"**answer:** appeal to authority.
+
+**explanation:** the argument assumes that the experts are always right and will eventually reach a consensus, regardless of the validity of their reasoning or the accuracy of their conclusions. this is a flawed assumption as experts can be wrong and consensus does not always indicate truth.",False,appeal to (false) authority
+91,"Social media is the worst. People don't realize how much of an effect it has on someone, especially his generation.",hasty generalization,"**answer:** answer: appeal to generalization.
+
+**explanation:** the argument assumes that social media has a negative effect on everyone, regardless of age or individual experiences. however, this overlooks the fact that different people may have different experiences and perspectives regarding social media. the argument lacks sufficient evidence to support the claim that social media is universally harmful to everyone in the generation mentioned.",False,hasty generalization
+92,Anyone in the public eye who has any sort of mental health issue should rid themselves of their accounts if they possibly can.,false dilemma,"**answer:** answer: appeal to hasty generalization
+
+**explanation:** the argument suggests that anyone in the public eye who has any sort of mental health issue should rid themselves of their accounts. this conclusion is based on a hasty generalization from the premise that mental health issues are always a public embarrassment and should be hidden from the public. the argument ignores the fact that many people with mental health issues are able to live full and productive lives and may have valuable contributions to society.",False,hasty generalization
+93,"China has people in internment camps and people in the middle east get stoned for not wearing head scarves, but it's social media that's the worst?",appeal to worse problems,"**answer:** appeal to worst case scenario.
+
+**explanation:** the argument implies that social media is worse than oppressive practices in china and the middle east because it lacks physical constraints or immediate physical harm. however, this ignores the psychological and social harm caused by these oppressive practices. the argument unfairly compares the immediate physical consequences of physical oppression to the potential long-term social and psychological consequences of social media.",False,no match
+94,"Mr. Gough supports the cell phone ban and he's an idiot, so we should let teachers keep their cell phones.",ad hominem,"**answer: straw man**
+
+the argument misrepresents mr. gough's position by exaggerating his support for a cell phone ban and implying that he is an idiot. this distortion of the actual position allows the arguer to reject the conclusion without presenting any evidence against the original premise.",False,straw man
+95,"Bill, you drive a beat-up car from the 1980s. For this reason, we can never allow you to be a lifeguard at the community pool.",ad hominem,"**answer:** ad hominem
+
+**explanation:** the argument dismisses the person's qualifications (driving a beat-up car) rather than addressing the actual ability to be a lifeguard.",True,ad hominem
+96,The teenagers where rude and disrespectful therefore all teenagers are rude and disrespectful.,hasty generalization,"**answer:** appeal to hasty generalization.
+
+**explanation:** the argument assumes that all teenagers are rude and disrespectful based on the behavior of a few teenagers. however, this overlooks the fact that there are many respectful and well-behaved teenagers. the argument fails to consider the individuality of teenagers and the fact that their behavior is not necessarily representative of all teenagers.",True,hasty generalization
+97,"If you give the government *any* control over what is considered""hate speech"", you are basically relinquishing your freedom of speech. It's a slippery slope. For example: saying""hateful"" things about Islam becomes illegal. Let's say you criticise Sharia laws (laws based off of the rules set out in Islam for those who are unaware). Next thing you know, your own government has full power to censor this""hate"", and you are persecuted simply for disagreeing with the laws of an ally nation. Governments have shown time and time again that they are more than happy to censor and abuse their peoples. Don't ever relinquish your freedoms willingly.",appeal to fear,"**answer:** slippery slope
+
+**explanation:** the argument suggests that if the government controls what is considered ""hate speech"", it will inevitably censor other speech, leading to government censorship of all kinds of speech. this relies on an exaggerated and unlikely sequence of events, ignoring the fact that governments have complex legal and political systems for regulating speech that are distinct from the argument's hypothetical scenario.",False,slippery slope
+98,Governments have shown time and time again that they are more than happy to censor and abuse their peoples.,hasty generalization,"**answer:** appeal to authority.
+
+**reasoning:** the statement suggests that governments are universally prone to censorship and abuse, implying that any government that engages in such practices is untrustworthy. however, this generalisation lacks sufficient evidence to support the claim and overlooks instances where governments have protected and promoted freedom of expression and civil liberties.",False,appeal to (false) authority
+99,That means it must be really good!,ad populum,"**answer:** appeal to consensus
+
+**explanation:** the argument suggests that because multiple experts agree on something, it must be true. this ignores the possibility that the experts are simply wrong or that they are biased. the consensus of experts can be misleading, as evidenced by numerous historical instances where experts were wrong about things that seemed obvious to them at the time.",False,ad populum
+100,"If we ban Hummers because they are bad for the environment, then eventually the government will ban all cars; therefore, we should not ban Hummers.""",slippery slope,"**answer:** appeal to consequence.
+
+**reasoning:** the argument suggests that if we ban hummers because they are bad for the environment, eventually the government will ban all cars, so we should not ban hummers. this implies that if we start banning things that are bad for the environment, we will eventually ban everything, which is not necessarily true.",False,no match
+101,"My roommate from Maine loves lobsters, therefore all people from Maine love lobsters.",hasty generalization,"**answer: hasty generalization**
+
+**explanation:** the argument assumes that all people from maine love lobsters simply because one roommate from maine does. this overlooks the fact that there is significant individual variation within any population and that preferences for lobsters may differ among people from maine. the argument fails to consider other factors or characteristics that may influence people's food preferences.",True,hasty generalization
+102,I worked in an engineering factory for years and was never supplied a back belt so I now have a bad back and the only way I can get any sleep is to take 4 pain killers before bed or smoke one joint so I'll stick to what's natural rather than use so many painkillers my liver will be useless in a few years so cannabis for the win with me,appeal to nature,"**answer:** post hoc ergo propter hoc.
+
+**explanation:** the argument assumes that because the speaker used to consume cannabis and is now sleeping well, cannabis must be responsible for their current good sleep. however, this ignores other potential factors that could contribute to their improved sleep, such as changes in their diet, exercise habits, or sleep environment.",False,false causality
+103,There must be a firm basis to people hating Islam. There are many of us and we can't all be wrong.,ad populum,"**answer:** answer: appeal to mob mentality.
+
+**explanation:** the statement relies on the idea that just because many people hate islam, it must be true that there is a firm basis for that hatred. this ignores the possibility that people may have irrational or biased reasons for hating islam, or that the majority of people may simply be wrong about it.",False,no match
+104,"You are damn right i am and with good reason. With my own two eyes i have seen how it destroys countries, Islamic countries none the less.",false causality,"**answer:** appeal to prejudice.
+
+**explanation:** the premise assumes that islam is inherently destructive, without providing any evidence or reasoned argument to support this claim. this is a classic example of an appeal to prejudice, where a conclusion is drawn based on biased and unfounded assumptions about an entire group of people.",False,no match
+105,People that support this religion blowing each other up.,appeal to fear,"**answer:** answer: appeal to authority.
+
+**reasoning:** the argument assumes that just because some experts agree on something, it must be true. however, this ignores the possibility that the experts are simply wrong or that their expertise is not relevant to the issue.",False,appeal to (false) authority
+106,"You are doing a dis-service to your country being""politically correct"" in regard to Islam and your children will suffer because of it.",appeal to fear,"**answer:** appeal to fear.
+
+**reasoning:** the statement uses the fear of suffering children and the perceived disrespect towards islam to promote a specific political ideology. it implies that opposing a particular political stance will have negative consequences for society, specifically for the children of the arguer. this is an appeal to fear tactic commonly used to manipulate people's decisions based on exaggerated or unfounded fears.",True,appeal to fear
+107,Good thing CA is able to focus on this hugely important issue and doesn't have massive homelessness plaguing it's cities or an ever increasing affordable housing crisis to worry about.,appeal to worse problems,"**answer:** appeal to cherry picking.
+
+**explanation:** the statement selectively highlights california's apparent success in avoiding homelessness and housing crises, while omitting relevant information about challenges faced by other states. this tactic undermines the argument's credibility by presenting an incomplete and biased comparison.",False,causal oversimplification
+108,I'm so glad CA is at the forefront of tackling our nation's most pressing issues. Keep being a beacon of hope CA and I'm sure other states will follow.,Appeal to Ridicule,"**answer:** answer: bandwagon effect
+
+**explanation:** the statement relies on the principle that if one state (ca) is doing something, other states must follow suit. this ignores the fact that other states may have different circumstances and priorities, and that the success of one state's approach does not necessarily guarantee the success of the same approach in other states.",False,ad populum
+109,The policies of the last eight years and -- and Washington's unwillingness to tackle the tough problems for decades has left us in the worst economic crisis since the Great Depression.,causal oversimplification,"**answer:** appeal to ignorance.
+
+**reasoning:** the statement suggests that the current economic crisis is the worst since the great depression due to the alleged inaction of the government over the past eight years. however, this ignores other factors that contribute to economic crises, such as global events, technological advancements, and changes in consumer behavior. the statement unfairly blames the government for the current crisis without considering other contributing factors.",False,no match
+110,And that's why the biggest risk we could take right now is to adopt the same failed policies and the same failed politics that we've seen over the last eight years and somehow expect a different result.,appeal to fear,"**answer:** circular reasoning
+
+**explanation:** the argument assumes that simply repeating the same actions will eventually lead to a different outcome, without providing any evidence or reasoning to support this claim. this is a circular reasoning fallacy, as the conclusion (successful outcomes) is dependent on the premise (repeating the same actions), which is in turn dependent on the conclusion.",False,circular reasoning
+111,"Ive collectively had sex hundreds of times with my partners over the years, that doesn't make me better than someone who's had sex with more people, one time each.",false analogy,"answer: nothing
+
+explanation: the argument presents a hypothetical scenario involving multiple experts reaching an agreement through a process of iterative refinement and elimination of wrong answers. this scenario does not relate to the claim about sexual experiences and does not constitute a logical fallacy.",False,nothing
+112,Almost everyone in the world will look more favorably on a person who has had sex 100x times with one person versus having sex 1x each with 100 different people.,ad populum,"**answer:** appeal to generalizability
+
+**explanation:** the premise assumes that people will universally judge individuals who have had multiple sexual partners more favorably than those who have had fewer partners. this overlooks the fact that individual preferences and values may vary widely among people and that other factors besides the number of sexual partners can influence how people perceive others.",False,hasty generalization
+113,I work 6 ten hour days very frequently and don't get weekends off. In a way it's pretty insulting to see people angry with a 9-5 40 hour work week. I'd be so grateful to have that extra time to spend with my family and friends.,appeal to pity,"**answer:** appeal to envy
+
+**explanation:** the argument assumes that people with 9-5 jobs are envious of those who work longer hours and therefore have less free time. this is a generalization that is not necessarily true for everyone. the arguer's own work schedule may simply reflect their own values and preferences, rather than a general characteristic of all people with 9-5 jobs.",False,no match
+114,A few students are misbehaving...therefore the whole class is bad.,hasty generalization,"**answer:** appeal to hasty generalization
+
+**explanation:** the argument assumes that if a few students are misbehaving, then the whole class must be bad. this is a generalization that is not necessarily true. the behavior of a few individuals does not necessarily reflect the behavior of the whole group.",True,hasty generalization
+115,It implies an existing framework of what the extremes of diet are or can be.,straw man,"**answer:** circular reasoning
+
+**explanation:** the statement assumes that because experts can potentially change their minds upon encountering contradictory evidence, the process of their reasoning must ultimately lead to a shared understanding. this ignores the reality that experts can change their minds based on new evidence or changes in their understanding of the issue.",False,circular reasoning
+116,"For example, if we're speaking'natural' diet. Balance can't include any refined sugar at all because we weren't able to process it. Before the food pyramid came around the upper end of sugar consumption would have been much lower.",straw man,"**answer:** appeal to authority.
+
+**explanation:** the argument assumes that because three experts have reached an agreement, their conclusion must be correct. however, this ignores the fact that experts can be wrong and that consensus does not necessarily indicate validity.",False,appeal to (false) authority
+117,But irrespective of whether he thinks it is or not means less than fact that this country cannot morally and socially and economically accept an economy running out the clock on the 20th Century.,appeal to fear,"**answer:** appeal to authority.
+
+**explanation:** the statement assumes that the experts' opinions are definitive and authoritative on the moral, social, and economic implications of a rapidly changing economy. however, the validity of an argument does not depend on the authority of the person making it.",False,appeal to (false) authority
+118,We're treading water. We have families that are hurting. We have people who are unemployed. We have people with no property. We have an administration that is demolishing public housing in our inner cities and not providing anything else but more public housing.,appeal to anger,"**answer:** answer: appeal to pity
+
+**explanation:** the argument suggests that we should agree with a particular conclusion (in this case, accepting certain policies) because many people are suffering and in difficult circumstances. this is an appeal to pity, as it attempts to evoke sympathy for the suffering of others to support a particular point of view. the argument ignores the fact that other factors besides government policies may contribute to people's suffering, and that there may be other possible solutions to the problems mentioned.",False,appeal to pity
+119,"Their solution to the inner city is more -- excuse the expression but it's true,""socialism.""",false dilemma,"**answer:** circular reasoning
+
+**explanation:** the argument relies on itself as a premise. the premise is that socialism is the solution to the inner city problem. the conclusion is that socialism is the solution to the inner city problem. this creates a circular reasoning because the premise is simply a restatement of the conclusion.",False,circular reasoning
+120,"Michael Jackson, Kurt Cobain, and Jimi Hendrix were rock stars who died young. Therefore, if you become a rock star, don't expect to live a long life.",hasty generalization,"**answer:** appeal to hasty generalization
+
+**explanation:** the argument commits a logical fallacy known as the ""hasty generalization."" it incorrectly concludes that all rock stars will die young based on the deaths of michael jackson, kurt cobain, and jimi hendrix. this overlooks the fact that many other rock stars have lived long and fulfilling lives. the argument fails to consider the unique circumstances and lifestyle choices of these particular individuals, and does not provide sufficient evidence to support the claim that all rock stars are doomed to an early demise.",True,hasty generalization
+121,Over 5 million Filipinos use our products. It's time to switch to our brand now!,ad populum,"**answer:** appeal to popularity
+
+**explanation:** the argument assumes that because many people use the product, it must be good. this overlooks the fact that popularity does not necessarily indicate quality or efficacy.",False,ad populum
+122,"I think I'm right because I believe that we must have a consistent foreign policy, a strong America, and a strong economy.",appeal to positive emotion,"**answer:** circular reasoning
+
+**explanation:** the argument relies on the premise that a consistent foreign policy, a strong america, and a strong economy are necessary for the experts to reach an agreement. however, this premise is simply a restatement of the conclusion that the experts must come to an agreement. this circular reasoning creates no meaningful evidence or reasoning to support the claim.",False,circular reasoning
+123,it's clear enough so that there are 2.18 billion Christians,ad populum,"**answer:** appeals to incomplete analogy
+
+**explanation:** the analogy suggests that if a group of experts can agree on something after discussing and discarding incorrect ideas, then any conclusion they reach must be valid. however, this ignores the fact that the completeness and quality of an argument depend on many factors, including the expertise of the participants, the amount of time available, and the complexity of the issue. this fallacy often arises when people attempt to justify a desired conclusion by appealing to the authority of experts who may be biased or have limited knowledge about the issue.",False,false analogy
+124,"And the budget plan that I've put out, according to the""Los Angeles Times"" again, the way these things are typically measured as a percentage of the GDP, will bring government spending down to the lowest level in 50 years. So I want to proceed carefully to cover more people.",appeal to (false) authority,"**answer:** appeal to authority.
+
+**reasoning:** the argument assumes that the budget plan will reduce government spending to the lowest level in 50 years simply because a newspaper article says so. however, the authority of the newspaper does not necessarily mean that the budget plan will achieve the stated outcome.",False,appeal to (false) authority
+125,"Animals aren't food for us. If you wouldn't eat a dog or cat, don't eat a cow or chicken. Even if you would eat a dog or cat, don't.",false analogy,"**answer:** circular reasoning
+
+**explanation:** the argument relies on its own premise (animals aren't food for us) to support its conclusion (don't eat cows or chickens). however, the premise is simply a restatement of the conclusion, creating a circular reasoning pattern where no useful information is being shared.",False,circular reasoning
+126,"Animals are food for other animals, why they wouldn't be food for humans?",appeal to nature,"**answer:** circular reasoning
+
+**explanation:** the argument assumes that because animals are food for other animals, it follows logically that they would also be food for humans. however, this ignores the fact that human dietary habits and nutritional needs are distinct from those of other animals. the premise that all animals are food for other animals does not necessarily mean they are suitable or appropriate as food for humans.",False,circular reasoning
+127,The president of Honduras is a good leader because he is a leader of the country.,circular reasoning,"**answer:** circular reasoning
+
+**explanation:** the argument assumes that a leader being the president automatically implies that they are a good leader, without providing any evidence or reasoning to support this claim. the argument relies on its own premise (a leader being the president) to support its conclusion (the president is a good leader), creating a circular reasoning where no useful information is being shared.",True,circular reasoning
+128,"The government's bigger than it was when President Kennedy was around, even though he says it's not.",nothing,"**answer:** appeal to authority.
+
+**explanation:** the argument assumes that president kennedy's statement about the size of the government is accurate, and therefore any government actions taken since then must be bigger than during his presidency. however, the argument ignores the fact that there may be other factors besides the size of the government that contribute to economic conditions.",False,appeal to (false) authority
+129,Families communicate less and less in the past forty years since feminism became mainstream. Feminism is to blame for this deterioration in the family.,false causality,"**answer:** straw man
+
+**explanation:**
+the argument suggests that feminism is responsible for the deterioration of family communication in the past forty years. however, the premise ignores other potential factors that could contribute to this change, such as technological advancements, societal shifts, or changes in family structures. the argument commits a fallacy by exaggerating the negative impact of feminism on family communication without considering other relevant factors.",False,straw man
+130,"Our military is the strongest military in the world. It is the strongest, best prepared, best equipped it has ever been.",appeal to positive emotion,"**answer:** appeal to authority
+
+**explanation:** the statement asserts that the military is the strongest in the world based on the authority of experts. however, the argument does not provide any evidence or reasoning to substantiate the claim that the experts are reliable or credible sources of information on military strength.",False,appeal to (false) authority
+131,"Murder is morally wrong. Therefore, abortion is morally wrong.",false analogy,"**answer:** red herring.
+
+**explanation:** the argument introduces the idea of expert consensus to support the conclusion that abortion is morally wrong. however, this red herring tactic is irrelevant to the actual argument and does not provide any logical reasoning or evidence to support the claim that abortion is morally wrong.",False,no match
+132,"Violent video games cause teens to be violent, because violent teens play violent video games.",circular reasoning,"**answer:** appeal to hasty generalization.
+
+**explanation:** the argument assumes that because violent video games are played by violent teens, they must cause violence in teens. however, this ignores other possible factors that may contribute to violence in teens, such as family environment, social influences, and mental health issues.",False,hasty generalization
+133,"These test results are clearly wrong, and it must be either because the client was malingering or because I bungled the test administration.",false dilemma,"**answer:** circular reasoning
+
+**explanation:** the argument assumes that the experts' conclusions must eventually converge, regardless of the validity of their reasoning. this ignores the possibility that the experts may simply be wrong or that their conclusions may be based on incomplete or biased information.",False,circular reasoning
+134,Is that why my prescriptions and premiums keep going up massively?,Appeal to Ridicule,"**answer:** answer: appeal to authority
+
+**explanation:** the statement suggests that the reason for the increase in prescription and premiums is due to the advice of experts. however, the argument does not provide any evidence or reasoning to support the claim that the experts' advice is accurate or reliable. this is an appeal to authority fallacy as the argument relies on the authority of experts without providing any evidence to support their claims.",False,appeal to (false) authority
+135,"Trump hasn't done shit to improve healthcare, he has done the complete opposite.",appeal to anger,"**answer:** straw man
+
+**explanation:** 
+the statement unfairly simplifies trump's actions regarding healthcare, implying that he has actively worsened the system when this may not be accurate. the argument relies on a distorted representation of trump's healthcare policies to support the conclusion that he has negatively impacted the healthcare system.",False,straw man
+136,I did it because I worked my ass off and learned a skill in the military. It's not that hard you just got to do the best you can.,causal oversimplification,"**answer:** appeal to authority
+
+**explanation:** the argument assumes that the asker's experience in the military makes them an authority on classification, when this is not necessarily true. the argument fails to provide any evidence or reasoning to support the claim that the asker's expertise qualifies them to make a classification judgment on the given problem.",False,appeal to (false) authority
+137,"Or put another way If you run into an asshole in the morning, you ran into an asshole.",nothing,"**answer:** answer: appeal to consensus.
+
+**explanation:** the statement assumes that simply because multiple people agree on something, it must be correct. this ignores the possibility that the experts may be wrong or that they are simply biased by their own limited knowledge and experiences.",False,ad populum
+138,For want of a nail the shoe was lost. For want of a shoe the horse was lost. For want of a horse the rider was lost. For want of a rider the battle was lost. For want of a battle the kingdom was lost.,slippery slope,"**answer:** circular reasoning
+
+**explanation:** the argument relies on its own premise (i.e., if any expert realizes they're wrong at any point then they leave) to support its conclusion that the experts must come to a final agreement. however, this premise is not logically valid. the fact that an expert realizes they are wrong about something does not mean they are wrong about everything else.",False,circular reasoning
+139,"I bought a ticket to win a new car at the mall, since I have never won anything like that in the past.",false causality,"**answer:** appeal to probability
+
+**explanation:** the argument assumes that because the person has never won anything like that in the past, this new ticket will definitely win them a car. this ignores the fact that probability is involved in such contests and that there is no guarantee of winning.",False,no match
+140,"I went veg because factory farming is horribly unnatural, but I can't really come up with an argument against hunting based on what made me go veg...",appeal to nature,"**answer:** appeal to inconsistency
+
+**explanation:** the person who went veg did so because they believe factory farming is unnatural. however, they cannot provide an argument against hunting based on the same reasoning they used to go veg. this is an inconsistency in their reasoning that undermines the validity of their argument.",False,no match
+141,"I'm vegan, I'll never part take in this activity, but I don't feel like hunting for fun should be considered a mental illness. Our ancestors used to depend on it to survive, so I can see how it might be in someone's genome to want to hunt.",appeal to tradition,"**answer:** appeal to our ancestry
+
+**explanation:** the argument suggests that because our ancestors engaged in a behavior (hunting), it is still relevant and appropriate for modern humans. this ignores cultural and technological changes that have occurred over time and fails to recognize that just because something was done in the past does not necessarily mean it is appropriate or beneficial in the present.",False,no match
+142,"Our ancestors used to depend on it to survive, so I can see how it might be in someone's genome to want to hunt. Hunting is almost entirely aligned with the natural cycle of life, factory farming in horrible conditions isn't.",appeal to nature,"**answer:** appeal to natural selection
+
+**explanation:** the argument assumes that because our ancestors hunted, humans have an innate desire and ability to hunt, and therefore factory farming is unethical. however, this ignores the fact that our ancestors also engaged in other activities besides hunting, and that modern factory farming practices differ significantly from the hunting practices of our ancestors.",False,no match
+143,Cooking and eating meat is an artistic practice with thousands of years of history. My choice to cook and eat meat is a choice to participate in the continuation of this art form.,appeal to tradition,"**answer:** answer: circular reasoning
+
+**explanation:** the argument relies on the premise that cooking and eating meat is an artistic practice, and then uses that premise to support the conclusion that choosing to cook and eat meat is a choice to participate in the continuation of this art form. however, the premise itself relies on the conclusion that cooking and eating meat is an artistic practice, creating a circular reasoning argument where no useful information is added to support the claim.",False,circular reasoning
+144,"I support eating meat for the same reason I would support classical music, theater, or sculpture: because I support art.",false analogy,"**answer:** answer: circular reasoning
+
+**explanation:** the argument assumes that supporting art in general is sufficient evidence to support eating meat. however, the premise does not justify the conclusion because the connection between supporting art and supporting eating meat is not necessarily logical or relevant.",False,circular reasoning
+145,"He was right, but then he put in place deficits twice that size for every one of his four years.",tu quoque,"**answer:** appeal to authority
+
+**explanation:** the argument assumes that the experts' initial conclusions are valid, but when presented with evidence that contradicts those conclusions, the experts simply add more deficits to their calculations without reevaluating the original premise. this undermines the credibility of the argument as a whole.",False,appeal to (false) authority
+146,14 year olds are plenty old enough to be around loaded guns. They arent 4. I had guns in a safe in my bedroom from 10 years old. I had the key and ammo.,hasty generalization,"answer: appeal to personal experience
+
+explanation: the argument assumes that because the speaker had guns safely stored when they were 10 years old, 14 year olds can safely handle loaded guns. this fails to consider the significant difference in maturity and cognitive development between 10 and 14 year olds.",False,no match
+147,"Yeah its not just about my approval, pretty sure the majority of people in the U.S are against open carrying an AR. No one sees someone carrying a long gun in public and thinks wow look at them go, so glad they are exercising their rights.",ad populum,"**answer:** appeal to ignorance
+
+**explanation:** the statement suggests that most people in the us are against open carrying of ars because most people do not approve of it. however, this ignores the fact that some people may support open carrying of ars. the argument relies on the assumption that people are generally opposed to open carrying of ars, when in reality, public opinion on this issue is divided.",False,no match
+148,"No one sees someone carrying a long gun in public and thinks wow look at them go, so glad they are exercising their rights. Theyre thinking Im glad I have my ccw so I can drop this motherfucker if he sneezes. And youre right, I should just assume that all 14 year olds were taught properly on how to handle firearms even if their parents are pieces of shit. I shouldnt care if he hurts himself or someone else because if I did Id just be infringing in someones rights. Glad your parents believed you wouldnt kill someone with a gun that young. Too bad other parents believed the same thing.",Appeal to Ridicule,"**answer:** appeal to ignorance.
+
+**reasoning:** the argument assumes that all 14-year-olds are competent enough to handle firearms, regardless of their parental upbringing or potential for reckless behavior, solely because no one has witnessed a 14-year-old wielding a gun in public. this demonstrates a lack of awareness (ignorance) about the potential risks associated with such behavior rather than an actual logical reasoning process.",False,no match
+149,There is nothing wrong with being racist or anti Semitic. Being tribal is a normal part of being human.,appeal to nature,"**answer:** answer: appeal to tribalism.
+
+**reasoning:** the statement promotes the discriminatory and hateful ideologies of racism and anti-semitism by equating tribalism with normal human behavior. this overlooks the harmful consequences of such ideologies and perpetuates prejudice and discrimination.",False,no match
+150,Almost 3k upvotes show that most people agree with me.,ad populum,"**answer:** appeal to majority
+
+**explanation:** the statement suggests that something is true because many people believe it. this is a fallacy because it ignores the fact that people can be wrong, even when a majority of them believe something.",False,ad populum
+151,"Its weird, its not socially or mentally healthy, its not a thing.",ad hominem,"**answer: appeal to authority.**
+
+**reasoning:** the statement suggests that because multiple experts have reached an agreement on a conclusion, it must be correct. this ignores the fact that consensus among experts can be wrong, and that the authority of experts does not guarantee the validity of their conclusions.",False,appeal to (false) authority
+152,Even the Republican platform has criticized the lack of leadership in Mr. Ford and they've criticized the foreign policy of this administration.,appeal to (false) authority,"**answer:** appeal to authority
+
+**explanation:** the statement relies on the perceived authority of the republican platform to support the conclusion that the current administration lacks leadership and has poor foreign policy. however, the authority of a political platform does not necessarily imply expertise or objectivity on every issue.",False,appeal to (false) authority
+153,"This is one instance where I agree with - with the Republican platform. I might say this in closing, and that is that as far as foreign policy goes, Mr. Kissinger has been the president of this country.",ad hominem,"**answer:** appeal to authority.
+
+**explanation:** the argument assumes that just because someone (mr. kissinger) was successful in the past (presidency), they will be successful in the present (foreign policy). this ignores any changes in the geopolitical landscape or the individuals themselves over time.",False,appeal to (false) authority
+154,he thinks he's just hanging out with a buddy but what he fails to realize is that he has a huge platform with a fan base of highly impressionable young men who feel wronged by society and entitled to scream like a monkey on the back of a pig with a cowboy hat,hasty generalization,"**answer:** appeal to emotion
+
+**explanation:** the statement relies on an emotional appeal by exploiting the supposed feelings of the young men in the audience who may feel empowered or validated by the speaker's actions. the argument assumes that the audience shares the speaker's platform and influence, and that they will be negatively affected by the speaker's behavior.",False,appeal to emotion (level 1)
+155,Free speech bad,Appeal to Ridicule,"**answer:** answer: appeal to bandwagon.
+
+**explanation:** the statement suggests that if experts all agree on something, then it must be true. this ignores the possibility that the experts are simply following the crowd and are not necessarily correct.",False,ad populum
+156,"Mrs. Miller taught your older brother, who was the class clown. She decides to be strict with you from the very first day of class because she thinks you will be a clown, too.",guilt by association,"**answer:** appeal to authority
+
+**explanation:** the argument assumes that just because mrs. miller taught your older brother and was strict with him, that she will be strict with you as well simply because you are related to him. this ignores any individual differences between you and your brother, and fails to consider other factors that may influence mrs. miller's teaching style.",False,appeal to (false) authority
+157,"Mankind has been using""recreational drugs"" since we developed agriculture, and probably before too.",appeal to tradition,"answer: nothing
+
+the argument is a factual statement about the historical use of recreational drugs by humans. it does not contain any logical fallacies.",False,nothing
+158,"James' mom is concerned when she finds out that he skipped class one day. She tells him that she is concerned that since he skipped one class, he will start skipping more frequently. Then he will drop out altogether, never graduate or get into college, and end up unemployed and living at home for the rest of his life.",slippery slope,"**answer: hasty generalization**
+
+**explanation:** the argument assumes that skipping one class will inevitably lead to skipping more frequently, which will result in dropping out, not graduating, and ultimately ending up unemployed and living at home. this is a hasty generalization as there is no evidence to support this claim. the premise that skipping one class will automatically lead to skipping more frequently is not necessarily true.",False,hasty generalization
+159,So the least corrupt state is anarchy by this logic.,Appeal to Ridicule,"**answer:** appeal to purity
+
+**reasoning:** the argument assumes that the absence of corruption is equivalent to anarchy, neglecting the complex political systems and structures that exist in different forms of government.",False,no match
+160,"This is""deep"" libertarian bullshit.",ad hominem,"**answer:** answer: circular reasoning
+
+**explanation:** the statement relies on its own premise (experts will leave if they realize they're wrong at any point) to support its conclusion that the experts must come to a final agreement. however, the premise itself is circular, as it assumes that the experts' conclusions will be valid only if they are all in agreement with each other. this creates a circular reasoning structure where no useful information is being shared about the actual validity of the experts' conclusions.",False,circular reasoning
+161,"Good people don't need laws to tell them how to be good, bad people either ignore laws or use/create them to hide behind...",circular reasoning,"**answer:** appeal to authority.
+
+**reasoning:** the argument assumes that experts' initial judgments are reliable indicators of truth, and that any discrepancy between those judgments indicates the need to abandon the premise. however, this ignores the possibility that experts can change their minds or that their initial judgments were simply incorrect.",False,appeal to (false) authority
+162,"Well if 10 minutes isnt bad, then surely 11 is ok. If 11 is ok then 13 is fine. If 13 is fine then whats wrong with 15. You said 15 is ok, 16 is just a minute more. Were at 16, Im finishing up and will be checked out by 18. See how it keeps getting stretched out?????",slippery slope,"**answer:** appeal to continuity.
+
+**explanation:** the argument assumes that if a series of actions are allowed to continue without interruption, they will inevitably lead to a desired outcome (in this case, finishing the task by the desired time). however, this ignores the fact that there are numerous factors that can influence the outcome of a task, such as changing circumstances, distractions, or unforeseen complications.",False,no match
+163,When the goddamned sign says the store closes at 9:00 the fucking customers need to get the fuck out by 8:59. They had all day to get their shit taken care of.,causal oversimplification,"**answer:** appeal to authority.
+
+**explanation:** the statement assumes that the store employees have the authority to enforce a rule that customers must leave 1 minute before closing time, even though this is not explicitly stated or implied by any established rule or regulation.",False,appeal to (false) authority
+164,When the goddamned sign says the store closes at 9:00 the fucking customers need to get the fuck out by 8:59. They had all day to get their shit taken care of. At 9 0 0 youre on my time.,appeal to anger,"answer: appeal to authority.
+
+explanation: the statement assumes that the store employees have the authority to enforce a strict 8:59 closing time, even though such an authority is not explicitly stated or implied in the premise.",False,appeal to (false) authority
+165,Three congressional representatives have had affairs. Members of Congress are adulterers.,hasty generalization,"**answer:** answer: hasty generalization
+
+**explanation:** the argument commits a hasty generalization by drawing a conclusion (that all members of congress are adulterers) based on the actions of a few (three congressional representatives) without sufficient evidence or consideration of other members of congress who may not have had affairs.",True,hasty generalization
+166,So he's saying liberals are better educated than conservatives. We agree. Trump isn't the only one who loves the poorly educated.,Appeal to Ridicule,"**answer:** circular reasoning
+
+**explanation:** the argument relies on the premise that liberals are better educated than conservatives. however, this premise is not provided or justified by any evidence or reasoning. the argument therefore commits a circular reasoning fallacy, where the conclusion (liberals are better educated) is supported by the premise itself, without any additional evidence or reasoning.",False,circular reasoning
+167,"Or, more accurately, many liberal professors abuse their positions by attempting to force their political opinions into subjects they don't belong in, like the English professor who insists their students each write a paper on""Why the GOP are terrorists"" and grade students poorly who disagree with that opinion (experienced that first hand).",hasty generalization,"**answer:** appeal to authority.
+
+**explanation:** the argument assumes that the expertise of the professors is biased, and therefore their conclusions must be wrong. however, this is an ad hominem fallacy that attacks the character or qualifications of the experts rather than addressing the merits of their arguments.",False,appeal to (false) authority
+168,"Many of the big name institutions have become incestuous single minded orgies which no longer challenge students to think out of the box, challenge assumed truths and seek to learn all they can, but instead have become factories to produce a very specific set of opinions and mindsets never to be questioned.",ad hominem,"**answer:** appeal to authority.
+
+**explanation:** the argument assumes that big name institutions have become incestuous and no longer challenge students to think critically, based on the authority of the experts' opinions. however, this relies on the unsupported premise that the experts' opinions are accurate and reliable.",False,appeal to (false) authority
+169,Incoming comments of things that are nutritious but people don't consider healthy because they're high in calories AND other random shit they read on a blog who's ultimate goal is to convince them to spend money on something at some point.,Appeal to Ridicule,"**answer:** circular reasoning
+
+**explanation:** the statement assumes that the experts will rationally assess the information and leave if they realize they are wrong, leading to a guaranteed consensus. in reality, people often hold onto their beliefs even when presented with contradictory evidence.",False,circular reasoning
+170,Dairy and red meat are fine - people have been consuming them for centuries and they did shit like building pyramids using just their hands.,appeal to tradition,"answer: nothing
+
+**explanation:** the argument presents a hypothetical scenario involving multiple experts reaching a consensus through a collaborative process, implying that the conclusion is necessarily valid. this is an irrelevant and unnecessary elaboration of a hypothetical process to assess the validity of the premise. the actual consumption of dairy and red meat by people throughout history does not automatically establish their safety or effectiveness in building pyramids.",False,nothing
+171,"You don't need to live off of bland chicken breasts, broccoli, and scrambled eggs to be healthy.",straw man,"**answer:** nothing
+
+**explanation:** the premise describes a hypothetical scenario involving multiple experts reaching an agreement through a iterative process of shared reasoning. this scenario does not relate to the claim about diet and health, and therefore does not constitute a logical fallacy.",False,nothing
+172,I think one of the biggest reasons for the obesity epidemic in America is the over-complication of nutrition.,causal oversimplification,"**answer:** nothing.
+
+**explanation:** the statement presents a hypothetical scenario about three experts collaborating to classify the causes of obesity, implying that such collaboration would inevitably lead to a valid conclusion. this argument relies on speculation and does not provide any evidence or logical reasoning regarding the causes of obesity. therefore, it is not a fallacy.",False,nothing
+173,"I think one of the biggest reasons for the obesity epidemic in America is the over-complication of nutrition. A new food is""unhealthy"" every week.",Appeal to Ridicule,"**answer:** appeal to authority.
+
+**explanation:** the argument suggests that nutrition is overly complicated and that this complexity is responsible for obesity. however, it does not provide any evidence or authority to support this claim. the argument relies on the perceived authority of experts to support the conclusion without providing any specific evidence or reasoning.",False,appeal to (false) authority
+174,Distracted driving is a HUGE problem but the fact that people are begging for a state run mass surveillance system is terrifying. It may seem innocuous and even helpful at first but the implications are tremendous. These are the first steps towards mass facial recognition and social credit systems... and people are clamoring for it.,appeal to fear,"**answer:** slippery slope
+
+**explanation:** the argument suggests that the implementation of a state-run mass surveillance system is inevitable due to public support for measures like distracted driving mitigation. this ignores the fact that mass surveillance systems have various ethical and privacy implications that go beyond their potential use for combating distracted driving. the argument commits a slippery slope fallacy by exaggerating the potential consequences of a technology without providing sufficient evidence or reasoning to support the claim that its implementation will inevitably lead to more intrusive and oppressive measures.",False,slippery slope
+175,The Cardinals are the best football team because they're better than all the other teams. They're better than all the other teams because they're the best.,circular reasoning,"**answer:** circular reasoning
+
+**explanation:** the argument relies on its own premise (i.e., the cardinals are the best football team) to support its conclusion that the cardinals are the best football team. the premise itself is based on the premise, creating a circular reasoning.",True,circular reasoning
+176,But did they check slow food? Dollars to donuts that eating at an average restaurant is unhealthier than 30 years ago by an even wider margin.,appeal to worse problems,"**answer:** circular reasoning
+
+**explanation:** the argument assumes that the experts' steps of reasoning must eventually converge, even if they initially disagree. this ignores the possibility that the experts may remain in disagreement, indicating that their conclusions are not necessarily valid.",False,circular reasoning
+177,Fast food isn't fueling the obesity epidemic; FOOD is fueling the obesity epidemic.,causal oversimplification,"**answer:** straw man
+
+**explanation:** the argument suggests that the problem lies not in fast food itself, but in the broader category of ""food"". this avoids acknowledging the specific contribution of fast food to obesity while shifting the blame to all food.",False,straw man
+178,Let's not forget Genetically Modified foods. They are not on our food chain.,appeal to nature,"**answer:** answer: appeal to authority.
+
+**explanation:** the statement suggests that because experts disagree on the safety of genetically modified foods, they must not be safe for consumption. however, this ignores the fact that experts can disagree on scientific issues and that the absence of consensus does not necessarily mean that a proposition is false.",False,appeal to (false) authority
+179,"Yeah, I always go to religious organizations to supply me with clear and objective scientific studies...",Appeal to Ridicule,"**answer:** appeal to authority.
+
+**explanation:** the statement suggests that religious organizations are a reliable source of scientific studies. however, this is a fallacy as religious organizations are not typically known for their scientific expertise or objectivity.",False,appeal to (false) authority
+180,"But as Admiral Yarnell has said, and he's been supported by most military authority, these islands that we're now talking about are not worth the bones of a single American soldier; and I know how difficult it is to sustain troops close to the shore under artillery bombardment.",appeal to (false) authority,"**answer:** appeal to authority
+
+**explanation:** the argument relies on the authority of admiral yarnell, but fails to provide any evidence or reasoning to support the claim that the islands are not worth the bones of a single american soldier.",False,appeal to (false) authority
+181,"I propose that for a modern account of a miracle, if the person telling you the account is trustworthy, that is a reason to take the account seriously.",appeal to (false) authority,"**answer:** appeal to authority.
+
+**explanation:** the argument suggests that if a person is trustworthy, their account of a miracle should be taken seriously. this relies on the authority of the person rather than providing evidence or logical reasoning to support the claim.",False,appeal to (false) authority
+182,He has smoked cigarettes his entire life and he doesn't have lung cancer. Therefore smoking doesn't cause lung cancer.,hasty generalization,"**answer:** appeal to anecdotal evidence.
+
+**explanation:** the argument relies on the lack of observed lung cancer among the speaker's acquaintance to conclude that smoking does not cause lung cancer. however, this is a faulty generalization as the speaker's personal experience is not necessarily representative of the experiences of others. true scientific conclusions are based on large-scale studies and not on individual experiences or lack thereof.",False,no match
+183,"It causes economic problems and turmoil, and then we turn around, as we did in Mexico, having to bail them out.",causal oversimplification,"**answer:** appeal to authority.
+
+**explanation:** the argument assumes that just as mexico was bailed out, the us economy will collapse if the big automakers are not bailed out. however, this ignores the unique circumstances of each country and the different economic structures of those countries.",False,appeal to (false) authority
+184,"Yeah, this doctor is a moron. Not smart like you.",Appeal to Ridicule,"**answer: appeal to authority**
+
+explanation: the statement relies on the apparent authority of the doctors to establish its conclusion. however, the provided argument does not establish the expertise of the doctors or provide any evidence to support the claim that they are smarter than the person making the statement.",False,appeal to (false) authority
+185,But you don't have a lot of experience in project management either!,tu quoque,"**answer:** answer: appeal to authority.
+
+**explanation:** the argument assumes that the experts' opinions are authoritative and that their departure from the group when they realize they are wrong will guarantee a final agreement. this ignores the possibility that the experts may have different levels of expertise or that the group may not reach consensus even after the experts leave.",False,appeal to (false) authority
+186,"Rightly so. I don't care how it makes trans people feel, the vast majority of people would want to know if someone was born a different sex to that which they're passing themselves off as.",ad populum,"**answer:** appeal to majority
+
+**reasoning:** the statement relies on the supposed consensus of the majority of people to determine the validity of information about trans people's identities. however, this overlooks the experiences and perspectives of individual people and the complexities of social identity. the majority opinion is not always reflective of objective reality or the experiences of marginalized groups.",False,ad populum
+187,"or as my sister called it,""laundry over dirt field""  Well it's common in Sichuan where this dish is originated from to serve it like this, so it's not a stupid restaurant plating thing it's how it should be
+",nothing,"**answer:** appeal to authority.
+
+**explanation:** the statement assumes that because certain experts classify the dish in a certain way, it must be the correct way. this overlooks the possibility that the experts may be wrong or that their classification may not be universally accepted.",False,appeal to (false) authority
+188,all believe I would make a stronger commander in chief. And they believe it because they know I would not take my eye off of the goal: Osama bin Laden.,appeal to (false) authority,"**answer:** appeal to authority.
+
+**explanation:** the argument assumes that the experts are credible and their opinion on the candidate's abilities carries weight. however, the authority of the experts is not mentioned or established, making the argument flawed.",False,appeal to (false) authority
+189,"Fred, the German, stole my wallet. Therefore, all Germans are thieves.",hasty generalization,"**answer:** straw man
+
+**explanation:** 
+the argument confuses the actions of an individual (fred) with the characteristics of an entire group (germans). it is inaccurate to assume that all members of a group share the same traits or behaviors as an individual representing that group.",False,straw man
+190,"Slavery is accepted by just about everyone in our society, so it's ethical to keep slaves.",ad populum,"answer: nothing.
+
+the argument confuses the lack of consensus among experts with the ethical implications of slavery. just because something is widely accepted does not make it ethical. slavery is universally condemned as a violation of human rights.",False,nothing
+191,"EDIT: The good news is they will be cheap, the bad news is you need someone who can do smd soldering, which, for no good reason, is a dark art.",nothing,"**answer:** appeal to authority.
+
+**reasoning:** the argument suggests that because some experts agree on a conclusion, it must be correct. however, this ignores the fact that experts can be wrong and that consensus does not necessarily indicate truth.",False,appeal to (false) authority
+192,"
+ I just picked up one of the tinted balms and it's a really lovely product.",nothing,"answer: nothing
+
+the argument lacks any logical reasoning or fallacies. it simply describes the personal experience of the writer without providing any evidence or reasoning to support the claim that the tinted balms are lovely.",True,nothing
+193,Have you not know that this poster is extremely popular in Oculus sub reddit?,ad populum,"**answer:** circular reasoning
+
+**explanation:** the argument assumes that the popularity of the poster on oculus sub reddit is evidence that it is valid and reliable. however, the popularity of something does not necessarily indicate its truth or value.",False,circular reasoning
+194,"Thank you, have a nice day
+ Enter Bios and see if your hdd is detected.",nothing,"**answer:** circular reasoning
+
+**explanation:** the argument assumes that the experts will arrive at a final agreement, implying that their initial steps of reasoning must be logically valid. however, this overlooks the possibility that the experts could continue to disagree, even after multiple steps of reasoning. the argument circularly relies on the premise that the experts will eventually reach an agreement, without providing any evidence or justification for this premise.",False,circular reasoning
+195," New Firefox Update
+ Dog software on cat hardware
+ Wouldn't it be the other way around?",nothing,"**answer:** circular reasoning
+
+**reasoning:** the statement assumes that the experts' conclusions will be valid simply because they agree on them, without considering the possibility that their conclusions might be wrong. this creates a circular reasoning where the proposition is supported by its own premises, which is supported by the proposition itself.",False,circular reasoning
+196,"Most people I spoke to didn't like TLJ, so if anything, it should have a lower than 55% score.",hasty generalization,"**answer:** appeal to bandwagon
+
+**explanation:** the argument assumes that just because most people disapprove of something, it must be bad or deserving of disapproval. this ignores the possibility that many people may simply have different tastes or preferences.",False,ad populum
+197," Legion is the best overall expac we will ever get and here is why
+ This feels like definite nostalgia talking to me.",nothing,"answer: nothing.
+
+the argument lacks logical reasoning and relies on subjective feelings and personal opinions rather than objective evidence or facts.",True,nothing
+198,"I don't know, it's just a thing with me because I've been helping orphans for a long time and their mental health is seriously fucked up because of it.",nothing,"**answer:** appeal to emotional appeal.
+
+**explanation:** the author relies on their personal experience working with orphans to make a generalization about the mental health of all orphans. however, this generalization is not supported by any evidence or data. the argument ignores the fact that there are many factors that can contribute to mental health issues, and that not all orphans are negatively affected by their experiences.",False,no match
+199,"
+ I got those tests and they came back fine, I was so confident that it was lupus for a while but that negative test has really thrown me !",nothing,"**answer:** appeal to authority.
+
+**explanation:** the person assumes that just because three experts have come to a certain conclusion, it must be correct. however, this ignores the fact that experts can be wrong and that consensus does not necessarily indicate validity.",False,appeal to (false) authority
+200,"
+ So a woman got in an altercation, got mad and grabbed a gun and starting shooting, and was then shot by someone else.",nothing,"**answer:** circular reasoning
+
+**explanation:** the argument assumes that because experts may change their minds if they realize they are wrong, the experts must eventually reach an agreement. this ignores the fact that experts may have different starting points or may come to different conclusions even after considering new evidence.",False,circular reasoning
+201,"
+ I get that it's weird that someone from the lgbtq+community supports fascists who want people like him to die, but I don't see his sexual identity having any relevance to this story.",nothing,"**answer:** appeal to irrelevance
+
+**explanation:** the argument suggests that because a member of the lgbtq+ community supports a fascist, it is irrelevant to consider the person's sexual identity in the context of the story. this is an appeal to irrelevance because it dismisses the potentially relevant factors of the individual's identity without providing any substantial evidence or reasoning to support this dismissal.",False,no match
+202," Ned, the actor behind Micheal, was recently admitted in the hospital for Covid Pneumonia, hoping for his good health and be well soon
+ First we nearly lost Dr. Dre now we might lose Michael.",nothing,"**answer:** appeal to fear.
+
+**explanation:** the statement suggests that if michael, the actor, dies from covid pneumonia, it will be comparable to the loss of dr. dre, implying that the entertainment industry will suffer a significant blow. however, this conclusion is based on fear-mongering rather than concrete evidence or logical reasoning.",False,appeal to fear
+203,"
+ many people have been calling out science subreddit mods like mvea etc for spamming ""shill articles"" etc.",nothing,"**answer:** appeal to mob mentality.
+
+**explanation:** the statement suggests that the subreddit mods are engaging in a behavior simply because many people are criticizing them, rather than any actual evidence or reasoning. this is a fallacy commonly used to justify actions based on group pressure or social conformity.",False,no match
+204,"
+ Oh man, I'm actually relieved, because I had to do this same shit to my subordinates, and honestly I made up numbers 99% of the time because they worked their full hours and could prove it, and their performance was the best in the office because they weren't being crushed by an asshole dictator.",nothing,"**answer:** appeal to authority
+
+**reasoning:** the arguer implies that the expert classification process is valid because they claim that three experts will be involved, and if any of them realizes their previous conclusions are wrong, they will leave the group. this implies that the remaining experts will be more objective and credible. however, this ignores the fact that the arguer's personal experience of having to fabricate numbers for their subordinates does not necessarily reflect the actual thinking process or conclusions of the hypothetical experts in the scenario.",False,appeal to (false) authority
+205,Female sexual history obviously plays a big role in the success of marriage.,false causality,"**answer:** answer: appeal to authority.
+
+**explanation:** the statement suggests that the success of marriage is directly related to female sexual history, implying that the expertise of the individuals making the claim establishes the validity of the premise. however, the provided text does not contain any evidence or reasoning to support this claim, making it a fallacy of authority.",False,appeal to (false) authority
+206,With the amount of weapons in the USA and the ease of smuggling in the country assault weapon bans wouldn't do anything because you could still get then illegally.,false causality,"answer: appeal to common misconception.
+
+explanation: the premise falsely assumes that assault weapon bans would be ineffective due to the ease of smuggling in the country. this ignores other measures that could be taken to address the issue of gun violence, such as stricter background checks, licensing requirements, and mental health initiatives.",False,no match
+207,Restrictions on acquisitions are not going to stop that. Enforcement of possession laws will stop that and no politician is campaigning to do that.,false dilemma,"**answer:** nothing
+
+**explanation:** the argument is valid. if any of the experts realize their previous step is wrong, they leave the group. eventually, the group will either reach an agreement or realize that no consensus is possible.",False,nothing
+208,"The NRA commits terror by encouraging circumstances and laws which lead to 30,000 deaths a year",appeal to anger,"**answer:** appeal to consequences
+
+**explanation:** the argument suggests that the nra is responsible for the deaths caused by gun violence because it encourages circumstances and laws that lead to 30,000 deaths annually. however, this ignores other factors such as mental health, socioeconomic conditions, and access to guns that contribute to gun-related deaths. the argument commits a fallacy by exaggerating the consequences of the nra's actions to imply that they are solely responsible for the deaths.",False,no match
+209,"Young people who do not vote should be shamed. What can we do to get more young people involved? The barriers today are much less than any other time in history, eg women and people of color segregation and disenfranchisement",causal oversimplification,"**answer:** appeal to emotion (specifically, shame).
+
+**explanation:** the argument attempts to motivate action (getting young people to vote) by appealing to an emotional response (shame) rather than providing logical reasons or evidence. the argument suggests that young people who do not vote are somehow wrong or immoral, which is an attempt to evoke negative emotions and encourage action.",False,appeal to emotion (level 1)
+210,"Lars, Kirk and even Cliff have all been criticized for their technical skills, but their creativity, along with James (who is an excellent songwriter and rhythm guitarist), was what made Metallica the greatest metal band of all time, not their chops.",causal oversimplification,"**answer:** appeal to ignorance.
+
+**explanation:** the statement suggests that metallica's creativity, rather than their technical skills, is what made them the greatest metal band of all time. this ignores the fact that technical skills are also important for creating great music.",False,no match
+211,Every one I remember seeing has proven itself to be between 50% and 90% overstated. Our death counts ended up being 10% of what the models were forecasting.,hasty generalization,"**answer:** appeal to authority
+
+**explanation:** the statement relies on the supposed authority of experts to support the conclusion that death counts are typically overstated by 50% to 90%. however, the provided text does not contain any evidence or reasoning to establish the credibility or expertise of the mentioned individuals.",False,appeal to (false) authority
+212,They claim they don't have the personnel to staff them....despite the state's NG being given authorization from our governor to send its stock of nurses and doctors to do it.,causal oversimplification,"**answer:** appeal to authority.
+
+**explanation:** the statement assumes that the state's national guard (ng) having authorization from the governor is sufficient evidence to support the claim that the organization doesn't have the personnel to staff them. however, the validity of the claim depends on various factors such as the specific circumstances and resources available to the ng at that time.",False,appeal to (false) authority
+213,It makes me wonder of it was just the usual bureaucratic waste or if they've got a future use in mind for the facility...,false dilemma,"**answer: appeal to authority**
+
+**explanation:** the statement suggests that the experts' authority guarantees the validity of the final agreement. however, the validity of the agreement relies on the accuracy of the experts' steps, which is not explicitly addressed in the statement.",False,appeal to (false) authority
+214,You havent played but are talking about it like this? Oof,tu quoque,"answer: appeal to ignorance.
+
+the statement suggests that the person making the argument is an expert on the topic being discussed, even though they have not actually played the game. this is an appeal to ignorance, as the person is attempting to establish their credibility by implying that they have more knowledge about the game than they actually do.",False,no match
+215,"Imagine being a horny naive 16 year old. You were talking to a girl, you guys exchange nudes. You're 21. It's been revealed to other adults that you sent a picture of your dick (nice cock btw). You're on the sex offender registry. You will get almost all job offers turned down. Your life is fucked because someone decided your life should be shit for being a horny teenager.",Appeal to Ridicule,"answer: appeal to fear.
+
+the argument uses fear-mongering to convince the listener that their life will be ruined if they do not agree with the premise.",False,appeal to fear
+216,21 year old aren't teenagers,straw man,"**answer:** circular reasoning
+
+**reasoning:** the statement assumes that the definition of ""teenager"" is fixed and unchanging, when in reality it is a social construct that can vary over time and culture. the argument relies on its own premise (a fixed definition of ""teenager"") to support its conclusion that 21 year olds are not teenagers, creating a circular reasoning pattern.",False,circular reasoning
+217,"If this was just people getting details mixed up, the Mandela Effect would not sustain the interest it has.",ad populum,"**answer:** circular reasoning
+
+**explanation:** the argument relies on itself as a premise. the premise is that if any expert realizes they are wrong at any point, they will leave the group. this premise is used to support the conclusion that the group will eventually reach an agreement. however, the premise itself is based on the assumption that the experts are rational and will leave the group when they realize they are wrong. this assumption is not necessarily true, and the argument does not provide any evidence to support it.",False,circular reasoning
+218,"a lot of leftists are mad that its 1400 checks not 2000, because it was meant to supplement the 600 passed in december",causal oversimplification,"**answer:** appeal to selective memory
+
+**explanation:** the premise suggests that the reduction in the number of checks from 2000 to 1400 is the sole reason for the anger among leftists. however, this ignores other potential factors that could contribute to their anger, such as political or economic factors not related to the change in the number of checks.",False,no match
+219,If Kavanaugh is innocent he should be yelling from the hills demanding an investigation by the FBI.,causal oversimplification,"answer: appeal to silence.
+
+the arguer assumes that if kavanaugh is innocent, he would be vocal about demanding an investigation. this ignores the possibility that kavanaugh is innocent but chooses not to speak out, or that he may have other reasons for not demanding an investigation.",False,no match
+220,"If Dr. Ford *is* lying, then Republicans should be *eager* to get her in front of an FBI interrogator.",causal oversimplification,"answer: hasty generalization
+
+explanation: the argument assumes that if dr. ford is lying about one thing, she must be lying about everything, which is a hasty generalization from a limited premise to a broader conclusion. the argument ignores the possibility that dr. ford may be truthful about some things but not others.",False,hasty generalization
+221,The government has no right to spilt up your business,appeal to fear,"**answer:** circular reasoning
+
+**explanation:** the argument relies on its own premise (i.e., the government has no right to split up your business) to support its conclusion that only an untrustworthy person would run for president.",False,circular reasoning
+222,"But every time I bring this point up, GOP_Fanboy just reverts to ""lol who are you to decide who gets paid what communist etc""",Appeal to Ridicule,"**answer:** appeal to authority.
+
+**explanation:** the arguer implies that the experts' ability to classify the statements is authoritative and therefore their agreement must be valid. however, the validity of the experts' classification does not guarantee the validity of the conclusion that the gop_fanboy must pay the experts.",False,appeal to (false) authority

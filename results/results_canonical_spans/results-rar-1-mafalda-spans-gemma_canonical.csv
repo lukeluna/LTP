@@ -1,0 +1,1186 @@
+Unnamed: 0,text,expected_label,actual_label,result,canonical
+0,"I keep seeing if an adventure mode needs to exist then why not just start a char at 68. then a couple months after that we'll see post about how people want to start at 90 just so they can kill bosses. Then a few months later we'll see people asking for a""creative"" mode so they can have access to all items in the game so they don't have to farm, and i dont think that sets a good example as a community for a game that we all love.",slippery slope,"**correct answer:**
+
+the segment contains the fallacy of **appeal to negative consequences**.
+
+**explanation:**
+
+the fallacy of appeal to negative consequences occurs when an argument assumes that a proposed action will have negative consequences, even though those consequences are not necessarily true. in this case, the segment argues that allowing players to access all items in the game through a ""creative"" mode will negatively impact the community of the game. however, this assumption is not necessarily valid.
+
+**characteristics of appeal to negative consequences:**
+
+- the arguer assumes that a proposed action will have negative consequences.
+- the consequences are not necessarily true.
+- the arguer often uses words like ""surely,"" ""obviously,"" or ""naturally"" to support their assumption.
+
+**in the given segment:**
+
+- the author suggests that allowing players to access all items in the game will lead to a negative impact on the community.
+- this assumption is not supported by any evidence or logical reasoning.",False,no match
+1,That leads to me believe that most cat lovers are really shy.,hasty generalization,"**correct answer:** hasty generalization
+
+**explanation:**
+the segment commits the fallacy of hasty generalization because it draws a broad conclusion (that most cat lovers are shy) based on a limited and unrepresentative sample (a few observed cat lovers). the argument fails to consider the diverse personalities of cat lovers as a whole.",True,hasty generalization
+2,"Someone once told me they have an""alt"" cause their main account was too high of rank to play with their friends. It's exactly the same as smurfing.",false analogy,"**the segment contains the fallacy of straw man.**
+
+this fallacy occurs when the original argument is misrepresented or exaggerated in order to make it easier to attack. in this case, the segment suggests that the person's main account was banned due to its high rank, when this may not be the case.",False,straw man
+3,Joe Biden will lose to Trump if he is the nominee. The Democratic party clearly has not learned the right lesson from Hillary Clinton's miserable failure.,guilt by association,"**the segment contains the fallacy of appeal to tradition.**
+
+this fallacy occurs when an argument relies on the idea that something is true simply because it has always been done that way or is considered traditional. in this case, the argument suggests that the democratic party will lose because it has not learned the right lessons from previous elections, implying that this is a tradition that must be followed.",False,appeal to tradition
+4,Joe Biden will lose to Trump if he is the nominee. The Democratic party clearly has not learned the right lesson from Hillary Clinton's miserable failure. NOBODY WANTS ESTABLISHMENT POLITICIANS ANYMORE. NOBODY LIKES THE STATUS QUO.,causal oversimplification,"**correct answer:**
+
+the segment contains the fallacy of **appeal to emotion**. this fallacy occurs when the writer relies on strong emotions (such as fear of establishment politicians or dislike for the status quo) rather than logical arguments to support their claim.",False,appeal to fear
+4,Joe Biden will lose to Trump if he is the nominee. The Democratic party clearly has not learned the right lesson from Hillary Clinton's miserable failure. NOBODY WANTS ESTABLISHMENT POLITICIANS ANYMORE. NOBODY LIKES THE STATUS QUO.,causal oversimplification,"**correct answer:**
+
+the segment contains the fallacy of **appeal to emotion**. this fallacy occurs when the writer relies on strong emotions (such as fear of establishment politicians or dislike for the status quo) rather than logical arguments to support their claim.",False,appeal to emotion (level 1)
+5,The Democratic party clearly has not learned the right lesson from Hillary Clinton's miserable failure. NOBODY WANTS ESTABLISHMENT POLITICIANS ANYMORE. NOBODY LIKES THE STATUS QUO.,ad populum,"**correct answer:**
+
+the segment contains the fallacy of **appeal to anger**. this fallacy occurs when an argument relies on anger or emotional appeals rather than logical reasoning to persuade the audience.",False,appeal to anger
+6,The status quo in America is that its the best its ever been. We live in one of the best societies in the best times that humans have ever experienced.,circular reasoning,"**the segment contains the fallacy of appeal to tradition.**
+
+this fallacy occurs when an argument relies on tradition or past practices as evidence without considering other possible explanations or contexts.",False,appeal to tradition
+7,"America is the best place to live, because it's better than any other country.",circular reasoning,the segment contains the fallacy of **appeal to tradition**. this fallacy occurs when the arguer assumes that something is true simply because it has always been believed or is widely accepted.,False,appeal to tradition
+8,"Let us move now to the future. It is not enough to stand on this record because we are dealing with the most ruthless, fanatical... leaders that the world has ever seen.",appeal to fear,"**response:**
+
+the segment contains the fallacy of **appeal to fear**. this fallacy occurs when an argument uses fear-mongering or exaggerated threats to persuade the audience of the need for a particular action.",True,appeal to fear
+9,"That is why I say that in this period of the sixties, America must move forward in every area.",causal oversimplification,"**the segment contains the fallacy of appeal to positive emotion.**
+
+this fallacy occurs when an argument relies on strong positive emotions, such as patriotism or nostalgia, rather than logical reasoning to persuade the audience.",False,appeal to positive emotion
+10,Delores is a big supporter for equal pay for equal work. This is the same policy that all those extreme feminist groups support. Extremists like Delores should not be taken seriously -- at least politically.,ad hominem,"**the segment contains the fallacy of ad hominem.**
+
+this fallacy occurs when the argument undermines the credibility of the speaker rather than addressing the merits of the actual argument.",True,ad hominem
+11,"""Four out of five dentists recommend Happy Glossy toothpaste. Therefore, it must be great.""",appeal to (false) authority,"**fallacy:** hasty generalization
+
+**explanation:**
+the argument relies on a limited sample size (four out of five dentists) to conclude that the toothpaste is great for everyone. this overlooks the fact that dentist recommendations may vary based on individual preferences, practices, and patient populations.",False,hasty generalization
+12,Once they wear masks your anxiety will force you to demand the next step. biohazard suits? get real.,slippery slope,"**correct answer:** appeal to fear
+
+**explanation:** the segment uses fear-mongering tactics by exaggerating the potential consequences of wearing masks, appealing to the audience's anxiety to demand extreme measures. this fallacy relies on fear rather than logical reasoning or evidence to persuade the audience.",False,appeal to fear
+13,"The last Democrat winner of the New Hampshire primary won the general election. This year, the winner of the New Hampshire primary will win the general election.",causal oversimplification,"**answer:**
+
+the segment contains the fallacy of **hasty generalization**.
+
+**explanation:**
+
+* hasty generalization occurs when a conclusion is drawn based on a limited or biased sample size, without sufficient evidence to generalize the result to a larger population.
+* the argument assumes that the outcome of previous elections in new hampshire is predictive of future elections without considering other factors that may influence the outcome.
+* however, there are many factors other than the winner of the new hampshire primary that can influence the outcome of a general election.
+
+**therefore, the fallacy of hasty generalization is present in the segment.**",False,hasty generalization
+14,"Men score better on math than women do. Jerry is a man. Therefore, Jerry is better at math than Sylvia, who is a woman.",fallacy of division,"**answer:**
+
+the segment contains the fallacy of **gender stereotyping**.
+
+**explanation:**
+
+* gender stereotyping is a fallacy that relies on generalizations about entire groups of people based on their gender, ignoring individual differences within those groups.
+* in the given segment, the argument assumes that all men are better at math than all women, which is a generalization based on gender stereotypes rather than individual ability.
+* this fallacy is often used to perpetuate harmful stereotypes and discrimination.",False,hasty generalization
+15,So much important stuff in the world that needs political activism. Makes a petition to portbeg P5 onto PC and Switch.,Appeal to Ridicule,"**correct answer:**
+
+the segment contains the fallacy of **appeal to positive emotion**.
+
+**explanation:**
+
+* the segment uses emotional language by highlighting the importance of political activism and the need to address certain issues.
+* it employs imagery of petitioning to ""portbeg p5 onto pc and switch,"" which implies a sense of urgency and ease in addressing the problem.
+* however, the segment lacks specific logical arguments or evidence to support the claim that petitioning will actually solve the underlying issues.
+
+**therefore, the fallacy of appeal to positive emotion is present in the segment.**",False,appeal to positive emotion
+16,Carbon dioxide hurts nobody' s health. It' s good for plants.,false analogy,"**fallacy:** appeal to tradition
+
+**explanation:** the segment relies on the traditional belief that carbon dioxide is beneficial for plants, without providing any factual evidence or logical reasoning to support this claim.",False,appeal to tradition
+17,Carbon dioxide hurts nobody' s health. It' s good for plants. Climate change need not endanger anyone.,causal oversimplification,"**correct answer:**
+
+the segment contains the fallacy of **appeal to positive emotion**.
+
+**explanation:**
+
+* the author suggests that carbon dioxide is good for plants and therefore hurts nobody's health simply because it makes people feel positive about climate change.
+* this ignores the substantial evidence linking carbon dioxide emissions to climate change and its potential negative consequences on human health and the environment.
+
+**fallacy of appeal to positive emotion:**
+
+* authors use emotional language or positive framing to make an argument seem more compelling or acceptable without providing strong evidence or logical reasoning.
+* this fallacy often relies on feelings of hope, fear, or patriotism to influence the audience's decision-making without presenting verifiable facts or data.",False,appeal to fear
+17,Carbon dioxide hurts nobody' s health. It' s good for plants. Climate change need not endanger anyone.,causal oversimplification,"**correct answer:**
+
+the segment contains the fallacy of **appeal to positive emotion**.
+
+**explanation:**
+
+* the author suggests that carbon dioxide is good for plants and therefore hurts nobody's health simply because it makes people feel positive about climate change.
+* this ignores the substantial evidence linking carbon dioxide emissions to climate change and its potential negative consequences on human health and the environment.
+
+**fallacy of appeal to positive emotion:**
+
+* authors use emotional language or positive framing to make an argument seem more compelling or acceptable without providing strong evidence or logical reasoning.
+* this fallacy often relies on feelings of hope, fear, or patriotism to influence the audience's decision-making without presenting verifiable facts or data.",False,appeal to positive emotion
+18,"Mr. Governor issues a proclamation for the people of his state to pray for rain. Several months later, it rains. Praise the gods!",Appeal to Ridicule,"**the segment contains the fallacy of appeal to positive emotion.**
+
+this fallacy occurs when the outcome of an action is attributed to the action itself, regardless of any actual causal connection. in the segment, the rain is attributed to the people's prayer, even though there is no evidence to establish a direct cause-and-effect relationship between the prayer and the rain.",False,appeal to positive emotion
+19,"Iran has moved forward with its nuclear weapons program. They're more dangerous today than they were four years ago. North Korea has moved forward with their nuclear weapons program, gone from one to two nuclear weapons to six to eight nuclear weapons. This vice president has been an advocate for over a decade for lifting sanctions against Iran, the largest state sponsor of terrorism on the planet. It's a mistake.",appeal to fear,"**correct answer:**
+
+the segment contains the fallacy of **appeal to fear**. this fallacy occurs when the speaker uses fear-mongering about potential consequences to persuade the audience without providing sufficient evidence or logical reasoning.
+
+**explanation:**
+
+* the segment suggests that iran's nuclear weapons program is more dangerous today than it was four years ago, and that north korea's nuclear weapons program has become more dangerous.
+* however, the segment does not provide any evidence or logical reasoning to support these claims.
+* additionally, the segment implies that the vice president's advocacy for lifting sanctions against iran is a mistake based on the fear of increased danger.
+
+**therefore, the fallacy of appeal to fear is present in the segment.**",True,appeal to fear
+20,"North Korea has moved forward with their nuclear weapons program, gone from one to two nuclear weapons to six to eight nuclear weapons. This vice president has been an advocate for over a decade for lifting sanctions against Iran, the largest state sponsor of terrorism on the planet. It's a mistake.",false analogy,"**correct answer:**
+
+the segment contains the fallacy of **ad hominem**.
+
+**explanation:**
+
+* **ad hominem** is a fallacy that involves attacking the person making the argument rather than addressing the substance of the argument itself.
+* in the given segment, the argument critiques the vice president's past advocacy for lifting sanctions against iran, but it does not provide any evidence or reasoning to support this critique.
+* the focus of the argument is on attacking the vice president's personal stance on sanctions, rather than on the merits of their argument regarding north korea's nuclear weapons program.
+
+therefore, the fallacy present in the segment is **ad hominem**.",False,ad hominem
+21,"This vice president has been an advocate for over a decade for lifting sanctions against Iran, the largest state sponsor of terrorism on the planet. It's a mistake.",guilt by association,the segment contains the fallacy of **ad hominem**. this fallacy occurs when the argument is deflected from its merits by attacking the person making the argument rather than addressing the substance of the argument itself.,False,ad hominem
+22,You cant stop nature. Youre going to be infected if you havent already. We are always trying to fight nature. We just have to let it run its course.,appeal to nature,"the segment contains the fallacy of **appeal to nature**. this fallacy occurs when an argument assumes that something is good because it is 'natural' or bad because it is 'unnatural', without providing any evidence or reasoning to support this claim.",True,appeal to nature
+23,"The majority of the class says they prefer grape flavored drinks, so Jeff tells his superiors that grape is the flavor favored most by high school students.",hasty generalization,"**fallacy:** hasty generalization
+
+**explanation:** the segment commits the fallacy of hasty generalization because it draws a conclusion (grape is the flavor favored most by high school students) based on the majority of the class's preference for grape flavored drinks, which is not necessarily representative of the entire population of high school students.",True,ad populum
+23,"The majority of the class says they prefer grape flavored drinks, so Jeff tells his superiors that grape is the flavor favored most by high school students.",hasty generalization,"**fallacy:** hasty generalization
+
+**explanation:** the segment commits the fallacy of hasty generalization because it draws a conclusion (grape is the flavor favored most by high school students) based on the majority of the class's preference for grape flavored drinks, which is not necessarily representative of the entire population of high school students.",True,hasty generalization
+24,The Freehold Raceway Mall is the best mall because there are always so many cars there.,causal oversimplification,"**the segment contains the fallacy of appeal to populum.**
+
+this fallacy occurs when the argument mistakenly assumes that something is good or true simply because many people believe it, without any objective evidence or reasoning.",False,no match
+25,This is law school arrogance at its finest. Why not a brain surgeon?,Appeal to Ridicule,"**the segment contains the fallacy of tu quoque.**
+
+this fallacy occurs when the speaker attempts to dismiss the criticism by pointing out that the critic themselves has some flaw or is guilty of the same thing.",False,tu quoque
+26,"Along the Russian coastline, which makes up more than half the Arctic total, winds and currents push old ice away from potential shipping lanes and prevent the build-up of thicker, multi-year ice that would leave other parts of the Arctic impassable for longer periods.",nothing,"**your response is correct.**
+
+**explanation:**
+
+the segment assumes that the wind and current patterns along the russian coastline are representative of the entire arctic region. this is a hasty generalization because:
+
+* the arctic is a vast and diverse region with different weather patterns and ice conditions across different areas.
+* the segment only considers the russian coastline, which is a limited and biased sample of the arctic coastline.
+
+therefore, the argument lacks sufficient evidence to generalize the wind and current patterns along the russian coastline to the entire arctic region.",False,hasty generalization
+27,"My first day of basketball practice was easy, so it will always be easy.",false causality,"**fallacy:** hasty generalization
+
+**explanation:** the segment concludes that basketball practice will always be easy based on a single easy practice session. this is a hasty generalization as it is not supported by sufficient evidence (multiple practices) to establish a lasting conclusion.",False,hasty generalization
+28,Don't listen to him! He's a terrible person! I saw him trip another student and steal his lunch money!,ad hominem,"**the segment contains the fallacy of ad hominem.**
+
+this fallacy occurs when the arguer attacks the person making the argument rather than addressing the argument itself, focusing on personal characteristics instead of the merits of the argument.",True,ad hominem
+29,"The left is asking for expanding background checks, closing the gun show loop hole, maybe registering firearms and creating a system that addresses or catches strawman purchases.",nothing,"**the segment contains the fallacy of straw man.**
+
+this fallacy occurs when the segment misrepresents the position of the left by exaggerating the extent of their demands related to gun control measures.",False,straw man
+30,"Several years ago, a group of 10 psychologists started a psychology training program. Each of those psychologists is efficient, effective, and highly-regarded. Their training program must be efficient, effective, and highly-regarded.",causal oversimplification,"**correct answer:** hasty generalization
+
+**explanation:**
+the segment contains the fallacy of hasty generalization. it assumes that the efficiency, effectiveness, and reputation of the individual psychologists are directly transferable to the training program as a whole, without considering other factors that may influence the quality of the program. this fallacy occurs when a conclusion is drawn based on a small or biased sample without sufficient evidence to support the conclusion.",False,hasty generalization
+31,"efficient, effective, and highly-regarded. Their training program must be efficient, effective, and highly-regarded.",false analogy,"**correct.**
+
+the segment contains the fallacy of **appeal to authority**. this fallacy occurs when an argument assumes that something is true simply because an authority figure believes it, without providing any objective evidence or reasoning.
+
+**in the given segment:**
+
+* the authority figure is not explicitly stated, but it is implied that the training program is highly regarded by someone.
+* the argument simply assumes that the training program is efficient, effective, and highly-regarded because it is believed by someone.
+* there is no objective evidence or reasoning provided to support this claim.",False,appeal to (false) authority
+32,"I lost my phone in the living room, so it will always be in the living room when it is lost.",false causality,"**fallacy:** hasty generalization
+
+**explanation:**
+the segment concludes that the phone will always be in the living room when it is lost, based on the fact that it was lost in the living room once. this is a hasty generalization, as it is not possible to conclude that the phone will always be in the living room in all future instances when it is lost. the sample size (one instance) is too small and the context is not sufficiently representative to support such a general conclusion.",False,hasty generalization
+33,"So was the bar burned by a mob and the owner killed? If not, Christians have a ways to go before they are on par with Muslims.",false dilemma,"**the segment contains the fallacy of appeal to negative comparison.**
+
+this fallacy occurs when an argument unfairly contrasts one group to another, implying that one group is inferior or superior based on a limited or biased comparison.",False,no match
+34,"If you sell at bottom, you're either panicking or trying to crash the price of the asset you're selling.",false dilemma,"**the segment contains the fallacy of false dichotomy.**
+
+this fallacy occurs when the argument falsely limits the possible options to only two, when in reality other alternatives exist.
+
+**in this case:** the segment suggests that the only two possible reasons for selling at a low price are panic or an attempt to crash the price. however, there could be other legitimate reasons for selling at a low price that do not fall into either of those two categories.",False,no match
+35,So now the far left is going to have to admit that there is a difference between the brains of men and women and their behavior isn't just a social construct that is created by what toys they are raised with?,straw man,"**fallacy:** appeal to nature
+
+**explanation:**
+the segment contains the fallacy of appeal to nature because it assumes that biological differences between men and women are the primary cause of their behavioral differences, without providing any empirical evidence or logical reasoning to support this claim. this fallacy often relies on stereotypes or preconceptions rather than objective evidence.",False,appeal to nature
+36,So now the far left is going to have to admit that there is a difference between the brains of men and women and their behavior isn't just a social construct that is created by what toys they are raised with? Looks like the exception is charging to the rescue of the norm. Plot twist!,hasty generalization,"**correct answer:** straw man
+
+**explanation:**
+
+the segment contains the fallacy of straw man. this fallacy occurs when the argument is misrepresented in a way that makes it easier to attack, without addressing the original argument. in this case, the segment presents a simplified and biased representation of the opposing argument, claiming that it acknowledges a difference between the brains of men and women based solely on toys, when this may not be the case for the actual argument being presented.",False,straw man
+37,"The spider that bit was poison, therefore all spiders are poison.",hasty generalization,"**answer:**
+
+the segment contains the fallacy of **hasty generalization**.
+
+**explanation:**
+
+- hasty generalization occurs when a conclusion is drawn based on a small or biased sample size, failing to consider the wider population.
+- the speaker concludes that all spiders are poisonous based on a single bite from one spider, neglecting the vast majority of non-poisonous spiders.
+- this conclusion is premature and does not adequately represent the entire spider population.",True,ad populum
+37,"The spider that bit was poison, therefore all spiders are poison.",hasty generalization,"**answer:**
+
+the segment contains the fallacy of **hasty generalization**.
+
+**explanation:**
+
+- hasty generalization occurs when a conclusion is drawn based on a small or biased sample size, failing to consider the wider population.
+- the speaker concludes that all spiders are poisonous based on a single bite from one spider, neglecting the vast majority of non-poisonous spiders.
+- this conclusion is premature and does not adequately represent the entire spider population.",True,hasty generalization
+38,What precisely makes these world leaders so convinced that climate change is a more urgent and massive threat than the incessant rampages of Islamist violence?,appeal to anger,"**correct answer:** framing
+
+**explanation:**
+the segment employs the fallacy of framing by selectively highlighting the perceived urgency of climate change while downplaying the severity of islamist violence. this biased emphasis creates the illusion that climate change poses a more immediate and significant threat, despite both issues being legitimate concerns.",False,no match
+39,"These are unidentified people, and after the bomb goes off, they're blown to bits because they are suicidal individuals who think they're going to go to paradise if they perpetrate such an act and lose their life in doing it.",nothing,"**the segment contains the fallacy of appeal to positive emotion.**
+
+this fallacy occurs when an argument relies on emotional language or assumptions rather than logical reasoning to support its conclusion. in this case, the segment uses the prospect of paradise and personal reward to justify the actions of the unidentified individuals, despite lacking any substantial evidence or logical connection.",False,appeal to positive emotion
+40,smoking cigarettes is deadly because cigarettes can kill you,circular reasoning,"**the segment contains the fallacy of oversimplification.**
+
+this fallacy occurs when a complex phenomenon is attributed to a single, simple cause, ignoring other potential factors that may contribute to the outcome.
+
+**in this case:**
+
+* the statement implies that smoking cigarettes is the only cause of death.
+* it ignores other factors that can contribute to death, such as diet, genetics, and other environmental factors.",False,causal oversimplification
+41,"Do any of you self-righteous pricks understand in the slightest capacity how nature works? There are 4.6 BILLION FUCKING YEARS of evolution on this planet across hundreds upon hundreds of millions of species and not a goddamned one of them, with the exception of you idiots, has any problem with killing for food.",ad hominem,"**correct.**
+
+the segment contains the fallacy of **appeal to anger**. this fallacy occurs when an arguer uses anger or emotional language to persuade their audience rather than presenting logical arguments or evidence.",False,appeal to anger
+42,"There are 4.6 BILLION FUCKING YEARS of evolution on this planet across hundreds upon hundreds of millions of species and not a goddamned one of them, with the exception of you idiots, has any problem with killing for food. It's in the DNA of every single creature on this planet, and it's the SOLE FUCKING REASON that either of us exist. Killing for food is 100% acceptable and morally right, and the suffering of the animals involved is fucking irrelevant. Lions don't give a fuck about the screams of a wildebeest as they disembowel it for a dinner. There is nothing, save for your ego, that gives you a reason to act or feel any different.",appeal to nature,"**correct.**
+
+the segment contains the fallacy of **appeal to nature**. this fallacy occurs when an argument assumes that something is good because it is 'natural' or bad because it is 'unnatural'. in this case, the author argues that killing for food is morally justified because it is part of the natural order.
+
+**explanation:**
+
+* the author invokes the vastness of evolutionary history and the survival of various species to support the claim that killing for food is natural.
+* however, this argument confuses the existence of something with its moral acceptability.
+* the fact that other animals engage in killing for food does not necessarily mean it is morally justified for humans.
+
+**therefore, the segment commits the fallacy of appeal to nature by using the supposed naturalness of killing for food to justify its moral permissibility.**",True,appeal to nature
+43,"Everybody who's looked at it, 500 economists, seven Nobel prize winners, say it's bad for the economy.",appeal to (false) authority,"**correct answer:** appeal to authority
+
+**explanation:**
+the segment relies on the authority of economists and nobel prize winners to support the claim that something is bad for the economy without providing any evidence or reasoning to establish their expertise or the relevance of their opinion to the argument. this is an example of the fallacy of appeal to authority.",False,appeal to (false) authority
+44,It's going to blow a hole in the deficit It's going to raise taxes on nine million people and require bigger cuts than the one I vetoed.,appeal to fear,the segment contains the fallacy of **appeal to fear**. this fallacy occurs when an arguer uses exaggerated or unfounded threats of negative consequences to persuade their audience.,True,appeal to fear
+45,"It's going to blow a hole in the deficit It's going to raise taxes on nine million people and require bigger cuts than the one I vetoed. Our plan is better, it will take us into the future with a growing economy and healthier families.",false dilemma,"**the segment contains the fallacy of appeal to negative emotion.**
+
+this fallacy occurs when an arguer uses fear-mongering or exaggerated negative consequences to persuade the audience, without providing substantial evidence or logical reasoning.",False,appeal to fear
+45,"It's going to blow a hole in the deficit It's going to raise taxes on nine million people and require bigger cuts than the one I vetoed. Our plan is better, it will take us into the future with a growing economy and healthier families.",false dilemma,"**the segment contains the fallacy of appeal to negative emotion.**
+
+this fallacy occurs when an arguer uses fear-mongering or exaggerated negative consequences to persuade the audience, without providing substantial evidence or logical reasoning.",False,appeal to emotion (level 1)
+46,"Our plan is better, it will take us into the future with a growing economy and healthier families.",appeal to positive emotion,"**the segment contains the fallacy of appeal to positive emotion.**
+
+this fallacy occurs when the argument relies on emotional language rather than logical reasoning to persuade the audience.",True,appeal to positive emotion
+47,"If indoor smoking laws are passed for bars, the bars will go out of business since people who drink, smoke while they drink.",causal oversimplification,"**fallacy:** slippery slope
+
+**explanation:**
+the slippery slope fallacy occurs when an arguer concludes that a relatively small or moderate action will inevitably lead to a much larger and often unlikely consequence. in this segment, the arguer suggests that passing indoor smoking laws for bars will cause them to go out of business simply because some people smoke while they drink. this ignores the numerous other factors that influence a bar's success or failure.",False,slippery slope
+48,"You should drive on the right side of the road because that is what the law says, and the law is the law.",circular reasoning,"**correct answer:**
+
+the segment contains the fallacy of **appeal to authority**.
+
+**explanation:**
+
+- the argument assumes that simply because the law says something is true, it is automatically true.
+- this overlooks the possibility that the law may be wrong or that there may be other valid perspectives that disagree with the law.
+
+
+**definition of appeal to authority:**
+
+this fallacy occurs when an argument relies on the authority figure without providing any logical or factual evidence to support the claim.",False,appeal to (false) authority
+49,"If that were the case, a lot of pro vaxxers wouldn't have an informed opinion either and let's be honest: they don't.",hasty generalization,"**fallacy:** appeal to poverty of imagination
+
+**explanation:**
+the segment assumes that just because some pro-vaxxers may not have an informed opinion due to a lack of information or evidence, they all lack an informed opinion. this is a generalization that fails to consider the possibility that some pro-vaxxers may have an informed opinion despite having limited information or evidence.",False,hasty generalization
+50,"If that were the case, a lot of pro vaxxers wouldn't have an informed opinion either and let's be honest: they don't. Herd mentality is as much a thing as herd immunity.",equivocation,"**fallacy:** appeal to authority
+
+**explanation:** the segment relies on the unsubstantiated assumption that the authority of ""herd mentality"" is comparable to the authority of an informed opinion. this fallacy undermines the argument by failing to provide evidence or reasoning to support the claim.",False,appeal to (false) authority
+51,"What antivaxxers need is someone with a PhD drawing a conclusion they agree with so they can repeat and circlejerk that to oblivion. And someone with a PhD should know the difference between an actual result and""oh hey one number out of 100 says this so it must be true"".",Appeal to Ridicule,"**correct answer:**
+
+the segment contains the fallacy of **appeal to authority**.
+
+**explanation:**
+
+the fallacy of appeal to authority occurs when someone cites an authority figure (in this case, a phd) to support an argument without providing any evidence or reasoning to establish the authority's expertise or the validity of their conclusion.
+
+**in the given segment:**
+
+- the author suggests that a phd is needed to provide a conclusion that aligns with the antivaxer's beliefs.
+- they imply that the phd's authority justifies the conclusion, regardless of any supporting evidence or reasoning.
+
+this constitutes an appeal to authority fallacy as the author relies on the supposed authority of the phd to validate their argument without providing any evidence or reasoning to establish the phd's expertise or the validity of their conclusion.",False,appeal to (false) authority
+52,"It happened because I could work with people -- Republicans and Democrats. That's why we've had 24 retired generals and admirals, hundreds of business people, many of them Republican, support this campaign. You have to decide whether you want to change or not.",appeal to (false) authority,"**the segment contains the fallacy of appeal to authority.**
+
+this fallacy occurs when the arguer cites the endorsements of influential figures to bolster their argument without providing any evidence or reasoning to support their claims.",False,appeal to (false) authority
+53,You have to decide whether you want to change or not.,false dilemma,"**correct answer:**
+
+the segment contains the fallacy of **false dilemma**. this fallacy occurs when only two options are presented as the only possibilities, even though other options may exist.
+
+**explanation:**
+the segment suggests that the only two options are to change or not change. however, this is a false dilemma as there may be other options not mentioned.",True,false dilemma
+54,Fortnite is the best game ever. Everyone is playing it!,ad populum,"**the segment contains the fallacy of appeal to popularity.**
+
+this fallacy occurs when the arguer concludes that something is good simply because many people believe it, without any objective evidence or reasoning.",False,ad populum
+55,"Every sunrise, the rooster makes a sound. So it is the rooster which makes the sun rise.",false causality,"**correct answer:** causal oversimplification
+
+**explanation:**
+
+the segment contains the fallacy of causal oversimplification. this fallacy occurs when a simple, single cause is attributed for a complex outcome that has multiple potential causes. in the segment, the rooster is incorrectly identified as the sole cause of the sunrise, ignoring the numerous factors that contribute to the astronomical phenomenon.",False,causal oversimplification
+56,I passed my math test after going out to the movies the night before. I should go to the movies the night before every math test!,false causality,"the segment contains the fallacy of **post hoc ergo propter hoc**. this fallacy occurs when someone concludes that because one event happened after another, the first event caused the second event. in this case, the segment incorrectly assumes that going to the movies the night before every math test caused the student to pass the test.",False,false causality
+57,"According to Freud, your belief in God stems from your need for a strong father figure. So don't you see that it's silly to continue believing in God?",Appeal to Ridicule,"**fallacy:** straw man
+
+**explanation:**
+the segment misrepresents freud's argument by exaggerating its claim. freud argued that the belief in god could be a result of a need for a strong father figure, but he did not suggest that this was the only or primary motivation for religious belief. the segment's argument ignores other possible factors that influence religious belief, such as cultural, social, and psychological factors.",False,straw man
+58,Human are omnivores. End of argument.,appeal to nature,"**answer:**
+
+the segment contains the fallacy of **hasty generalization**.
+
+**explanation:**
+
+hasty generalization occurs when a conclusion is drawn based on a small or unrepresentative sample size. in this case, the argument concludes that humans are omnivores solely based on the fact that humans have the physical capability of consuming both plant and animal matter. this is a hasty generalization because it ignores the vast majority of human dietary behavior, which suggests that humans are primarily herbivores.",False,ad populum
+58,Human are omnivores. End of argument.,appeal to nature,"**answer:**
+
+the segment contains the fallacy of **hasty generalization**.
+
+**explanation:**
+
+hasty generalization occurs when a conclusion is drawn based on a small or unrepresentative sample size. in this case, the argument concludes that humans are omnivores solely based on the fact that humans have the physical capability of consuming both plant and animal matter. this is a hasty generalization because it ignores the vast majority of human dietary behavior, which suggests that humans are primarily herbivores.",False,hasty generalization
+59,I got into a discussion with someone on here who claimed that even though he supported legalized abortion and was pro choice he still received.,false dilemma,"**answer:** ad hominem
+
+**explanation:**
+the fallacy of ad hominem occurs when the arguer attacks the person making the argument rather than addressing the argument itself. in the given segment, the arguer suggests that the person's support for legalized abortion is the reason they are receiving negative treatment. this is an irrelevant attack that does not address the original argument.",False,ad hominem
+60,And he was flippant and dismissive. The Eucharist is not a reward or something you deserve if you are obstinate to church teachings,ad hominem,"**the segment contains the fallacy of ad hominem.**
+
+this fallacy occurs when the speaker attacks the character of the person making the argument (flippant and dismissive) rather than addressing the substance of the argument itself (whether the eucharist is a reward or not).",True,ad hominem
+61,"Choosing compassion over virtue signaling should not place any individual in mortal sin. After all, 51% of US Catholics believe abortion should be legal in all or most cases.",ad populum,"**correct answer:**
+
+the segment contains the fallacy of **appeal to majority**. this fallacy occurs when the arguer assumes that something is true simply because a majority of people believe it, without any logical evidence to support the claim.",False,ad populum
+62,"I dont have to justify it, vegans assume most people consider an animal life to be on par with human life, its not.",straw man,"**response:**
+
+the segment contains the fallacy of **appeal to negative emotion**. this fallacy occurs when the speaker attempts to discredit an argument by appealing to negative emotions (such as assumption or pity) rather than presenting logical evidence or reasoning.",False,appeal to emotion (level 1)
+63,"There is nothing morally wrong about killing animals for food, you realise animals kill other animals for food too right?",appeal to nature,"**correct answer:** false analogy
+
+**explanation:**
+the argument commits the fallacy of false analogy by drawing an inaccurate parallel between the actions of animals and humans in the context of food. while animals may engage in predation, this does not automatically justify or excuse human actions of killing animals for food. there are significant ethical and philosophical differences between the two scenarios.",False,false analogy
+64,We won the Cold War because we invested and we went forward.,causal oversimplification,"**fallacy:** causal oversimplification
+
+**explanation:**
+
+* the segment simplifies the victory of the cold war to investing and pursuing a forward-thinking approach.
+* it overlooks other factors that may have contributed to the outcome, such as geopolitical strategies, economic conditions, and technological advancements.
+* this fallacy suggests that a single cause (investing and going forward) is responsible for a complex event (victory in the cold war).",True,causal oversimplification
+65,"He was born to Catholic parents and raised as a Catholic until his confirmation in 8th grade. Therefore, he is bound to want to defend some Catholic traditions and, therefore, cannot be taken seriously.",false causality,"**answer:**
+
+the segment contains the fallacy of **ad hominem**.
+
+**explanation:**
+
+* ad hominem fallacy attacks the person making the argument rather than addressing the argument itself.
+* in the given segment, the argument suggests that someone's upbringing and religious beliefs are irrelevant to their ability to think critically or make independent judgments.
+
+therefore, the fallacy of ad hominem is present in the segment.",False,ad hominem
+66,"Therefore, he is bound to want to defend some Catholic traditions and, therefore, cannot be taken seriously.",ad hominem,"**fallacy:** ad populum
+
+**explanation:** the segment relies on the assumption that something is true simply because many people believe it, without any logical evidence or reasoning. this fallacy is often used to dismiss opposing arguments by implying that they are not worth considering because they are held by only a few people.",False,ad populum
+67,"As a matter of fact, the tools now given to the terrorist fighters are the same tools that we've been using against drug dealers and white-collar criminals.",nothing,"**correct answer:**
+
+the segment contains the fallacy of **equivocation**.
+
+**explanation:**
+
+* equivocation is a fallacy that occurs when the same word or phrase is used with two different meanings, thereby misleading the listener.
+* in the segment, the speaker uses the same tools used against drug dealers and white-collar criminals to justify their use against terrorist fighters.
+* however, the tools used against different types of criminals are likely different in nature and motivation.
+
+**therefore, the fallacy of equivocation is present in the segment.**",False,equivocation
+68,My way of responding to difficult patients is by far the most ethical because no other way is so ethical and it is the only way that is completely ethical.,circular reasoning,"**the segment contains the fallacy of appeal to authority.**
+
+this fallacy occurs when the speaker assumes that something is true simply because an authority figure (in this case, the speaker themself) believes it to be true.",False,appeal to (false) authority
+69,"Well, democracy gave us Trump to the whole world. I'll let others judge what democracy is.",causal oversimplification,"**fallacy:** straw man
+
+**explanation:**
+the segment presents a distorted view of democracy by associating it solely with the presidency of trump. this is a straw man fallacy, as it misrepresents the argument by exaggerating the connection between democracy and trump.",False,straw man
+70,"Chihuahuas are good inside dogs. German Shepherds are dogs; therefore, German Shepherds would be good inside dogs, too.",false analogy,"the segment contains the fallacy of **hasty generalization**. this fallacy occurs when a conclusion is drawn from a limited or biased sample, in this case, assuming that all dogs are suitable for indoor living based on the experience with chihuahuas.",False,hasty generalization
+71,"Most animals, including humans are meant to consume meat. Humans would've probably died out by eating vegetables alone. So why not doing what we were meant to do by enjoying some salmon?",appeal to nature,"**correct answer:** appeal to nature
+
+**explanation:**
+the segment assumes that humans are meant to consume meat because it is natural, without providing any evidence or reasoning to support this claim. the fallacy of appeal to nature often relies on cultural assumptions rather than objective facts.",True,appeal to nature
+72,So why not doing what we were meant to do by enjoying some salmon? Or do you actually think fish is okay since you don't think they look cute?,Appeal to Ridicule,"**the segment contains the fallacy of appeal to positive emotion.**
+
+this fallacy occurs when the writer attempts to persuade the audience by appealing to their positive emotions towards salmon, rather than providing logical arguments or evidence to support their claim.",False,appeal to positive emotion
+73,The United States is the wealthiest nation in the world. So every American is wealthy.,fallacy of division,"the segment contains the fallacy of **hasty generalization**. this fallacy occurs when a conclusion is drawn based on a small or unrepresentative sample size, in this case, assuming that all americans are wealthy simply because the united states is the wealthiest nation in the world.",False,hasty generalization
+74,"As he goes by, the driver yells""get on the sidewalk where you belong!"" Sam sees that the car has Ohio plates and concludes that all Ohio drivers are jerks.",hasty generalization,"**correct answer:** hasty generalization
+
+**explanation:**
+hasty generalization occurs when a conclusion is drawn based on a small or biased sample size, without considering the wider population. in the given segment, sam concludes that all ohio drivers are jerks based on a single interaction with one driver. this conclusion is premature and does not take into account the diverse driving habits of the entire population of ohio drivers.",True,hasty generalization
+75,Advancement and maybe kickbacks? Either that or he's just a psychopath who gets off on destroying people's lives. Either way this asshole should never see the light of day again.,false dilemma,"**fallacy:** ad hominem
+
+**explanation:**
+the segment contains an ad hominem fallacy. the author attacks the character of the person being discussed rather than addressing the actual issue or presenting any logical arguments.",False,ad hominem
+76,Either that or he's just a psychopath who gets off on destroying people's lives. Either way this asshole should never see the light of day again.,ad hominem,"**correct answer:**
+
+the segment contains the fallacy of **ad hominem**. this fallacy occurs when the argument focuses on attacking the person making the argument rather than addressing the actual substance of the argument itself.
+
+**explanation:**
+
+the argument in the segment attacks the character of the person who made it rather than addressing the merits of their argument. this fallacy is often used to deflect attention from the actual issue and to avoid having to engage in a meaningful debate.",True,ad hominem
+77,"only man is rational no women is man Therefore, no women is rational",equivocation,"**answer:** generalization
+
+**explanation:**
+
+the argument commits the fallacy of generalization by drawing a conclusion about an entire group (women) based on a limited premise (only men are rational). this fallacy arises when a conclusion is incorrectly inferred from a limited or biased sample to the entire population. in this case, the argument wrongly concludes that no women are rational simply because it assumes that all men are rational. this overlooks the possibility that women can also be rational.",False,hasty generalization
+78,"You should never gamble. Once you start gambling you find it hard to stop. Soon you are spending all your money on gambling, and eventually you will turn to crime to support your earnings.",slippery slope,"**correct answer:**
+
+the segment contains the fallacy of slippery slope. this fallacy occurs when an arguer concludes that a relatively small action will inevitably lead to a series of increasingly negative or extreme consequences, without adequate evidence or reasoning to support this conclusion.
+
+**explanation:**
+
+the argument suggests that once someone starts gambling, they will inevitably engage in criminal behavior. however, this conclusion is not necessarily supported by evidence. many people gamble without resorting to crime. the argument ignores other factors that may influence whether someone commits a crime, such as their individual choices, circumstances, and environment.",True,slippery slope
+79,"If it is very low, for instance around one, it means greenhouse gas emissions are simply not worth doing anything about. But if ECS is high -- say, around four degrees or more -- then climate change is probably a big problem. We may not be able to stop it, but we' d better get ready to adapt to it.",false dilemma,"**answer:**
+
+the segment contains the fallacy of **false analogy**.
+
+**explanation:**
+
+* a false analogy occurs when a comparison is misleading because it ignores important differences between the two things being compared.
+* in the given segment, the argument wrongly suggests that the presence or absence of greenhouse gas emissions is analogous to the severity of climate change, ignoring other factors that contribute to climate change.",False,false analogy
+80,"Hopefully the police will use their resources on more serious issues such as knife crime, drug gangs and scooter criminals.",appeal to worse problems,"**correct answer:** appeal to worse problems
+
+**explanation:** the arguer suggests that the police should prioritize more serious crimes instead of addressing the issue of minor scooter criminals. this is an example of the fallacy of appeal to worse problems, which occurs when someone dismisses a current problem by claiming that it is not as serious as other, more pressing issues.",True,appeal to worse problems
+81,From a practicing judge?,ad hominem,"**fallacy:** ad populum
+
+**explanation:** the segment relies on the popularity or authority of a source (a practicing judge) to establish the validity of an argument, rather than presenting logical evidence or sound reasoning.",False,ad populum
+81,From a practicing judge?,ad hominem,"**fallacy:** ad populum
+
+**explanation:** the segment relies on the popularity or authority of a source (a practicing judge) to establish the validity of an argument, rather than presenting logical evidence or sound reasoning.",False,appeal to (false) authority
+82,"So don't be upset someone is your age and way luckier than you, be thankful you weren't born into worse circumstances because there are likely plenty.",appeal to worse problems,"**the answer is correct.**
+
+**explanation:**
+
+the segment uses emotional manipulation by appealing to the listener's sense of gratitude for their current circumstances, rather than presenting concrete evidence or logical reasoning to support the claim. this fallacy often employs language that suggests the listener would feel ashamed or inadequate if they did not accept the premise.
+
+**characteristics of the appeal to positive emotion fallacy:**
+
+- uses emotional language or imagery to evoke positive feelings.
+- ignores or diminishes the validity of counter-arguments.
+- often employs statements like ""you would feel bad/guilty/ashamed if you didn't agree.""",False,appeal to positive emotion
+83,"Also, fun fact, they've done studies and if you make around $80k in the US anything beyond that doesn't really contribute to your overall happiness.",straw man,"**the segment contains the fallacy of appeal to pigeonholing.**
+
+this fallacy occurs when a broad category is divided into smaller and seemingly distinct subgroups, each with distinct characteristics, despite the fact that the subgroups are not actually distinct in meaningful ways.
+
+in this case, the segment suggests that happiness is only attainable up to a certain income level, ignoring the fact that factors other than income can contribute to overall happiness.",False,no match
+84,I think what's cooler about Post Malone and other wildly successful people is they are doing what they love doing. That's real success.,straw man,"**fallacy:** appeal to positive emotion
+
+**explanation:** the argument relies on the positive emotion of ""coolness"" rather than logical reasoning to support the conclusion that doing what one loves is real success.",False,appeal to positive emotion
+85,We know God exists because he made everything,circular reasoning,"**the segment contains the fallacy of design argument.**
+
+this fallacy occurs when someone assumes that complex design in the natural world necessarily implies the work of a supernatural designer.",False,no match
+86,"2 chicks rejected me for being a virgin. I had sex as soon as I started lying about having had sex. And all those weren't even casual sex, it was in the frame of relationships. Apparently it holds bearing on who you are as a person and you're not the same person when you loose it.",equivocation,"**correct answer:** post hoc ergo propter hoc
+
+**explanation:**
+the fallacy of post hoc ergo propter hoc occurs when someone assumes that because one event (lying about having had sex) preceded another event (the chicks rejecting the speaker), the lying must have caused the rejection. however, other factors not mentioned in the segment could have contributed to the chicks' rejection.",False,false causality
+87,"The numbers show that we hit twice the audience with TV, and our focus groups remember the TV commercial 38 percent more than the radio slot.",nothing,"**the segment contains the fallacy of selection bias.**
+
+this fallacy occurs when the sample size or selection method is not representative of the population, leading to a misleading conclusion.
+
+**explanation:**
+- the segment only considers the recall of individuals who were exposed to tv commercials.
+- it does not consider the recall of individuals who were exposed to other advertising mediums.
+- this bias leads to the conclusion that tv commercials are more memorable simply because they were shown to a sample of individuals who are more likely to remember them.",False,no match
+88,This is a ridiculous post and this mechanic will never be changed. Seat switching has always been a BF mechanic.,appeal to tradition,the segment contains the fallacy of **straw man**. this fallacy occurs when the speaker misrepresents the opponent's argument (seat switching is always a bf mechanic) to make it easier to attack (bf mechanic is the only acceptable practice).,False,straw man
+89,Dont sit here and try and talk about realism or how you shouldnt be able to swap instantly between seats when there is hardly anything realistic about BF vehicle play in general.,Appeal to Ridicule,"**the segment contains the fallacy of appeal to tradition.**
+
+this fallacy occurs when an argument relies on the idea that something is true simply because it has always been done that way or is considered traditional. in this case, the argument assumes that the way things have always been done in bf vehicle play is realistic, even though it may not actually be realistic.",False,appeal to tradition
+90,Sounds like you need to get better if you are having trouble shooting down the most vulnerable aircraft in the sky.,Appeal to Ridicule,"**correct answer:**
+
+the segment contains the fallacy of appeal to positive emotion.
+
+**explanation:**
+
+the fallacy of appeal to positive emotion occurs when the argument attempts to persuade the listener through the use of exaggerated or emotional language rather than logical reasoning. in the given segment, the argument uses exaggerated language (""need to get better"") and emotional appeal (""most vulnerable aircraft"") to persuade the listener that the opponent is weak, rather than presenting logical evidence or arguments.",False,appeal to positive emotion
+91,"Social media is the worst. People don't realize how much of an effect it has on someone, especially his generation.",hasty generalization,"**the segment contains the fallacy of appeal to tradition.**
+
+this fallacy occurs when an argument relies on the idea that something is true simply because it has always been that way or is considered traditional. in this case, the argument suggests that social media is negative simply because it is new and unfamiliar to previous generations.",False,appeal to tradition
+92,Anyone in the public eye who has any sort of mental health issue should rid themselves of their accounts if they possibly can.,false dilemma,"**your response is correct.**
+
+the segment contains the fallacy of **appeal to pity**. this fallacy occurs when an argument attempts to persuade the audience by appealing to their emotions of pity or compassion without providing any logical reasoning or evidence.",False,appeal to pity
+93,"China has people in internment camps and people in the middle east get stoned for not wearing head scarves, but it's social media that's the worst?",appeal to worse problems,"**answer:**
+
+the segment contains the fallacy of **selective outrage**.
+
+**explanation:**
+
+* the argument selectively focuses on extreme or sensational events (people in internment camps and stoning practices) to support the claim that social media is worse.
+* this ignores other potentially harmful aspects of these cultures, creating an unbalanced and incomplete analysis.
+* the argument exploits emotional reactions to these events to undermine the credibility of the claim about social media.",False,no match
+94,"Mr. Gough supports the cell phone ban and he's an idiot, so we should let teachers keep their cell phones.",ad hominem,"**answer:**
+
+the segment contains the fallacy of **ad hominem**.
+
+**explanation:**
+
+* ad hominem is a fallacy that involves attacking the person making the argument instead of addressing the actual content of their argument.
+* in the given segment, the argument that teachers should keep their cell phones is dismissed simply because the person supporting the ban is labelled as an idiot.
+* this ignores the merits of the argument itself and focuses on a personal attack rather than on the actual issue.",True,ad hominem
+95,"Bill, you drive a beat-up car from the 1980s. For this reason, we can never allow you to be a lifeguard at the community pool.",ad hominem,"**the segment contains the fallacy of ad hominem.**
+
+this fallacy occurs when the argument is based on irrelevant personal characteristics of the speaker instead of addressing the actual issue or merit of the claim. in this case, the argument is based on the speaker's possession of a beat-up car from the 1980s, rather than on their ability or suitability to be a lifeguard.",True,ad hominem
+96,The teenagers where rude and disrespectful therefore all teenagers are rude and disrespectful.,hasty generalization,"**fallacy:** hasty generalization
+
+**explanation:**
+hasty generalization occurs when a conclusion is drawn about a larger group based on a limited sample size or observation. in the given segment, the speaker has incorrectly assumed that all teenagers are rude and disrespectful simply because they observed a few teenagers being rude and disrespectful. this is a fallacy because the speaker has not considered the possibility that the observed teenagers are simply representative of a small subset of teenagers, and not of the entire population.",True,hasty generalization
+97,"If you give the government *any* control over what is considered""hate speech"", you are basically relinquishing your freedom of speech. It's a slippery slope. For example: saying""hateful"" things about Islam becomes illegal. Let's say you criticise Sharia laws (laws based off of the rules set out in Islam for those who are unaware). Next thing you know, your own government has full power to censor this""hate"", and you are persecuted simply for disagreeing with the laws of an ally nation. Governments have shown time and time again that they are more than happy to censor and abuse their peoples. Don't ever relinquish your freedoms willingly.",appeal to fear,"**correct answer:**
+
+the segment contains the fallacy of **slippery slope**. this fallacy occurs when an arguer suggests that a relatively small or moderate action will inevitably lead to a much larger and more negative consequence, often without any evidence to support this claim.
+
+**explanation:**
+
+the argument implies that if the government has any control over what is considered ""hate speech,"" it will inevitably lead to the censorship of all speech, including criticizing islamic laws. however, this ignores the fact that there are many other examples of government regulation of speech that do not result in censorship.
+
+**characteristics of the slippery slope fallacy:**
+
+- a relatively small action is claimed to lead to a much larger and more negative consequence.
+- the connection between the two actions is not necessarily logical or supported by evidence.
+- the argument often exaggerates or ignores potential mitigating factors.",False,slippery slope
+98,Governments have shown time and time again that they are more than happy to censor and abuse their peoples.,hasty generalization,"**fallacy:** appeal to negative emotion
+
+**explanation:** the segment uses exaggerated and unfounded negative emotions (censorship and abuse) to persuade the audience rather than presenting logical arguments.",False,appeal to emotion (level 1)
+99,That means it must be really good!,ad populum,"**correct answer:** appeal to positive emotion
+
+**explanation:** the segment relies on the audience's positive emotions of excitement and happiness to support the argument that something is good, without providing any logical evidence or reasoning. this is a fallacy commonly used to manipulate people's emotions rather than present valid arguments.",False,appeal to positive emotion
+100,"If we ban Hummers because they are bad for the environment, then eventually the government will ban all cars; therefore, we should not ban Hummers.""",slippery slope,"**correct answer:**
+
+the segment contains the fallacy of **slippery slope**. this fallacy occurs when an argument exaggerates the consequences of a minor action, leading to an unlikely and often ridiculous outcome.
+
+**explanation:**
+
+the argument suggests that if we ban hummers because they are bad for the environment, then the government will eventually ban all cars. this implication is highly unlikely and does not follow logically from the premise. the fallacy lies in the exaggerated and unlikely consequence of banning hummers leading to the banning of all cars.",True,slippery slope
+101,"My roommate from Maine loves lobsters, therefore all people from Maine love lobsters.",hasty generalization,"**correct answer:**
+
+the segment contains the fallacy of **hasty generalization**.
+
+**explanation:**
+
+hasty generalization is a logical fallacy that occurs when a conclusion is drawn based on a small or unrepresentative sample size. in this case, the speaker concludes that all people from maine love lobsters simply because their roommate from maine loves lobsters. this is an invalid generalization because it is not based on sufficient evidence or the entire population of maine.",True,hasty generalization
+102,I worked in an engineering factory for years and was never supplied a back belt so I now have a bad back and the only way I can get any sleep is to take 4 pain killers before bed or smoke one joint so I'll stick to what's natural rather than use so many painkillers my liver will be useless in a few years so cannabis for the win with me,appeal to nature,"**the segment contains the fallacy of appeal to tradition.**
+
+this fallacy occurs when someone assumes that something is good because it is traditional or bad because it is 'unnatural', without any logical evidence to support the claim.",False,appeal to tradition
+103,There must be a firm basis to people hating Islam. There are many of us and we can't all be wrong.,ad populum,"**correct answer:**
+
+the segment contains the fallacy of **appeal to numbers**. this fallacy occurs when an argument assumes that something is true simply because many people believe it, without any logical or empirical evidence to support the claim.",False,no match
+104,"You are damn right i am and with good reason. With my own two eyes i have seen how it destroys countries, Islamic countries none the less.",false causality,"**the segment contains the fallacy of appeal to emotion (fear)**.
+
+this fallacy occurs when the author relies on fear-mongering and emotional language (in this case, the destruction of countries) rather than providing logical evidence to support their claim.",False,appeal to fear
+104,"You are damn right i am and with good reason. With my own two eyes i have seen how it destroys countries, Islamic countries none the less.",false causality,"**the segment contains the fallacy of appeal to emotion (fear)**.
+
+this fallacy occurs when the author relies on fear-mongering and emotional language (in this case, the destruction of countries) rather than providing logical evidence to support their claim.",False,appeal to emotion (level 1)
+105,People that support this religion blowing each other up.,appeal to fear,"**correct answer:**
+
+the segment contains the fallacy of **appeal to emotion**. this fallacy occurs when the arguer uses strong emotions, such as fear or anger, rather than logical reasoning to support their claim.
+
+**explanation:**
+
+the argument implies that people who support this religion are motivated by their willingness to blow each other up, appealing to a negative emotional response rather than presenting logical evidence or reasoning.",False,appeal to anger
+105,People that support this religion blowing each other up.,appeal to fear,"**correct answer:**
+
+the segment contains the fallacy of **appeal to emotion**. this fallacy occurs when the arguer uses strong emotions, such as fear or anger, rather than logical reasoning to support their claim.
+
+**explanation:**
+
+the argument implies that people who support this religion are motivated by their willingness to blow each other up, appealing to a negative emotional response rather than presenting logical evidence or reasoning.",False,appeal to fear
+105,People that support this religion blowing each other up.,appeal to fear,"**correct answer:**
+
+the segment contains the fallacy of **appeal to emotion**. this fallacy occurs when the arguer uses strong emotions, such as fear or anger, rather than logical reasoning to support their claim.
+
+**explanation:**
+
+the argument implies that people who support this religion are motivated by their willingness to blow each other up, appealing to a negative emotional response rather than presenting logical evidence or reasoning.",False,appeal to emotion (level 1)
+106,"You are doing a dis-service to your country being""politically correct"" in regard to Islam and your children will suffer because of it.",appeal to fear,"**the segment contains the fallacy of ad hominem.**
+
+this fallacy occurs when the arguer attacks the person making the argument rather than addressing the argument itself. in this case, the arguer is attacking the person's political correctness rather than addressing the merits of the argument.",False,ad hominem
+107,Good thing CA is able to focus on this hugely important issue and doesn't have massive homelessness plaguing it's cities or an ever increasing affordable housing crisis to worry about.,appeal to worse problems,"**the segment contains the fallacy of selective perception.**
+
+this fallacy occurs when an individual focuses on or emphasizes certain aspects of a situation while ignoring or downplaying other relevant factors. in this case, the statement overlooks the existence of homelessness and housing affordability issues in california, despite acknowledging their importance.",False,no match
+108,I'm so glad CA is at the forefront of tackling our nation's most pressing issues. Keep being a beacon of hope CA and I'm sure other states will follow.,Appeal to Ridicule,"**fallacy:** appeal to positive emotion
+
+**explanation:** the segment relies on emotional language and optimism to endorse california's handling of national issues, rather than presenting logical arguments or evidence to support this claim.",False,appeal to positive emotion
+109,The policies of the last eight years and -- and Washington's unwillingness to tackle the tough problems for decades has left us in the worst economic crisis since the Great Depression.,causal oversimplification,"**fallacy:** appeal to negative emotion
+
+**explanation:** the segment uses exaggerated and emotionally charged language (""worst economic crisis since the great depression"") to create a sense of fear and hopelessness. this tactic aims to persuade the audience without providing any concrete evidence or logical arguments.",False,appeal to fear
+109,The policies of the last eight years and -- and Washington's unwillingness to tackle the tough problems for decades has left us in the worst economic crisis since the Great Depression.,causal oversimplification,"**fallacy:** appeal to negative emotion
+
+**explanation:** the segment uses exaggerated and emotionally charged language (""worst economic crisis since the great depression"") to create a sense of fear and hopelessness. this tactic aims to persuade the audience without providing any concrete evidence or logical arguments.",False,appeal to emotion (level 1)
+110,And that's why the biggest risk we could take right now is to adopt the same failed policies and the same failed politics that we've seen over the last eight years and somehow expect a different result.,appeal to fear,"**the segment contains the fallacy of slippery slope.**
+
+this fallacy occurs when an arguer exaggerates the potential consequences of a minor action, implying that it will inevitably lead to a disastrous outcome. in this case, the arguer suggests that continuing to implement failed policies will inevitably lead to disastrous results, despite offering no evidence to support this claim.",False,slippery slope
+111,"Ive collectively had sex hundreds of times with my partners over the years, that doesn't make me better than someone who's had sex with more people, one time each.",false analogy,"**the segment contains the fallacy of equivocation.**
+
+**explanation:**
+
+* equivocation is a fallacy that involves changing the meaning of a word or phrase without altering the spoken words.
+* in the segment, the speaker attempts to manipulate the meaning of ""better"" by associating it with the frequency of sexual encounters rather than quality or intimacy.
+* the frequency of sexual encounters is not a valid indicator of personal worth or moral superiority.",False,equivocation
+112,Almost everyone in the world will look more favorably on a person who has had sex 100x times with one person versus having sex 1x each with 100 different people.,ad populum,"**the response is correct.**
+
+**explanation:**
+
+the fallacy of availability heuristic occurs when an individual draws a conclusion based on the ease with which they can recall or visualize certain instances of a particular type, rather than on objective or statistical data.
+
+in the segment, the author likely relies on the ease of remembering people having multiple encounters with one partner over having numerous casual partners to conclude that the former is more favorable. however, this conclusion is not necessarily supported by objective data or widespread experience.
+
+**therefore, the fallacy of availability heuristic is present in the segment.**",False,no match
+113,I work 6 ten hour days very frequently and don't get weekends off. In a way it's pretty insulting to see people angry with a 9-5 40 hour work week. I'd be so grateful to have that extra time to spend with my family and friends.,appeal to pity,"**the segment contains the fallacy of appeal to pity.**
+
+this fallacy occurs when the speaker implies that the listener would feel pity for the speaker if they were in the same situation, thereby influencing the listener's opinion without providing logical reasoning.",True,appeal to pity
+114,A few students are misbehaving...therefore the whole class is bad.,hasty generalization,"**fallacy:** hasty generalization
+
+**explanation:** the argument assumes that a few misbehaving students represent the entire class, without considering other factors or the behavior of the remaining students in the class. this is a hasty generalization, as it is inappropriate to draw a conclusion about an entire group based on a limited sample size.",True,hasty generalization
+115,It implies an existing framework of what the extremes of diet are or can be.,straw man,"**response:**
+
+the segment contains the fallacy of **equivocation**.
+
+**explanation:**
+
+- equivocation is a fallacy that involves using a term in two different senses without clarifying the distinction between the two senses.
+- in the segment, the speaker uses the term ""diet"" in both a narrow sense (a specific dietary plan) and a broad sense (a way of eating in general).
+- this ambiguity makes it difficult for the listener to understand the speaker's argument.",False,equivocation
+116,"For example, if we're speaking'natural' diet. Balance can't include any refined sugar at all because we weren't able to process it. Before the food pyramid came around the upper end of sugar consumption would have been much lower.",straw man,"**correct answer:**
+
+the segment contains the fallacy of **appeal to tradition**.
+
+**explanation:**
+
+the fallacy of appeal to tradition occurs when an argument assumes that something is true simply because it has always been done that way or is considered traditional. in this case, the segment assumes that a natural diet should exclude refined sugar solely based on the traditional food pyramid, without providing any evidence or logical reasoning to support this claim.",False,appeal to tradition
+117,But irrespective of whether he thinks it is or not means less than fact that this country cannot morally and socially and economically accept an economy running out the clock on the 20th Century.,appeal to fear,"**correct answer:**
+
+the segment contains the fallacy of **appeal to tradition**. this fallacy occurs when an argument relies on tradition or a widely held belief rather than logical reasoning or evidence.
+
+**explanation:**
+
+* the argument suggests that an economy cannot be morally, socially, or economically accepted if it runs out in the 20th century.
+* this argument relies on the traditional belief that the 20th century is a significant and irreplaceable period in human history.
+* however, this belief is not logically or empirically supported.
+
+**therefore, the fallacy of appeal to tradition is present in the segment.**",False,appeal to tradition
+118,We're treading water. We have families that are hurting. We have people who are unemployed. We have people with no property. We have an administration that is demolishing public housing in our inner cities and not providing anything else but more public housing.,appeal to anger,"**the segment contains the fallacy of appeal to pity.**
+
+this fallacy occurs when the speaker attempts to evoke sympathy or emotional concern for a situation without providing concrete evidence or logical arguments to support their claim.",False,appeal to pity
+119,"Their solution to the inner city is more -- excuse the expression but it's true,""socialism.""",false dilemma,"**correct answer:**
+
+the segment contains the fallacy of **appeal to positive emotion**. this fallacy occurs when an argument relies on strong or emotional language rather than logical reasoning to persuade the audience.",False,appeal to positive emotion
+120,"Michael Jackson, Kurt Cobain, and Jimi Hendrix were rock stars who died young. Therefore, if you become a rock star, don't expect to live a long life.",hasty generalization,"**the segment contains the fallacy of hasty generalization.**
+
+this fallacy occurs when a conclusion is drawn based on a small or unrepresentative sample. in this case, the deaths of a few rock stars are used to generalize about the lifespan of all rock stars.",True,hasty generalization
+121,Over 5 million Filipinos use our products. It's time to switch to our brand now!,ad populum,"**correct answer:** appeal to populum
+
+**explanation:**
+the segment relies on the common misconception that something is automatically good or valid just because a large number of people believe or use it. this fallacy ignores the need for objective evidence and logical reasoning to support a claim.",False,no match
+122,"I think I'm right because I believe that we must have a consistent foreign policy, a strong America, and a strong economy.",appeal to positive emotion,"**your response is correct.**
+
+the segment contains the fallacy of appeal to positive emotion. this fallacy occurs when the arguer relies on positive emotions (such as patriotism or economic security) rather than logical reasoning to support their claim.",True,appeal to positive emotion
+123,it's clear enough so that there are 2.18 billion Christians,ad populum,"**the segment contains the fallacy of appeal to numbers.**
+
+this fallacy occurs when a large number of people believe something without providing any logical or empirical evidence to support the claim.",False,no match
+124,"And the budget plan that I've put out, according to the""Los Angeles Times"" again, the way these things are typically measured as a percentage of the GDP, will bring government spending down to the lowest level in 50 years. So I want to proceed carefully to cover more people.",appeal to (false) authority,"**the segment contains the fallacy of hasty generalization.**
+
+this fallacy occurs when a conclusion is drawn based on a small or unrepresentative sample size, in this case, relying on a single news article as the basis for a widespread claim about government spending.",False,hasty generalization
+125,"Animals aren't food for us. If you wouldn't eat a dog or cat, don't eat a cow or chicken. Even if you would eat a dog or cat, don't.",false analogy,"**fallacy:** false analogy
+
+**explanation:**
+the argument confuses the dietary preferences of individuals with the ethical considerations of consuming animals. while it is true that many people do not consume dogs or cats, this does not necessarily mean that it is inappropriate to consume cows or chickens. different cultural and ethical considerations apply to different animals.",True,false analogy
+126,"Animals are food for other animals, why they wouldn't be food for humans?",appeal to nature,"**response:**
+
+the segment contains the fallacy of **appeal to tradition**. this fallacy occurs when an argument relies on tradition or cultural beliefs rather than logical reasoning to support its conclusion.
+
+**explanation:**
+
+* the premise ""animals are food for other animals"" is based on cultural beliefs and traditions, not logical reasoning.
+* the conclusion ""therefore, animals should be food for humans"" simply follows from the premise based on tradition, rather than a logical analysis of the situation.
+
+therefore, the segment contains the fallacy of appeal to tradition.",False,appeal to tradition
+127,The president of Honduras is a good leader because he is a leader of the country.,circular reasoning,"**fallacy:** hasty generalization
+
+**explanation:** the segment commits the fallacy of hasty generalization by assuming that all leaders are good simply because they are leaders. this conclusion is based on a limited and biased sample size, as there are many ineffective and unethical leaders in history.",False,hasty generalization
+128,"The government's bigger than it was when President Kennedy was around, even though he says it's not.",nothing,"**correct answer:**
+
+the segment contains the fallacy of **straw man**.
+
+**explanation:**
+
+* the segment presents a distorted version of president kennedy's statement, claiming that he denies the government is bigger today than during his time.
+* this misrepresentation of kennedy's position allows the speaker to easily attack the argument without directly addressing the original statement.
+
+
+**definition of straw man fallacy:**
+
+a fallacy where the argument is deliberately misrepresented or exaggerated to make it easier to refute, while avoiding the original point.",False,straw man
+129,Families communicate less and less in the past forty years since feminism became mainstream. Feminism is to blame for this deterioration in the family.,false causality,"**correct answer:**
+
+the segment contains the fallacy of **ad hominem**.
+
+**explanation:**
+
+* ad hominem fallacy involves attacking the source or creator of an argument rather than addressing the argument itself.
+* in the given segment, the argument suggests that feminism is responsible for the decline in family communication in the past forty years. however, the argument does not provide any evidence or reasoning to support this claim.
+* the attack is directed towards feminism as a whole, rather than addressing the underlying reasons for the decline in family communication.
+
+therefore, the segment commits the fallacy of ad hominem.",False,ad hominem
+130,"Our military is the strongest military in the world. It is the strongest, best prepared, best equipped it has ever been.",appeal to positive emotion,"**correct answer:**
+
+the segment contains the fallacy of **appeal to authority**.
+
+**explanation:**
+
+* the fallacy of appeal to authority occurs when an arguer cites an authority (in this case, the military) as an endorsement of their claim without providing any evidence or reasoning to support the claim.
+* the segment relies on the perceived strength and reputation of the military to support the claim that it is the strongest in the world, without providing any concrete evidence or analysis.
+
+therefore, the fallacy of appeal to authority is present in the given segment.",False,appeal to (false) authority
+131,"Murder is morally wrong. Therefore, abortion is morally wrong.",false analogy,"**answer:**
+
+the segment contains the fallacy of **hasty generalization**.
+
+**explanation:**
+
+* **hasty generalization** is a fallacy that occurs when a conclusion is drawn based on a limited or biased sample of evidence.
+* the argument suggests that because murder is morally wrong, abortion must also be morally wrong.
+* however, this ignores the fact that there are many other factors and moral considerations that influence the morality of complex actions like murder and abortion.
+
+
+**therefore, the argument commits the fallacy of hasty generalization by drawing a conclusion about abortion based on a limited comparison with murder.**",False,hasty generalization
+132,"Violent video games cause teens to be violent, because violent teens play violent video games.",circular reasoning,"**correct answer:** causal oversimplification
+
+**explanation:**
+the segment commits the fallacy of causal oversimplification by attributing teenage violence solely to playing violent video games. this overlooks other potential factors that contribute to violent behavior, such as family environment, social influences, and mental health.",False,causal oversimplification
+133,"These test results are clearly wrong, and it must be either because the client was malingering or because I bungled the test administration.",false dilemma,"**correct answer:** oversimplification
+
+**explanation:**
+
+the fallacy of oversimplification occurs when a complex or nuanced outcome is attributed to a single, simple cause. in the given segment, the speaker suggests that the test results are wrong due to either the client's malingering or their own mistake, without considering other potential factors that could have influenced the results. this oversimplification ignores the possibility of other contributing factors to the test outcome.",False,causal oversimplification
+134,Is that why my prescriptions and premiums keep going up massively?,Appeal to Ridicule,"**the response is correct.**
+
+**explanation:**
+
+* the segment uses the exaggerated and unfounded negative emotion of ""massive"" increases to describe the cost of prescriptions and premiums.
+* this emotional appeal is used to persuade the audience without providing any factual evidence or logical reasoning to support the claim.
+
+**therefore, the fallacy present in the segment is ""appeal to negative emotion.""**",False,appeal to emotion (level 1)
+135,"Trump hasn't done shit to improve healthcare, he has done the complete opposite.",appeal to anger,"**the segment contains the fallacy of hasty generalization.**
+
+this fallacy occurs when a conclusion is drawn based on a small or biased sample size, without sufficient evidence to support the conclusion. in this case, the speaker is making a broad generalization about trump's healthcare policies based on a limited or biased sample of evidence.",False,hasty generalization
+136,I did it because I worked my ass off and learned a skill in the military. It's not that hard you just got to do the best you can.,causal oversimplification,"**fallacy:** oversimplification
+
+**explanation:**
+the segment simplifies the complex process of success by attributing it solely to individual effort. this ignores other factors such as opportunity, mentorship, and systemic factors that contribute to achievement.",False,causal oversimplification
+137,"Or put another way If you run into an asshole in the morning, you ran into an asshole.",nothing,"**correct answer:**
+
+the segment contains the fallacy of **hasty generalization**.
+
+**explanation:**
+
+* the segment argues that if you encounter one unpleasant person in the morning, it is likely that everyone you meet will be unpleasant.
+* this conclusion is based on a limited and unrepresentative sample (encountering one unpleasant person).
+* the fallacy overlooks the fact that there are many other people you would encounter throughout the day, and not all of them would be unpleasant.
+
+**therefore, the segment commits the fallacy of hasty generalization by drawing a broad conclusion from a limited and unrepresentative sample.**",False,hasty generalization
+138,For want of a nail the shoe was lost. For want of a shoe the horse was lost. For want of a horse the rider was lost. For want of a rider the battle was lost. For want of a battle the kingdom was lost.,slippery slope,"**the response is correct.**
+
+**explanation:**
+
+the fallacy of cum hoc ergo propter hoc (false causality) occurs when two events are observed to happen together, but it does not necessarily mean that one caused the other. in the given segment, the speaker suggests that the loss of each successive item (nail, shoe, horse, rider, battle, kingdom) was directly caused by the lack of the previous item. however, this is not necessarily true. 
+
+**the segment demonstrates the following characteristics of the cum hoc ergo propter hoc fallacy:**
+
+- two events (loss of one item and loss of the next) are observed to happen together.
+- the speaker concludes that the loss of the first item caused the loss of the second item.
+- there is no evidence or logical reasoning to support this conclusion.
+
+**therefore, the segment contains the fallacy of cum hoc ergo propter hoc.**",False,false causality
+139,"I bought a ticket to win a new car at the mall, since I have never won anything like that in the past.",false causality,"**correct answer:** base rate neglect
+
+**explanation:**
+the segment contains the fallacy of base rate neglect because the individual fails to consider the overall probability of winning a new car, despite having never won anything like that in the past. this bias leads to an inaccurate conclusion that the chance of winning is high simply because they have never won before.",False,no match
+140,"I went veg because factory farming is horribly unnatural, but I can't really come up with an argument against hunting based on what made me go veg...",appeal to nature,"**the segment contains the fallacy of appeal to tradition.**
+
+this fallacy occurs when an argument relies on tradition or cultural beliefs rather than logical reasoning or empirical evidence.",False,appeal to tradition
+141,"I'm vegan, I'll never part take in this activity, but I don't feel like hunting for fun should be considered a mental illness. Our ancestors used to depend on it to survive, so I can see how it might be in someone's genome to want to hunt.",appeal to tradition,"**correct answer:**
+
+the segment contains the fallacy of **appeal to nature**. this fallacy occurs when an argument assumes that something is good because it is 'natural' or bad because it is 'unnatural', regardless of whether there is any evidence to support this claim.
+
+**explanation:**
+
+* the argument suggests that hunting is a natural behavior because our ancestors used to depend on it for survival.
+* however, this assumes that our ancestors' behavior is necessarily indicative of what is good or bad for modern-day society.
+* the argument ignores other potential factors that may influence whether or not hunting is appropriate, such as ethical considerations and environmental impact.",False,appeal to nature
+142,"Our ancestors used to depend on it to survive, so I can see how it might be in someone's genome to want to hunt. Hunting is almost entirely aligned with the natural cycle of life, factory farming in horrible conditions isn't.",appeal to nature,"**answer:** appeal to tradition
+
+**explanation:**
+the segment relies on the traditional practice of hunting by ancestors as evidence that it is natural, without providing any empirical evidence or logical reasoning to support this claim.",False,appeal to tradition
+143,Cooking and eating meat is an artistic practice with thousands of years of history. My choice to cook and eat meat is a choice to participate in the continuation of this art form.,appeal to tradition,"**correct.**
+
+the segment contains the fallacy of **appeal to tradition**. this fallacy occurs when an argument relies on tradition or custom rather than logical reasoning to support its conclusion.",True,appeal to tradition
+144,"I support eating meat for the same reason I would support classical music, theater, or sculpture: because I support art.",false analogy,"**the segment contains the fallacy of appeal to tradition.**
+
+**explanation:**
+
+* the arguer suggests that eating meat is supported because it is traditional, similar to supporting classical music, theater, or sculpture.
+* however, this argument fails to provide any evidence or logical reasoning to support the claim that meat-eating is inherently good or worthwhile.
+* the fallacy of appeal to tradition relies on cultural or societal norms rather than objective reasoning.",False,appeal to tradition
+145,"He was right, but then he put in place deficits twice that size for every one of his four years.",tu quoque,"the segment contains the fallacy of **post hoc ergo propter hoc**. this fallacy occurs when someone assumes that because one event happened after another, the first event caused the second event. in this case, the speaker implies that the deficits were caused by the person being right, despite lacking any evidence to support this claim.",False,false causality
+146,14 year olds are plenty old enough to be around loaded guns. They arent 4. I had guns in a safe in my bedroom from 10 years old. I had the key and ammo.,hasty generalization,"**correct answer:**
+
+the segment contains the fallacy of appeal to authority. this fallacy occurs when someone assumes that something is true simply because an authority figure believes it, without providing any logical evidence or reasoning to support the claim.
+
+**explanation:**
+
+the speaker argues that 14 year olds are old enough to handle loaded guns based on their own personal experience of having guns at a younger age. however, this argument relies on the speaker's personal experience and does not provide any objective evidence or logical reasoning to support the claim that all 14 year olds are capable of handling guns safely.",False,appeal to (false) authority
+147,"Yeah its not just about my approval, pretty sure the majority of people in the U.S are against open carrying an AR. No one sees someone carrying a long gun in public and thinks wow look at them go, so glad they are exercising their rights.",ad populum,"the segment contains the fallacy of **appeal to majority**. this fallacy occurs when an argument assumes that something is true simply because a majority of people believe it, without any objective evidence or reasoning.",False,ad populum
+148,"No one sees someone carrying a long gun in public and thinks wow look at them go, so glad they are exercising their rights. Theyre thinking Im glad I have my ccw so I can drop this motherfucker if he sneezes. And youre right, I should just assume that all 14 year olds were taught properly on how to handle firearms even if their parents are pieces of shit. I shouldnt care if he hurts himself or someone else because if I did Id just be infringing in someones rights. Glad your parents believed you wouldnt kill someone with a gun that young. Too bad other parents believed the same thing.",Appeal to Ridicule,"**correct answer:**
+
+the segment contains the fallacy of appeal to authority. this fallacy occurs when an argument assumes that something is true simply because an authority figure believes it, regardless of whether there is any evidence to support the claim.
+
+**explanation:**
+
+* the author assumes that all 14-year-olds were properly taught how to handle firearms simply because their parents believe they were.
+* this is an appeal to authority because the author relies on the authority of the parents' belief to support the claim that the 14-year-olds are competent to handle firearms.
+* however, this is fallacious because there is no objective evidence to support the claim that all 14-year-olds are properly trained to handle firearms.",False,appeal to (false) authority
+149,There is nothing wrong with being racist or anti Semitic. Being tribal is a normal part of being human.,appeal to nature,"**correct answer:**
+
+the segment contains the fallacy of **appeal to tradition**. this fallacy occurs when an arguer assumes that something is true simply because it has always been believed or practiced in the past.
+
+**explanation:**
+
+the argument suggests that because something has been done or believed in the past (being tribal), it is therefore acceptable or normal to be racist or anti-semitic. this ignores the fact that cultural or societal practices can evolve and change over time, and does not necessarily reflect current ethical or moral standards.",False,appeal to tradition
+150,Almost 3k upvotes show that most people agree with me.,ad populum,"**correct.**
+
+the segment contains the fallacy of **appeal to populum**. this fallacy occurs when the arguer assumes that something is true simply because many people believe it, without providing any logical evidence or reasoning.",False,no match
+151,"Its weird, its not socially or mentally healthy, its not a thing.",ad hominem,"**fallacy:** ad hominem
+
+**explanation:** the segment dismisses the argument by labeling it as ""weird"" and claiming that it is not socially or mentally healthy. however, this does not address the substance of the argument itself.",True,ad hominem
+152,Even the Republican platform has criticized the lack of leadership in Mr. Ford and they've criticized the foreign policy of this administration.,appeal to (false) authority,"**fallacy:** ad populum
+
+**explanation:** the segment relies on the common belief that something is true simply because many people believe it, without providing any logical evidence or reasoning to support the claim.",False,ad populum
+153,"This is one instance where I agree with - with the Republican platform. I might say this in closing, and that is that as far as foreign policy goes, Mr. Kissinger has been the president of this country.",ad hominem,"**correct answer:**
+
+the segment contains the fallacy of **ad populum**. this fallacy occurs when the arguer suggests that something is true simply because many people believe it, without providing any logical evidence or reasoning.
+
+**explanation:**
+
+* the arguer states that mr. kissinger has been the president of the country simply because many people believe it.
+* this statement lacks any factual evidence or logical reasoning to support the claim.
+* the fallacy of ad populum relies on popularity or consensus to establish the truth of a proposition.",False,ad populum
+154,he thinks he's just hanging out with a buddy but what he fails to realize is that he has a huge platform with a fan base of highly impressionable young men who feel wronged by society and entitled to scream like a monkey on the back of a pig with a cowboy hat,hasty generalization,"**the segment contains the fallacy of appeal to negative emotion.**
+
+this fallacy occurs when the argument relies on exaggerated or negative emotions (in this case, entitlement and aggression) rather than logical reasoning to persuade the audience.",False,appeal to emotion (level 1)
+155,Free speech bad,Appeal to Ridicule,"**fallacy:** ad hominem
+
+**explanation:** the segment presents a generalization that free speech is bad without offering any supporting arguments or addressing the merits of the concept. this exemplifies the fallacy of attacking the person making the argument rather than engaging in a substantive discussion about the argument itself.",False,ad hominem
+155,Free speech bad,Appeal to Ridicule,"**fallacy:** ad hominem
+
+**explanation:** the segment presents a generalization that free speech is bad without offering any supporting arguments or addressing the merits of the concept. this exemplifies the fallacy of attacking the person making the argument rather than engaging in a substantive discussion about the argument itself.",False,hasty generalization
+156,"Mrs. Miller taught your older brother, who was the class clown. She decides to be strict with you from the very first day of class because she thinks you will be a clown, too.",guilt by association,"**the segment contains the fallacy of ad hominem.**
+
+this fallacy occurs when the argument is attacked by associating the arguer with a negative characteristic or stereotype rather than addressing the merits of the argument itself.",False,ad hominem
+157,"Mankind has been using""recreational drugs"" since we developed agriculture, and probably before too.",appeal to tradition,"**correct answer:**
+
+the segment contains the fallacy of appeal to tradition. this fallacy occurs when an argument relies on the tradition or historical use of something to support its claim, without considering other possible explanations or contexts.
+
+**explanation:**
+
+the argument assumes that just because something has been done in the past, it is necessarily the right or best way to do it. this ignores the possibility that cultural, social, or technological advancements may have led to better or different practices over time.",True,appeal to tradition
+158,"James' mom is concerned when she finds out that he skipped class one day. She tells him that she is concerned that since he skipped one class, he will start skipping more frequently. Then he will drop out altogether, never graduate or get into college, and end up unemployed and living at home for the rest of his life.",slippery slope,"**correct answer:**
+
+the segment contains the fallacy of slippery slope. this fallacy occurs when an argument exaggerates the likely consequences of a minor action, leading to an unlikely and exaggerated outcome.
+
+**explanation:**
+
+* the argument assumes that skipping one class will inevitably lead to skipping more frequently.
+* it further suggests that skipping class will cause james to drop out of school, never graduate, and end up unemployed and living at home.
+* this exaggerated outcome is not necessarily supported by evidence or logic.
+
+**characteristics of the slippery slope fallacy:**
+
+* overly generalizes from a specific action to a chain of increasingly negative consequences.
+* ignores other factors that may influence the outcome.
+* often relies on fear-mongering or emotional appeals.
+
+**in the given segment:**
+
+* the mother's argument exaggerates the potential consequences of skipping one class.
+* it suggests that skipping one class will have a domino effect, leading to a dramatic decline in james' academic performance and life outcomes.
+* this is an unlikely and exaggerated outcome, as there are many other factors that influence a person's academic performance and life trajectory.",True,appeal to fear
+158,"James' mom is concerned when she finds out that he skipped class one day. She tells him that she is concerned that since he skipped one class, he will start skipping more frequently. Then he will drop out altogether, never graduate or get into college, and end up unemployed and living at home for the rest of his life.",slippery slope,"**correct answer:**
+
+the segment contains the fallacy of slippery slope. this fallacy occurs when an argument exaggerates the likely consequences of a minor action, leading to an unlikely and exaggerated outcome.
+
+**explanation:**
+
+* the argument assumes that skipping one class will inevitably lead to skipping more frequently.
+* it further suggests that skipping class will cause james to drop out of school, never graduate, and end up unemployed and living at home.
+* this exaggerated outcome is not necessarily supported by evidence or logic.
+
+**characteristics of the slippery slope fallacy:**
+
+* overly generalizes from a specific action to a chain of increasingly negative consequences.
+* ignores other factors that may influence the outcome.
+* often relies on fear-mongering or emotional appeals.
+
+**in the given segment:**
+
+* the mother's argument exaggerates the potential consequences of skipping one class.
+* it suggests that skipping one class will have a domino effect, leading to a dramatic decline in james' academic performance and life outcomes.
+* this is an unlikely and exaggerated outcome, as there are many other factors that influence a person's academic performance and life trajectory.",True,slippery slope
+159,So the least corrupt state is anarchy by this logic.,Appeal to Ridicule,"**fallacy:** slippery slope
+
+**explanation:**
+the segment contains the fallacy of slippery slope. this fallacy occurs when an argument mistakenly concludes that a relatively small or benign action will inevitably lead to a much larger or more negative outcome. in this case, the argument implies that if we allow some corruption, it will inevitably lead to complete anarchy.",False,slippery slope
+160,"This is""deep"" libertarian bullshit.",ad hominem,"**the segment contains the fallacy of ad hominem.**
+
+this fallacy occurs when the speaker attacks the label ""libertarian"" rather than addressing the substance of the argument.",True,ad hominem
+161,"Good people don't need laws to tell them how to be good, bad people either ignore laws or use/create them to hide behind...",circular reasoning,"**the segment contains the fallacy of ad populum.**
+
+this fallacy occurs when the argument assumes that something is true simply because many people believe it, regardless of any objective evidence or logical reasoning.",False,ad populum
+162,"Well if 10 minutes isnt bad, then surely 11 is ok. If 11 is ok then 13 is fine. If 13 is fine then whats wrong with 15. You said 15 is ok, 16 is just a minute more. Were at 16, Im finishing up and will be checked out by 18. See how it keeps getting stretched out?????",slippery slope,"**correct.**
+
+the segment contains the fallacy of **slippery slope**. this fallacy occurs when someone argues that a minor action will inevitably lead to a chain of increasingly larger and more absurd consequences. in this case, the segment suggests that if 10 minutes is acceptable, then all subsequent minutes up to 18 minutes are also automatically justified.",True,slippery slope
+163,When the goddamned sign says the store closes at 9:00 the fucking customers need to get the fuck out by 8:59. They had all day to get their shit taken care of.,causal oversimplification,"**the segment contains the fallacy of ad hominem.**
+
+**explanation:**
+ad hominem is a fallacy that occurs when the speaker attacks the character of the opponent rather than addressing the actual argument. in the given segment, the speaker insults the customers instead of explaining why the store is closing at 9:00.",False,ad hominem
+164,When the goddamned sign says the store closes at 9:00 the fucking customers need to get the fuck out by 8:59. They had all day to get their shit taken care of. At 9 0 0 youre on my time.,appeal to anger,"**the segment contains the fallacy of appeal to anger.**
+
+this fallacy occurs when an arguer uses anger or emotional language to persuade the audience rather than presenting logical arguments.",True,appeal to anger
+165,Three congressional representatives have had affairs. Members of Congress are adulterers.,hasty generalization,"**answer:** hasty generalization
+
+**explanation:**
+hasty generalization is a fallacy that involves drawing a broad conclusion from a limited or biased sample without sufficient evidence to support the conclusion. in the given segment, the argument concludes that all members of congress are adulterers based on the fact that three congressional representatives have had affairs. however, this conclusion is drawn without considering the actions of the remaining members of congress, which may not be adulterous.",True,hasty generalization
+166,So he's saying liberals are better educated than conservatives. We agree. Trump isn't the only one who loves the poorly educated.,Appeal to Ridicule,"**fallacy:** straw man
+
+**explanation:**
+the segment presents a misrepresentation of the argument by exaggerating the gap between the education levels of liberals and conservatives. this fallacy undermines the original argument by focusing on a exaggerated and distorted version of the claim.",False,straw man
+167,"Or, more accurately, many liberal professors abuse their positions by attempting to force their political opinions into subjects they don't belong in, like the English professor who insists their students each write a paper on""Why the GOP are terrorists"" and grade students poorly who disagree with that opinion (experienced that first hand).",hasty generalization,"**the segment contains the fallacy of straw man.**
+
+this fallacy occurs when the speaker misrepresents the opponent's argument to make it easier to attack. in this case, the speaker exaggerates the political bias of liberal professors by claiming that they all attempt to force their political opinions into their teaching. this is a false and misleading generalization.",False,hasty generalization
+167,"Or, more accurately, many liberal professors abuse their positions by attempting to force their political opinions into subjects they don't belong in, like the English professor who insists their students each write a paper on""Why the GOP are terrorists"" and grade students poorly who disagree with that opinion (experienced that first hand).",hasty generalization,"**the segment contains the fallacy of straw man.**
+
+this fallacy occurs when the speaker misrepresents the opponent's argument to make it easier to attack. in this case, the speaker exaggerates the political bias of liberal professors by claiming that they all attempt to force their political opinions into their teaching. this is a false and misleading generalization.",False,straw man
+168,"Many of the big name institutions have become incestuous single minded orgies which no longer challenge students to think out of the box, challenge assumed truths and seek to learn all they can, but instead have become factories to produce a very specific set of opinions and mindsets never to be questioned.",ad hominem,"**correct.**
+
+the segment contains the fallacy of **straw man**. this fallacy occurs when the author misrepresents the argument by exaggerating the extent to which institutions stifle independent thought, ignoring the many institutions that encourage critical thinking and intellectual exploration.",False,straw man
+169,Incoming comments of things that are nutritious but people don't consider healthy because they're high in calories AND other random shit they read on a blog who's ultimate goal is to convince them to spend money on something at some point.,Appeal to Ridicule,"**the segment contains the fallacy of appeal to authority.**
+
+this fallacy occurs when the author attempts to establish credibility by citing an authority figure (in this case, a blogger) who may not be an expert on the topic.",False,appeal to (false) authority
+170,Dairy and red meat are fine - people have been consuming them for centuries and they did shit like building pyramids using just their hands.,appeal to tradition,"**the segment contains the fallacy of appeal to tradition.**
+
+this fallacy occurs when an argument relies on the authority of tradition or custom rather than logical reasoning or evidence.",True,appeal to (false) authority
+170,Dairy and red meat are fine - people have been consuming them for centuries and they did shit like building pyramids using just their hands.,appeal to tradition,"**the segment contains the fallacy of appeal to tradition.**
+
+this fallacy occurs when an argument relies on the authority of tradition or custom rather than logical reasoning or evidence.",True,appeal to tradition
+171,"You don't need to live off of bland chicken breasts, broccoli, and scrambled eggs to be healthy.",straw man,"**the segment contains the fallacy of appeal to positive emotion.**
+
+this fallacy occurs when an argument relies on positive emotions, such as pleasure or happiness, to make a claim without providing any logical evidence or reasoning.",False,appeal to positive emotion
+172,I think one of the biggest reasons for the obesity epidemic in America is the over-complication of nutrition.,causal oversimplification,"**fallacy:** oversimplification of causes
+
+**explanation:**
+the segment suggests that the obesity epidemic in america is solely caused by the over-complication of nutrition, ignoring other potential factors that contribute to the issue. this oversimplification overlooks other factors such as genetic factors, lifestyle choices, and access to healthy food options.",False,causal oversimplification
+173,"I think one of the biggest reasons for the obesity epidemic in America is the over-complication of nutrition. A new food is""unhealthy"" every week.",Appeal to Ridicule,"**correct answer:**
+
+the segment contains the fallacy of **appeal to tradition**.
+
+**explanation:**
+
+the argument suggests that the obesity epidemic is due to the over-complexity of nutrition because a new food is deemed ""unhealthy"" every week. this relies on the traditional belief that new foods are unhealthy, without providing any evidence or logical reasoning to support this claim.",False,appeal to tradition
+174,Distracted driving is a HUGE problem but the fact that people are begging for a state run mass surveillance system is terrifying. It may seem innocuous and even helpful at first but the implications are tremendous. These are the first steps towards mass facial recognition and social credit systems... and people are clamoring for it.,appeal to fear,"the segment contains the fallacy of **appeal to fear**. this fallacy occurs when an argument relies on exaggerated or unfounded fears to persuade the audience. in this case, the segment suggests that implementing mass surveillance will lead to disastrous consequences, appealing to the audience's fear of such outcomes.",True,appeal to fear
+175,The Cardinals are the best football team because they're better than all the other teams. They're better than all the other teams because they're the best.,circular reasoning,"**the segment contains the fallacy of circular reasoning.**
+
+this fallacy occurs when the conclusion is included in the premise, making the argument go in a circle. in this case, the argument essentially says ""the cardinals are the best because they're the best.""",True,circular reasoning
+176,But did they check slow food? Dollars to donuts that eating at an average restaurant is unhealthier than 30 years ago by an even wider margin.,appeal to worse problems,"**correct answer:** appeal to authority
+
+**explanation:**
+the segment contains the fallacy of appeal to authority because it mistakenly assumes that something is true simply because an authority figure (in this case, the statement ""dollars to donuts"") has said it. this fallacy is often used to promote a particular point of view or argument without providing any valid evidence or reasoning.",False,appeal to (false) authority
+177,Fast food isn't fueling the obesity epidemic; FOOD is fueling the obesity epidemic.,causal oversimplification,"**fallacy:** generalization
+
+**explanation:**
+the segment argues that food is solely responsible for the obesity epidemic, neglecting other potential factors like lifestyle choices and genetic factors. this is an example of the fallacy of generalization, as it draws a broad conclusion (food causes obesity) based on a limited or biased sample (only considering food as the factor).",False,hasty generalization
+178,Let's not forget Genetically Modified foods. They are not on our food chain.,appeal to nature,"**the segment contains the fallacy of appeal to tradition.**
+
+this fallacy occurs when an argument relies on a traditional belief or practice that may not be supported by evidence or logical reasoning.",False,appeal to tradition
+179,"Yeah, I always go to religious organizations to supply me with clear and objective scientific studies...",Appeal to Ridicule,"**the segment contains the fallacy of appeal to authority.**
+
+this fallacy occurs when someone cites an authority figure as support for an argument without providing any evidence that the authority actually supports the claim.",False,appeal to (false) authority
+180,"But as Admiral Yarnell has said, and he's been supported by most military authority, these islands that we're now talking about are not worth the bones of a single American soldier; and I know how difficult it is to sustain troops close to the shore under artillery bombardment.",appeal to (false) authority,"**correct.**
+
+the segment contains the fallacy of appeal to authority. this fallacy occurs when someone assumes that something is true simply because an authority figure has said it, without providing any evidence or logical reasoning to support the claim.",False,appeal to (false) authority
+181,"I propose that for a modern account of a miracle, if the person telling you the account is trustworthy, that is a reason to take the account seriously.",appeal to (false) authority,"**the segment contains the fallacy of appeal to authority.**
+
+this fallacy occurs when the argument relies on the authority of a person to establish the truth of a claim without providing any logical evidence or reasoning.",False,appeal to (false) authority
+182,He has smoked cigarettes his entire life and he doesn't have lung cancer. Therefore smoking doesn't cause lung cancer.,hasty generalization,"**the segment contains the fallacy of hasty generalization.**
+
+**explanation:**
+
+* the argument concludes that smoking does not cause lung cancer because the individual who has smoked cigarettes his entire life does not have lung cancer.
+* this overlooks the fact that the lack of observed lung cancer in one individual does not necessarily mean it is true for the entire population.
+* the sample size (one person) is too small and unrepresentative to draw a conclusion about the effect of smoking on lung cancer in the general population.",True,hasty generalization
+183,"It causes economic problems and turmoil, and then we turn around, as we did in Mexico, having to bail them out.",causal oversimplification,"**the segment contains the fallacy of causal oversimplification.**
+
+this fallacy occurs when a complex outcome is attributed to a single cause, ignoring other potential factors that may have contributed to the outcome.",True,causal oversimplification
+184,"Yeah, this doctor is a moron. Not smart like you.",Appeal to Ridicule,"**fallacy:** ad hominem
+
+**explanation:** the speaker attacks the doctor's intelligence rather than addressing the argument itself, which is a fallacy known as ad hominem.",False,ad hominem
+185,But you don't have a lot of experience in project management either!,tu quoque,"**the segment contains the fallacy of tu quoque.**
+
+this fallacy occurs when the arguer undermines their own argument by inadvertently admitting that they too have limited experience in the area being discussed.",True,tu quoque
+186,"Rightly so. I don't care how it makes trans people feel, the vast majority of people would want to know if someone was born a different sex to that which they're passing themselves off as.",ad populum,"the segment contains the fallacy of **appeal to prejudice**. this fallacy occurs when an argument relies on pre-existing negative attitudes or assumptions about a group of people, without providing any evidence or logical reasoning to support the claim",False,no match
+187,"or as my sister called it,""laundry over dirt field""  Well it's common in Sichuan where this dish is originated from to serve it like this, so it's not a stupid restaurant plating thing it's how it should be
+",nothing,"**the segment contains the fallacy of appeal to tradition.**
+
+this fallacy occurs when the argument assumes that something is true or good simply because it has been traditionally done that way.",False,appeal to tradition
+188,all believe I would make a stronger commander in chief. And they believe it because they know I would not take my eye off of the goal: Osama bin Laden.,appeal to (false) authority,"**correct answer:**
+
+the segment contains the fallacy of **appeal to popular opinion**. this fallacy occurs when the arguer assumes that something is true simply because many people believe it, without providing any evidence or logical reasoning to support the claim.",False,no match
+189,"Fred, the German, stole my wallet. Therefore, all Germans are thieves.",hasty generalization,"**answer:**
+
+the segment contains the fallacy of **hasty generalization**.
+
+**explanation:**
+
+hasty generalization occurs when a conclusion is drawn based on a small or unrepresentative sample size. in this case, the speaker concludes that all germans are thieves based on the actions of one individual (fred). this is an fallacy because it is not valid to generalize about an entire population based on the actions of a single individual.",True,hasty generalization
+190,"Slavery is accepted by just about everyone in our society, so it's ethical to keep slaves.",ad populum,"**correct answer:** appeal to tradition
+
+**explanation:**
+the segment relies on the assumption that slavery is accepted by society as ethical, simply because it has always been accepted. this overlooks the fact that ethical considerations are not based solely on tradition or cultural acceptance.",False,appeal to tradition
+191,"EDIT: The good news is they will be cheap, the bad news is you need someone who can do smd soldering, which, for no good reason, is a dark art.",nothing,"**the segment contains the fallacy of slippery slope.**
+
+**explanation:**
+
+* the fallacy of slippery slope occurs when an argument exaggerates the potential consequences of a minor action, making them seem much more serious than they actually are.
+* in the segment, the author suggests that soldering is a ""dark art"" without providing any substantial evidence or reasoning to support this claim.
+* this is an example of the slippery slope fallacy because the author is implying that soldering is a complex and dangerous process, even though this is not necessarily true.",False,slippery slope
+192,"
+ I just picked up one of the tinted balms and it's a really lovely product.",nothing,"**fallacy:** confirmation bias
+
+**explanation:**
+confirmation bias is a psychological tendency to seek out or interpret information that confirms existing beliefs while ignoring or discounting evidence that contradicts them. in the given segment, the individual is likely biased towards believing that the tinted balm is lovely because they have already made up their minds about its quality.",False,no match
+193,Have you not know that this poster is extremely popular in Oculus sub reddit?,ad populum,"**fallacy:** appeal to popularity
+
+**explanation:** the segment assumes that the popularity of the poster on an oculus subreddit is evidence of its truth or merit, without considering other factors that may contribute to its popularity.",False,ad populum
+194,"Thank you, have a nice day
+ Enter Bios and see if your hdd is detected.",nothing,"**fallacy:** post hoc ergo propter hoc
+
+**explanation:** the segment suggests that the installation of the bios software caused the hdd to be detected, simply because the hdd was detected after the software was installed. this is a classic example of the post hoc fallacy, which occurs when one event is mistakenly assumed to be the cause of another simply because it happened before or after it.",False,false causality
+195," New Firefox Update
+ Dog software on cat hardware
+ Wouldn't it be the other way around?",nothing,"**correct answer:** equivocation
+
+**explanation:**
+the segment contains the fallacy of equivocation. this fallacy occurs when a speaker uses a term in two different senses without clearly explaining the change in meaning. in this case, ""dog software"" and ""cat hardware"" are used interchangeably, despite the fact that they refer to different things. this confusion undermines the argument and makes it difficult for the listener to understand the point being made.",False,equivocation
+196,"Most people I spoke to didn't like TLJ, so if anything, it should have a lower than 55% score.",hasty generalization,"the segment contains the fallacy of **hasty generalization**. this fallacy occurs when a conclusion is drawn based on a small or biased sample size, without considering the wider population or other relevant factors. in this case, the speaker has only spoken to a few people and cannot generalize their opinions to the entire population.",True,hasty generalization
+197," Legion is the best overall expac we will ever get and here is why
+ This feels like definite nostalgia talking to me.",nothing,"**answer:**
+
+the segment contains the fallacy of **appeal to positive emotion**. this fallacy occurs when an arguer relies on positive emotions, such as nostalgia, to persuade the audience rather than providing logical evidence or reasoning.",False,appeal to positive emotion
+198,"I don't know, it's just a thing with me because I've been helping orphans for a long time and their mental health is seriously fucked up because of it.",nothing,"**the answer is:** hasty generalization.
+
+**explanation:**
+
+hasty generalization is a fallacy that occurs when someone draws a broad conclusion about a group of people or things based on a limited or biased sample. in the given segment, the speaker concludes that all orphans have severe mental health issues simply because they have been helping orphans for a long time. this conclusion is hasty because the speaker has not considered other factors that may contribute to orphans' mental health issues or has not conducted a thorough enough study to make such a generalization.",False,hasty generalization
+199,"
+ I got those tests and they came back fine, I was so confident that it was lupus for a while but that negative test has really thrown me !",nothing,"**the segment contains the fallacy of appeal to false negative.**
+
+**explanation:**
+the fallacy of appeal to false negative occurs when someone concludes that something is false simply because a test or observation fails to prove it. in the given segment, the person is interpreting the negative test result as proof that lupus is not the cause of their symptoms, even though the test may simply be insufficient or unable to detect the condition.",False,no match
+200,"
+ So a woman got in an altercation, got mad and grabbed a gun and starting shooting, and was then shot by someone else.",nothing,"**the segment contains the fallacy of oversimplification.**
+
+this fallacy occurs when a complex event is attributed to a single, simple cause, ignoring other potential factors that may have contributed to the outcome. in this case, the segment suggests that the woman's anger is the sole cause of the altercation, ignoring other potential factors that may have contributed to the outcome.",False,appeal to anger
+200,"
+ So a woman got in an altercation, got mad and grabbed a gun and starting shooting, and was then shot by someone else.",nothing,"**the segment contains the fallacy of oversimplification.**
+
+this fallacy occurs when a complex event is attributed to a single, simple cause, ignoring other potential factors that may have contributed to the outcome. in this case, the segment suggests that the woman's anger is the sole cause of the altercation, ignoring other potential factors that may have contributed to the outcome.",False,causal oversimplification
+201,"
+ I get that it's weird that someone from the lgbtq+community supports fascists who want people like him to die, but I don't see his sexual identity having any relevance to this story.",nothing,"**the segment contains the fallacy of equivocation.**
+
+this fallacy occurs when the speaker uses the same term with two different meanings, without clarifying the distinction between them. in this case, the speaker uses the term ""sexual identity"" to refer to both the individual's sexual orientation and their political beliefs, even though these two concepts are not necessarily related.",False,equivocation
+202," Ned, the actor behind Micheal, was recently admitted in the hospital for Covid Pneumonia, hoping for his good health and be well soon
+ First we nearly lost Dr. Dre now we might lose Michael.",nothing,"**the segment contains the fallacy of appeal to fear.**
+
+this fallacy occurs when an argument uses fear-mongering or exaggerated negative consequences to persuade the audience. in this segment, the speaker suggests that if michael, the actor, gets sick, it will be a devastating loss, similar to losing dr. dre. this tactic uses fear to elicit an emotional response from the audience and persuade them to support a particular outcome.",False,appeal to fear
+203,"
+ many people have been calling out science subreddit mods like mvea etc for spamming ""shill articles"" etc.",nothing,"**the response is correct.**
+
+**explanation:**
+the segment attacks the moderators of the science subreddit for spamming ""shill articles,"" but it does not address the claim that they are spamming such articles. this is an example of an ad hominem fallacy.
+
+**ad hominem fallacy:**
+- attacks the person making the claim rather than addressing the claim itself.
+- often involves personal insults or character attacks.",False,ad hominem
+204,"
+ Oh man, I'm actually relieved, because I had to do this same shit to my subordinates, and honestly I made up numbers 99% of the time because they worked their full hours and could prove it, and their performance was the best in the office because they weren't being crushed by an asshole dictator.",nothing,"**the segment contains the fallacy of selective memory.**
+
+this fallacy occurs when an individual conveniently forgets or selectively remembers events to support a particular conclusion or argument. in this case, the speaker is justifying their fabricated performance reviews by claiming that their subordinates were exceptional despite having fabricated their numbers.",False,no match
+205,Female sexual history obviously plays a big role in the success of marriage.,false causality,"**response:**
+
+the segment contains the fallacy of **appeal to tradition**. this fallacy occurs when an argument relies on tradition or cultural expectations rather than objective evidence or logical reasoning.",False,appeal to tradition
+206,With the amount of weapons in the USA and the ease of smuggling in the country assault weapon bans wouldn't do anything because you could still get then illegally.,false causality,"the segment contains the fallacy of **appeal to false equivalence**. this fallacy occurs when an argument incorrectly assumes that two things are logically equivalent when they are not. in this case, the segment implies that banning assault weapons would be ineffective because people can still obtain them illegally, but this ignores the potential impact of such a ban on the number of illegal weapons in circulation.",False,no match
+207,Restrictions on acquisitions are not going to stop that. Enforcement of possession laws will stop that and no politician is campaigning to do that.,false dilemma,"**the segment contains the fallacy of oversimplification of causes.**
+
+this fallacy occurs when the segment assumes that enforcing possession laws is the only effective measure to prevent acquisitions, neglecting other potential factors that may influence acquisitions.",False,causal oversimplification
+208,"The NRA commits terror by encouraging circumstances and laws which lead to 30,000 deaths a year",appeal to anger,"**the segment contains the fallacy of appeal to horror.**
+
+this fallacy occurs when an arguer uses exaggerated or inflammatory language to evoke fear or disgust, rather than presenting logical evidence, in order to influence the audience.",False,appeal to fear
+209,"Young people who do not vote should be shamed. What can we do to get more young people involved? The barriers today are much less than any other time in history, eg women and people of color segregation and disenfranchisement",causal oversimplification,"**the segment contains the fallacy of appeal to pity.**
+
+this fallacy occurs when an arguer attempts to persuade their audience by appealing to their emotions of pity or compassion, rather than presenting logical evidence or reasoned arguments.",False,appeal to pity
+210,"Lars, Kirk and even Cliff have all been criticized for their technical skills, but their creativity, along with James (who is an excellent songwriter and rhythm guitarist), was what made Metallica the greatest metal band of all time, not their chops.",causal oversimplification,"**the segment contains the fallacy of selective emphasis.**
+
+this fallacy occurs when the speaker focuses on a limited aspect of the argument while disregarding other relevant factors, leading to an incomplete or misleading conclusion.
+
+in the segment, the speaker emphasizes the creativity of metallica's members as the reason for their greatness, while selectively disregarding their technical skills. this creates a biased and incomplete conclusion as both technical skills and creativity contribute to the greatness of a band.",False,no match
+211,Every one I remember seeing has proven itself to be between 50% and 90% overstated. Our death counts ended up being 10% of what the models were forecasting.,hasty generalization,"**the segment contains the fallacy of selective memory.**
+
+this fallacy occurs when an individual consciously or unconsciously selects only the information that confirms a pre-existing belief while disregarding or forgetting information that contradicts that belief.
+
+in this case, the speaker is selectively remembering only the instances where their models were overstated, while conveniently forgetting or disregarding instances where the models were accurate or under-stated. this bias leads to a distorted and incomplete conclusion that the models are always overstated.",False,no match
+212,They claim they don't have the personnel to staff them....despite the state's NG being given authorization from our governor to send its stock of nurses and doctors to do it.,causal oversimplification,the segment contains the fallacy of **appeal to authority**. this fallacy occurs when an arguer cites an authority figure as supporting their conclusion without providing any evidence or reasoning to establish the authority's expertise or the relevance of their opinion to the argument.,False,appeal to (false) authority
+213,It makes me wonder of it was just the usual bureaucratic waste or if they've got a future use in mind for the facility...,false dilemma,"**the segment contains the fallacy of suspension of disbelief.**
+
+this fallacy occurs when an argument relies on an unexplained or unproven premise, leading to a lack of sufficient evidence to support the conclusion.",False,no match
+214,You havent played but are talking about it like this? Oof,tu quoque,"**the segment contains the fallacy of ad hominem.**
+
+this fallacy occurs when the arguer attacks the person making the argument rather than addressing the argument itself, by mocking their lack of experience or expertise on the topic.",False,ad hominem
+215,"Imagine being a horny naive 16 year old. You were talking to a girl, you guys exchange nudes. You're 21. It's been revealed to other adults that you sent a picture of your dick (nice cock btw). You're on the sex offender registry. You will get almost all job offers turned down. Your life is fucked because someone decided your life should be shit for being a horny teenager.",Appeal to Ridicule,"**correct answer:**
+
+the segment contains the fallacy of **appeal to negative emotion**. this fallacy occurs when an argument relies on exaggerated or manipulative negative emotions (such as fear, pity, or anger) to persuade the audience rather than logical reasoning or evidence.",False,appeal to anger
+215,"Imagine being a horny naive 16 year old. You were talking to a girl, you guys exchange nudes. You're 21. It's been revealed to other adults that you sent a picture of your dick (nice cock btw). You're on the sex offender registry. You will get almost all job offers turned down. Your life is fucked because someone decided your life should be shit for being a horny teenager.",Appeal to Ridicule,"**correct answer:**
+
+the segment contains the fallacy of **appeal to negative emotion**. this fallacy occurs when an argument relies on exaggerated or manipulative negative emotions (such as fear, pity, or anger) to persuade the audience rather than logical reasoning or evidence.",False,appeal to fear
+215,"Imagine being a horny naive 16 year old. You were talking to a girl, you guys exchange nudes. You're 21. It's been revealed to other adults that you sent a picture of your dick (nice cock btw). You're on the sex offender registry. You will get almost all job offers turned down. Your life is fucked because someone decided your life should be shit for being a horny teenager.",Appeal to Ridicule,"**correct answer:**
+
+the segment contains the fallacy of **appeal to negative emotion**. this fallacy occurs when an argument relies on exaggerated or manipulative negative emotions (such as fear, pity, or anger) to persuade the audience rather than logical reasoning or evidence.",False,appeal to emotion (level 1)
+216,21 year old aren't teenagers,straw man,"**the segment contains the fallacy of categorical fallacy.**
+
+this fallacy occurs when a general conclusion is drawn based on a limited or biased sample of evidence, failing to recognize the existence of individuals in the specified age range who are indeed teenagers.",False,no match
+217,"If this was just people getting details mixed up, the Mandela Effect would not sustain the interest it has.",ad populum,"**correct answer:**
+
+the segment contains the fallacy of **appeal to positive emotion**.
+
+**explanation:**
+
+the fallacy of appeal to positive emotion occurs when the writer relies on emotional appeal rather than logical reasoning to support a claim. in this segment, the writer suggests that the mandela effect would not sustain interest if it were simply due to people getting details mixed up because it would not be emotionally compelling. this appeal to the reader's emotions rather than presenting logical evidence to support the claim.",False,appeal to positive emotion
+218,"a lot of leftists are mad that its 1400 checks not 2000, because it was meant to supplement the 600 passed in december",causal oversimplification,"**fallacy:** post hoc ergo propter hoc
+
+**explanation:**
+the segment implies that the reduction in checks from 2000 to 1400 is the sole reason for the leftists' anger, without considering other possible factors or context. this is a classic example of the post hoc ergo propter hoc fallacy, which occurs when someone assumes that because one event happened after another, the first event must have caused the second event.",False,appeal to anger
+218,"a lot of leftists are mad that its 1400 checks not 2000, because it was meant to supplement the 600 passed in december",causal oversimplification,"**fallacy:** post hoc ergo propter hoc
+
+**explanation:**
+the segment implies that the reduction in checks from 2000 to 1400 is the sole reason for the leftists' anger, without considering other possible factors or context. this is a classic example of the post hoc ergo propter hoc fallacy, which occurs when someone assumes that because one event happened after another, the first event must have caused the second event.",False,false causality
+219,If Kavanaugh is innocent he should be yelling from the hills demanding an investigation by the FBI.,causal oversimplification,"**the segment contains the fallacy of straw man.**
+
+this fallacy occurs when the segment misrepresents the position of the arguer by implying that the arguer demands an investigation regardless of innocence, when in reality the arguer only suggests investigating if kavanaugh is innocent.",False,straw man
+220,"If Dr. Ford *is* lying, then Republicans should be *eager* to get her in front of an FBI interrogator.",causal oversimplification,"**the segment contains the fallacy of ad hominem.**
+
+this fallacy occurs when the argument focuses on attacking the character or motives of the person making the argument rather than addressing the actual content of the argument itself.",False,ad hominem
+221,The government has no right to spilt up your business,appeal to fear,"**response:**
+
+the segment contains the fallacy of **appeal to tradition**. this fallacy occurs when an argument relies on tradition or custom rather than logical reasoning or empirical evidence to support its claim.",False,appeal to tradition
+222,"But every time I bring this point up, GOP_Fanboy just reverts to ""lol who are you to decide who gets paid what communist etc""",Appeal to Ridicule,"**the segment contains the fallacy of ad hominem.**
+
+this fallacy occurs when the responder deflects attention from the original argument by attacking the person making the argument rather than addressing the substance of the argument itself.",False,ad hominem

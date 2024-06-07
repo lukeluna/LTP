@@ -1,0 +1,1200 @@
+Unnamed: 0,text,expected_label,actual_label1,actual_label2,actual_label3,result,canonical
+0,"I keep seeing if an adventure mode needs to exist then why not just start a char at 68. then a couple months after that we'll see post about how people want to start at 90 just so they can kill bosses. Then a few months later we'll see people asking for a""creative"" mode so they can have access to all items in the game so they don't have to farm, and i dont think that sets a good example as a community for a game that we all love.",slippery slope,"answer: appeal to emotional manipulation.
+
+the author suggests that the introduction of various gameplay modes and features in the game will negatively impact the community of players.","answer: appeal to emotion.
+
+the author argues that the existence of various game modes that allow players to bypass certain gameplay elements sets a negative example for the game's community.","answer: appeal to fear.
+
+the author implies that if the game allows players to access all items without having to farm, the community will be negatively affected.",False,no match
+1,That leads to me believe that most cat lovers are really shy.,hasty generalization,"answer: appeal to generalization.
+
+the premise suggests that all cat lovers are shy, which is a generalization from the limited information provided in the sentence.","answer: appeal to stereotype.
+
+the premise suggests a correlation between cat lovers and shyness without providing any evidence or logical reasoning to support this claim.","answer: appeal to stereotype.
+
+the premise suggests that all cat lovers are shy, which is a generalization that cannot be supported by sufficient evidence from the given context.",False,no match
+2,"Someone once told me they have an""alt"" cause their main account was too high of rank to play with their friends. It's exactly the same as smurfing.",false analogy,"answer: straw man fallacy.
+
+the arguer substitutes the person’s actual position of having an “alt” account because their main account was too high of rank to play with their friends with the act of “smurfing,” which implies intentionally cheating in order to gain an advantage.","answer: appeal to analogy.
+
+the analogy between having an ""alt"" account and smurfing implies that both actions are dishonest or unfair. however, the premise fails to provide evidence or establish a clear connection between the two actions.","answer: appeal to analogy.
+
+the analogy between having an ""alt"" account and smurfing implies that both actions are dishonest or unfair. however, this analogy does not take into account the different contexts and intentions of the two actions.",False,false analogy
+3,Joe Biden will lose to Trump if he is the nominee. The Democratic party clearly has not learned the right lesson from Hillary Clinton's miserable failure.,guilt by association,"answer: appeal to pity. the text suggests that the democratic party will lose the election due to their perceived lack of learning from hillary clinton's loss, appealing to pity rather than presenting substantial evidence.","answer: appeal to pity. the text suggests that the democratic party should learn from hillary clinton's loss, implying that they have not learned the right lessons from her failure, which is used to support the conclusion that joe biden will lose to trump.","answer: appeal to pity. the author suggests that the democratic party will lose because they have not learned the right lessons from hillary clinton's loss, implying that the party is doomed to failure due to its past mistakes.",False,appeal to pity
+4,Joe Biden will lose to Trump if he is the nominee. The Democratic party clearly has not learned the right lesson from Hillary Clinton's miserable failure. NOBODY WANTS ESTABLISHMENT POLITICIANS ANYMORE. NOBODY LIKES THE STATUS QUO.,causal oversimplification,"answer: appeal to negative emotion.
+
+the text relies on the emotional reactions (dislike of establishment politicians and the status quo) rather than objective evidence or arguments to support its conclusion.","answer: appeal to anger.
+
+the text relies on strong emotions of dislike for establishment politicians and the status quo to support the conclusion that joe biden will lose to trump.","answer: appeal to emotion (specifically, fear of establishment and status quo).",False,appeal to emotion (level 1)
+5,The Democratic party clearly has not learned the right lesson from Hillary Clinton's miserable failure. NOBODY WANTS ESTABLISHMENT POLITICIANS ANYMORE. NOBODY LIKES THE STATUS QUO.,ad populum,"answer: appeal to negative emotion.
+
+the text relies on negative emotions like disappointment and aversion to establish its premise that people do not want establishment politicians.",answer: appeal to negative emotion.,"answer: appeal to negative emotions.
+
+the sentence relies on negative emotions such as disgust and aversion towards establishment politicians and the status quo to support the conclusion that the democratic party has not learned the right lessons from hillary clinton's failure.",False,appeal to emotion (level 1)
+6,The status quo in America is that its the best its ever been. We live in one of the best societies in the best times that humans have ever experienced.,circular reasoning,"answer: appeal to positive emotion.
+
+the text attempts to make the current situation in america seem particularly good by comparing it to previous eras.","answer: appeal to positive emotion.
+
+the text attempts to make the current state of america seem positive by appealing to emotions rather than providing factual evidence.","answer: appeal to positive emotion.
+
+the text uses positive emotions associated with living in contemporary america to support the premise that it is the best society in human history.",False,appeal to positive emotion
+7,"America is the best place to live, because it's better than any other country.",circular reasoning,"answer: appeal to positive emotion.
+
+the sentence attempts to make the claim that america is the best place to live by appealing to the positive emotions of patriotism and national pride, rather than providing substantial evidence to support the claim.","answer: appeal to positive emotion.
+
+the sentence relies on a general positive sentiment rather than specific evidence to support the claim that america is the best place to live.","answer: appeal to positive emotion.
+
+the text uses an emotional appeal rather than factual evidence to support the claim that america is the best place to live.",False,appeal to positive emotion
+8,"Let us move now to the future. It is not enough to stand on this record because we are dealing with the most ruthless, fanatical... leaders that the world has ever seen.",appeal to fear,"answer: appeal to fear.
+
+the sentence suggests that the current leaders are more ruthless and fanatical than any previous leaders, implying that they will lead the world into a perilous future.","answer: appeal to fear.
+
+the sentence suggests that the current political leaders are more ruthless and fanatical than any previous leaders, implying that they pose a serious threat to society.",answer: appeal to fear.,True,appeal to fear
+9,"That is why I say that in this period of the sixties, America must move forward in every area.",causal oversimplification,"answer: appeal to positive emotion.
+
+the sentence suggests that the sixties was a period when america should make progress in all areas, presumably due to some positive change. however, the text provided does not contain any evidence or reasoning to support this claim.","answer: appeal to positive emotion.
+
+the sentence suggests that the sixties is a period when america must move forward in every area, implying that this is a time for great progress and change.","answer: appeal to positive emotion.
+
+the author attempts to make the argument seem reasonable by appealing to a positive emotion (progress and forward movement) rather than providing substantial evidence.",False,appeal to positive emotion
+10,Delores is a big supporter for equal pay for equal work. This is the same policy that all those extreme feminist groups support. Extremists like Delores should not be taken seriously -- at least politically.,ad hominem,"answer: appeal to stereotype.
+
+the argument suggests that all feminists are extreme and should not be taken seriously politically simply because delores, a supporter of equal pay, aligns with that stereotype.",answer: appeal to stereotype. the text unfairly generalizes about all feminists based on the actions of a few extreme feminists.,"answer: appeal to stereotype.
+
+the argument suggests that all feminists are extreme and should not be taken seriously, simply because delores, who is presented as a feminist, is presented as an extremist.",False,no match
+11,"""Four out of five dentists recommend Happy Glossy toothpaste. Therefore, it must be great.""",appeal to (false) authority,"answer: appeal to authority.
+
+the text relies on the apparent endorsement of dentists to imply that the toothpaste is great, without providing any objective evidence or data to support this claim.","answer: appeal to authority.
+
+the provided text relies on the supposed authority of dentists to endorse the product, but it does not provide any evidence that the dentists actually endorse the toothpaste or that their recommendations are based on empirical evidence.","answer: appeal to authority.
+
+the provided text uses the authority of dentists to promote the product, but it does not provide any evidence or data to support the claim that the toothpaste is actually great.",False,appeal to (false) authority
+12,Once they wear masks your anxiety will force you to demand the next step. biohazard suits? get real.,slippery slope,"answer: appeal to fear.
+
+the sentence suggests that wearing masks will cause anxiety and that the next step will be demanding biohazard suits, implying an exaggerated and irrational response to the use of masks.","answer: appeal to fear.
+
+the sentence suggests that wearing masks will cause anxiety and that the next step will be demanding biohazard suits, which is an exaggerated and irrational response to the use of masks.",answer: appeal to negative emotion.,False,appeal to fear
+13,"The last Democrat winner of the New Hampshire primary won the general election. This year, the winner of the New Hampshire primary will win the general election.",causal oversimplification,"answer: appeal to tradition.
+
+the premise assumes that the historical pattern of the new hampshire primary winner going on to win the general election will continue to be true in the future.","answer: appeal to tradition.
+
+the premise assumes that the historical pattern of the new hampshire primary winner going on to win the general election is reliable. however, this is not necessarily true. many factors can influence the outcome of an election beyond who wins the primary.","answer: appeal to tradition.
+
+the premise assumes that the winner of the new hampshire primary will go on to win the general election, just as every previous winner has done. this ignores the fact that there have been exceptions to this tradition in the past.",False,appeal to tradition
+14,"Men score better on math than women do. Jerry is a man. Therefore, Jerry is better at math than Sylvia, who is a woman.",fallacy of division,answer: straw man fallacy. the argument misrepresents the position of the opposing side by claiming that they believe one gender is inherently better at math than the other.,"answer: appeal to gender stereotype.
+
+the premise relies on a stereotype that men are better at math than women.","answer: straw man fallacy.
+
+the argument confuses the general statement about men and women's math abilities with the specific individuals of jerry and sylvia.",False,straw man
+15,So much important stuff in the world that needs political activism. Makes a petition to portbeg P5 onto PC and Switch.,Appeal to Ridicule,"answer: appeal to positive emotion.
+
+the sentence suggests that political activism is important and that a petition has been created to support a specific game on multiple platforms.","answer: appeal to positive emotion.
+
+the text suggests that people should petition to portbeg p5 onto pc and switch because there is a lot of important stuff in the world that needs political activism. however, this fails to provide any evidence that porting p5 to these platforms would actually help any important causes.","answer: appeal to positive emotion.
+
+the sentence suggests that political activism is necessary to obtain the porting of p5 onto pc and switch, appealing to the positive emotion of making a difference in the world.",False,appeal to positive emotion
+16,Carbon dioxide hurts nobody' s health. It' s good for plants.,false analogy,"answer: appeal to positive emotion.
+
+the sentence suggests that carbon dioxide is beneficial for plants and therefore poses no harm to human health, appealing to the positive emotion of environmentalism.","answer: appeal to positive emotion.
+
+the sentence suggests that carbon dioxide is beneficial for plants, implying that it is harmless to human health. this is an oversimplification of the complex effects of carbon dioxide on ecosystems and human health.","answer: appeal to positive emotion.
+
+the sentence suggests that carbon dioxide is beneficial to plants without acknowledging any potential negative effects on human health.",False,appeal to positive emotion
+17,Carbon dioxide hurts nobody' s health. It' s good for plants. Climate change need not endanger anyone.,causal oversimplification,"answer: appeal to positive emotion. the sentence suggests that carbon dioxide is beneficial to plants and therefore poses no harm to human health, appealing to the positive emotion of environmentalism.","answer: appeal to positive emotion.
+
+the text tries to make the audience feel that carbon dioxide is beneficial to plants and therefore poses no threat to human health, implying that climate change is not a serious issue.","answer: appeal to positive emotion.
+
+the text attempts to make the environmental impact of carbon dioxide seem beneficial by appealing to the positive impact it has on plant growth.",False,appeal to positive emotion
+18,"Mr. Governor issues a proclamation for the people of his state to pray for rain. Several months later, it rains. Praise the gods!",Appeal to Ridicule,"answer: appeal to positive emotion.
+
+the text manipulates the positive emotion of relief caused by the rain to make the proclamation seem effective.","answer: appeal to positive emotion.
+
+the text manipulates the emotion of gratitude to make the proclamation appear reasonable.","answer: appeal to positive emotion.
+
+the text suggests that the rain is a direct result of the people praying, implying that the prayer was responsible for the rain.",False,appeal to positive emotion
+19,"Iran has moved forward with its nuclear weapons program. They're more dangerous today than they were four years ago. North Korea has moved forward with their nuclear weapons program, gone from one to two nuclear weapons to six to eight nuclear weapons. This vice president has been an advocate for over a decade for lifting sanctions against Iran, the largest state sponsor of terrorism on the planet. It's a mistake.",appeal to fear,"answer: appeal to fear.
+
+the argument suggests that the increased production of nuclear weapons by iran and north korea is dangerous, primarily due to the actions of the vice president who has advocated for lifting sanctions against iran.","answer: appeal to negative emotion.
+
+the author suggests that the lifting of sanctions against iran would be a mistake because iran is the largest state sponsor of terrorism in the planet. this argument relies on an emotional response to the idea of lifting sanctions rather than on objective evidence or logical reasoning.","answer: appeal to fear.
+
+the argument suggests that the increased production of nuclear weapons by iran and north korea is dangerous, implying that the lifting of sanctions against iran would be a mistake due to their status as the largest state sponsor of terrorism.",True,appeal to fear
+20,"North Korea has moved forward with their nuclear weapons program, gone from one to two nuclear weapons to six to eight nuclear weapons. This vice president has been an advocate for over a decade for lifting sanctions against Iran, the largest state sponsor of terrorism on the planet. It's a mistake.",false analogy,"answer: appeal to emotion.
+
+the text attempts to establish a connection between the vice president's stance on sanctions against iran and north korea's advancement of their nuclear weapons program, appealing to the emotional perception that iran is a greater threat.","answer: appeal to emotion.
+
+the text attempts to make the reader believe that the vice president's stance on lifting sanctions against iran is a mistake based on their opinion that iran is the largest state sponsor of terrorism.","answer: appeal to emotion.
+
+the text concludes that lifting sanctions against iran is a mistake based on the premise that iran is the largest state sponsor of terrorism. however, the text does not provide any evidence or reasoning to support this premise.",False,appeal to emotion (level 1)
+21,"This vice president has been an advocate for over a decade for lifting sanctions against Iran, the largest state sponsor of terrorism on the planet. It's a mistake.",guilt by association,"answer: appeal to emotion.
+
+the text uses emotional language to describe iran as the ""largest state sponsor of terrorism on the planet,"" without providing any evidence or reliable sources to support this claim.","answer: appeal to emotion.
+
+the text uses an emotional appeal by exaggerating the threat of iran as a terrorist state to justify opposing the lifting of sanctions.","answer: appeal to emotion (pity). 
+
+the text attempts to influence the reader's opinion by appealing to their emotions of concern about terrorism.",False,appeal to emotion (level 1)
+22,You cant stop nature. Youre going to be infected if you havent already. We are always trying to fight nature. We just have to let it run its course.,appeal to nature,"answer: appeal to fear.
+
+the premise suggests that one cannot escape infection by nature, regardless of precautions.","answer: appeal to fear.
+
+the premise suggests that we are always fighting nature and that if we don't, we will be infected. this is an exaggerated and unfounded generalization.","answer: appeal to fear.
+
+the sentence suggests that we cannot avoid infection or disease because nature will always impose its influence on us.",False,appeal to fear
+23,"The majority of the class says they prefer grape flavored drinks, so Jeff tells his superiors that grape is the flavor favored most by high school students.",hasty generalization,answer: appeal to majority.,answer: appeal to majority.,answer: straw man fallacy. jeff misrepresents the class's preference for grape-flavored drinks as the preference among all high school students.,False,ad populum
+24,The Freehold Raceway Mall is the best mall because there are always so many cars there.,causal oversimplification,answer: appeal to popularity.,"answer: appeal to popularity.
+
+the argument assumes that the popularity of a mall is an indicator of its quality or excellence.",answer: appeal to popularity.,False,ad populum
+25,This is law school arrogance at its finest. Why not a brain surgeon?,Appeal to Ridicule,answer: appeal to authority.,answer: appeal to authority.,answer: appeal to authority.,False,appeal to (false) authority
+26,"Along the Russian coastline, which makes up more than half the Arctic total, winds and currents push old ice away from potential shipping lanes and prevent the build-up of thicker, multi-year ice that would leave other parts of the Arctic impassable for longer periods.",nothing,"answer: nothing.
+
+the text provides factual information about the dynamics of the arctic ice regime without employing any logical fallacies.","answer: nothing.
+
+the sentence describes a natural phenomenon without making any illogical or fallacious arguments.","answer: nothing.
+
+the sentence describes a natural phenomenon and does not contain any logical fallacies as described in the list.",True,nothing
+27,"My first day of basketball practice was easy, so it will always be easy.",false causality,"answer: circular reasoning.
+
+the premise of the statement implies that because things were easy on the first day, they will always be easy. this disregards the fact that future practices may be more difficult or easier than the first one.","answer: circular reasoning.
+
+the premise that the first day was easy implies that future days will be easy as well.","answer: circular reasoning.
+
+the premise that the first day was easy implies that future practices will be easy based on that one experience, which is a circular reasoning.",False,circular reasoning
+28,Don't listen to him! He's a terrible person! I saw him trip another student and steal his lunch money!,ad hominem,answer: appeal to negative authority.,answer: appeal to personal bias.,"answer: appeal to authority.
+
+the provided sentence suggests that the person is claiming that the other person is terrible based on their observed actions. however, the text does not provide any evidence or authority to support this claim.",False,appeal to (false) authority
+29,"The left is asking for expanding background checks, closing the gun show loop hole, maybe registering firearms and creating a system that addresses or catches strawman purchases.",nothing,"answer: appeal to strawman.
+
+the text suggests that the left wants to implement measures that address hypothetical ""strawman purchases,"" without providing evidence of such purchases existing.","answer: appeal to strawman. 
+
+the argument suggests that the left is proposing impractical and unnecessary measures to address gun violence, implying that these measures are not actually being proposed by the left.","answer: appeal to straw man.
+
+the sentence suggests that the left is proposing measures to address straw man purchases, which implies that such purchases are a significant problem. however, the text does not provide any evidence to support this claim.",False,straw man
+30,"Several years ago, a group of 10 psychologists started a psychology training program. Each of those psychologists is efficient, effective, and highly-regarded. Their training program must be efficient, effective, and highly-regarded.",causal oversimplification,"answer: circular reasoning.
+
+the argument assumes that because several psychologists are efficient, effective, and highly-regarded, their training program must also be efficient, effective, and highly-regarded. however, this ignores the fact that other factors besides the psychologists' qualities could contribute to the efficiency, effectiveness, and reputation of the training program.","answer: circular reasoning.
+
+the argument assumes that because several psychologists are efficient, effective, and highly-regarded, the training program itself must be efficient, effective, and highly-regarded without providing any evidence to support this claim.","answer: circular reasoning.
+
+the argument assumes that because several psychologists are efficient, effective, and highly-regarded, the training program they created must also be efficient, effective, and highly-regarded. however, this ignores the fact that other factors besides the psychologists’ abilities could contribute to the efficiency, effectiveness, and reputation of the training program.",False,circular reasoning
+31,"efficient, effective, and highly-regarded. Their training program must be efficient, effective, and highly-regarded.",false analogy,"answer: appeal to positive emotion.
+
+the sentence suggests that the training program is highly effective, efficient, and well-regarded simply because people think highly of it, without providing any objective evidence to support this claim.","answer: appeal to positive emotion.
+
+the sentence suggests that the training program is highly regarded because it is efficient, effective, and highly regarded. however, the text does not provide any evidence or reasoning to support this claim.","answer: appeal to positive emotion.
+
+the text attempts to make the training program seem appealing by associating it with positive attributes.",False,appeal to positive emotion
+32,"I lost my phone in the living room, so it will always be in the living room when it is lost.",false causality,"answer: circular reasoning.
+
+the premise implies that once something is lost, it will always be in the same place. this is not logically valid.","answer: circular reasoning.
+
+the premise implies that once something is lost, it will always be in the same place. this ignores the possibility that the item could be found in a different location at a later time.","answer: circular reasoning.
+
+the sentence implies that something is always in the living room simply because it was lost there. this ignores the possibility that the phone was moved from the living room after it was lost.",False,circular reasoning
+33,"So was the bar burned by a mob and the owner killed? If not, Christians have a ways to go before they are on par with Muslims.",false dilemma,answer: appeal to negative association.,answer: appeal to fear. the author suggests that christians will be on par with muslims if the bar was not burned by a mob and the owner killed.,"answer: appeal to pity.
+
+the author tries to evoke sympathy for christians by implying that they are less violent than muslims, when the text provided does not contain any information regarding the actions of christians or muslims in burning the bar.",False,no match
+34,"If you sell at bottom, you're either panicking or trying to crash the price of the asset you're selling.",false dilemma,answer: appeal to negative emotion.,answer: appeal to negative emotion.,answer: appeal to negative emotion.,False,appeal to emotion (level 1)
+35,So now the far left is going to have to admit that there is a difference between the brains of men and women and their behavior isn't just a social construct that is created by what toys they are raised with?,straw man,"answer: appeal to authority.
+
+the text suggests that the far left is wrong to believe that gender differences are simply social constructs because there is a biological difference between the brains of men and women.",answer: appeal to authority. the text suggests that a specific authority (the far left) must admit something based on a premise that is not clearly established.,"answer: appeal to authority.
+
+the provided text suggests that a certain group (the far left) is forced to admit the biological differences between men and women based on their toy preferences. this implies that the authority (the far left) previously denied such differences.",False,appeal to (false) authority
+36,So now the far left is going to have to admit that there is a difference between the brains of men and women and their behavior isn't just a social construct that is created by what toys they are raised with? Looks like the exception is charging to the rescue of the norm. Plot twist!,hasty generalization,"answer: appeal to authority.
+
+the text cites the alleged need for the far left to admit something based on an authority figure's (not explicitly stated in the given text) opinion, rather than providing verifiable evidence.",answer: appeal to authority.,"answer: appeal to tradition.
+
+the premise relies on the traditional belief that the difference between the brains of men and women is biological rather than social.",False,appeal to (false) authority
+37,"The spider that bit was poison, therefore all spiders are poison.",hasty generalization,"answer: circular reasoning.
+
+the premise of the sentence implies that all spiders are poisonous based on the fact that one particular spider was poisonous. however, the premise itself relies on the conclusion that all spiders are poisonous.","answer: fallacy of hasty generalization.
+
+the provided text commits the fallacy of hasty generalization, which involves drawing a broad conclusion about an entire group based on a single observed instance. in this case, the speaker concludes that all spiders are poisonous simply because one particular spider they encountered was venomous. this overgeneralization ignores the fact that there are many non-venomous spider species.","answer: circular reasoning.
+
+the sentence suggests that if one spider is venomous, all spiders must be venomous, which is a circular argument.",False,circular reasoning
+38,What precisely makes these world leaders so convinced that climate change is a more urgent and massive threat than the incessant rampages of Islamist violence?,appeal to anger,"answer: appeal to negative emotion.
+
+the sentence suggests that world leaders are motivated to perceive climate change as a greater threat due to negative emotions associated with the issue rather than objective analysis.","answer: appeal to negative emotion.
+
+the text suggests that world leaders are motivated by negative emotions (fear, concern) regarding climate change, rather than objective analysis of the two threats.","answer: appeal to negative emotion.
+
+the text suggests that world leaders are motivated by negative emotions (such as fear or concern) regarding climate change rather than objective analysis of the issue.",False,appeal to emotion (level 1)
+39,"These are unidentified people, and after the bomb goes off, they're blown to bits because they are suicidal individuals who think they're going to go to paradise if they perpetrate such an act and lose their life in doing it.",nothing,"answer: appeal to pity.
+
+the text attempts to evoke sympathy for the supposed motives of the unidentified individuals, suggesting that they are driven by suicidal thoughts and a belief that their actions will result in a reward in the afterlife.",answer: appeal to negative emotion.,answer: appeal to pity. the text attempts to evoke sympathy for the individuals by suggesting that they are suicidal and motivated by a desire for paradise.,False,appeal to pity
+40,smoking cigarettes is deadly because cigarettes can kill you,circular reasoning,"answer: appeal to fear.
+
+the text uses the fear of death to support the claim that smoking cigarettes is deadly.","answer: appeal to fear.
+
+the sentence suggests that smoking cigarettes is deadly because cigarettes can kill you, without providing any evidence or medical consensus to support this claim.","answer: appeal to authority. the text cites the ability of cigarettes to kill as evidence that smoking cigarettes is deadly, without providing any credible authority to support this claim.",False,appeal to fear
+41,"Do any of you self-righteous pricks understand in the slightest capacity how nature works? There are 4.6 BILLION FUCKING YEARS of evolution on this planet across hundreds upon hundreds of millions of species and not a goddamned one of them, with the exception of you idiots, has any problem with killing for food.",ad hominem,"answer: appeal to anger.
+
+the author uses exaggerated and insulting language to convey their anger, rather than providing evidence or logical arguments to support their claims.","answer: appeal to anger.
+
+the author uses extreme language and insults to convey their message rather than presenting logical arguments or evidence.","answer: appeal to anger.
+
+the author uses extreme language and emotional appeals to undermine the intelligence of the readers rather than providing evidence or logical arguments.",False,appeal to anger
+42,"There are 4.6 BILLION FUCKING YEARS of evolution on this planet across hundreds upon hundreds of millions of species and not a goddamned one of them, with the exception of you idiots, has any problem with killing for food. It's in the DNA of every single creature on this planet, and it's the SOLE FUCKING REASON that either of us exist. Killing for food is 100% acceptable and morally right, and the suffering of the animals involved is fucking irrelevant. Lions don't give a fuck about the screams of a wildebeest as they disembowel it for a dinner. There is nothing, save for your ego, that gives you a reason to act or feel any different.",appeal to nature,"answer: appeal to emotion (specifically, appeal to anger and disregard for animal suffering).","answer: appeal to pity.
+
+the author uses emotional manipulation and pity-inducing language to justify the act of killing animals for food, arguing that it is an innate behavior ingrained in the dna of all creatures.","answer: appeal to emotion (specifically, appeal to anger).",False,appeal to anger
+42,"There are 4.6 BILLION FUCKING YEARS of evolution on this planet across hundreds upon hundreds of millions of species and not a goddamned one of them, with the exception of you idiots, has any problem with killing for food. It's in the DNA of every single creature on this planet, and it's the SOLE FUCKING REASON that either of us exist. Killing for food is 100% acceptable and morally right, and the suffering of the animals involved is fucking irrelevant. Lions don't give a fuck about the screams of a wildebeest as they disembowel it for a dinner. There is nothing, save for your ego, that gives you a reason to act or feel any different.",appeal to nature,"answer: appeal to emotion (specifically, appeal to anger and disregard for animal suffering).","answer: appeal to pity.
+
+the author uses emotional manipulation and pity-inducing language to justify the act of killing animals for food, arguing that it is an innate behavior ingrained in the dna of all creatures.","answer: appeal to emotion (specifically, appeal to anger).",False,appeal to emotion (level 1)
+43,"Everybody who's looked at it, 500 economists, seven Nobel prize winners, say it's bad for the economy.",appeal to (false) authority,"answer: appeal to authority.
+
+explanation: the text relies on the authority of economists and nobel prize winners to support its claim that something is bad for the economy, without providing any evidence or reasoning to justify their conclusions.","answer: appeal to authority.
+
+the text relies on the authority of economists and nobel prize winners to support the claim that something is bad for the economy, without providing any evidence or reasoning to substantiate that claim.","answer: appeal to authority.
+
+explanation: the text relies on the authority of economists and nobel prize winners to support the claim that something is bad for the economy, but it does not provide any evidence or reasoning to explain why these experts believe that.",False,appeal to (false) authority
+44,It's going to blow a hole in the deficit It's going to raise taxes on nine million people and require bigger cuts than the one I vetoed.,appeal to fear,"answer: appeal to fear.
+
+the text suggests that if we do not bail out the big automakers, the us economy will collapse.","answer: appeal to fear.
+
+the author suggests that if we do not bail out the automakers, the us economy will collapse, implying a dire consequence if the automakers are not bailed out.",answer: appeal to worse problems.,True,appeal to fear
+45,"It's going to blow a hole in the deficit It's going to raise taxes on nine million people and require bigger cuts than the one I vetoed. Our plan is better, it will take us into the future with a growing economy and healthier families.",false dilemma,"answer: appeal to fear.
+
+the author uses exaggerated and alarming language to create a sense of fear about the potential consequences of not supporting their plan.",answer: appeal to fear and negative consequences.,answer: appeal to fear and emotion.,False,appeal to fear
+46,"Our plan is better, it will take us into the future with a growing economy and healthier families.",appeal to positive emotion,answer: appeal to positive emotion. the sentence attempts to make the plan seem reasonable by appealing to the positive emotions of a growing economy and healthier families.,answer: appeal to positive emotion. the sentence attempts to make the plan seem appealing by associating it with a positive future with a growing economy and healthier families.,"answer: appeal to positive emotion.
+
+the text attempts to make the plan seem appealing by manipulating the reader's emotions with the promises of a growing economy and healthier families.",True,appeal to positive emotion
+47,"If indoor smoking laws are passed for bars, the bars will go out of business since people who drink, smoke while they drink.",causal oversimplification,"answer: appeal to assumption.
+
+the text assumes that people will stop drinking in bars if smoking is prohibited, but this is not necessarily true.","answer: appeal to association.
+
+the premise suggests that people who drink in bars will stop drinking in bars if indoor smoking laws are passed, solely because they enjoy smoking while they drink.","answer: appeal to consequence. the premise suggests that if smoking is prohibited indoors, bars will lose business because people will stop drinking in those bars.",False,no match
+48,"You should drive on the right side of the road because that is what the law says, and the law is the law.",circular reasoning,"answer: appeal to authority.
+
+the text relies on the authority of the law to support the claim that one should drive on the right side of the road. however, the text does not provide any evidence or reasoning as to why the law is correct or why driving on the right side of the road is better than driving on the left side of the road.","answer: appeal to authority.
+
+the sentence relies on the apparent authority of the law to justify driving on the right side of the road, but it does not explain why the law was created or whether there are exceptions to the rule.","answer: appeal to authority.
+
+the text relies on the apparent authority of the law to support the claim that one should drive on the right side of the road. however, this ignores the fact that laws can be flawed or even unjust.",False,appeal to (false) authority
+49,"If that were the case, a lot of pro vaxxers wouldn't have an informed opinion either and let's be honest: they don't.",hasty generalization,"answer: appeal to ignorance.
+
+the sentence suggests that people who are in favor of vaccination are necessarily ignorant about the issue. this is a fallacy as there are many informed people who support vaccination.",answer: appeal to ignorance.,"answer: appeal to ignorance.
+
+the author suggests that pro-vaxxers lack an informed opinion on the matter because they might not be aware of some relevant information.",False,no match
+50,"If that were the case, a lot of pro vaxxers wouldn't have an informed opinion either and let's be honest: they don't. Herd mentality is as much a thing as herd immunity.",equivocation,"answer: appeal to ignorance.
+
+the argument implies that anyone who disagrees with the author on vaccines is simply following the crowd without proper research.","answer: appeal to ignorance.
+
+the text implies that pro-vaxxers lack an informed opinion because they are following the herd rather than independently evaluating the issue.","answer: appeal to ignorance.
+
+the text suggests that those who oppose mandatory vaccinations are simply following the crowd without any real understanding of the issue.",False,no match
+51,"What antivaxxers need is someone with a PhD drawing a conclusion they agree with so they can repeat and circlejerk that to oblivion. And someone with a PhD should know the difference between an actual result and""oh hey one number out of 100 says this so it must be true"".",Appeal to Ridicule,"answer: appeal to authority.
+
+the argument relies on the supposed authority of a phd to support a conclusion that is not necessarily supported by the evidence.","answer: appeal to authority.
+
+the premise suggests that someone with a phd should draw a conclusion that agrees with antivaxxers, and that this conclusion can be repeated and reinforced endlessly. this ignores the basic principle of scientific inquiry, which involves rigorous testing and analysis of evidence to reach conclusions.","answer: appeal to authority.
+
+the argument assumes that someone with a phd can simply draw a conclusion that antivaxxers agree with and that this conclusion is valid simply because the person has a phd.",False,appeal to (false) authority
+52,"It happened because I could work with people -- Republicans and Democrats. That's why we've had 24 retired generals and admirals, hundreds of business people, many of them Republican, support this campaign. You have to decide whether you want to change or not.",appeal to (false) authority,answer: appeal to authority.,"answer: appeal to positive emotion.
+
+the text attempts to make the argument seem reasonable by appealing to the positive emotions of the reader by mentioning the support of retired generals, business people, and republicans for the campaign.","answer: appeal to authority.
+
+the provided text uses the authority of retired generals, admirals, business people to support the argument. however, the text does not provide any information regarding the expertise or qualifications of these individuals in relation to the argument.",False,appeal to (false) authority
+53,You have to decide whether you want to change or not.,false dilemma,answer: appeal to free will.,"answer: appeal to choice.
+
+the sentence suggests that one must make a deliberate and conscious decision between changing or remaining unchanged.",answer: appeal to free will.,False,no match
+54,Fortnite is the best game ever. Everyone is playing it!,ad populum,"answer: appeal to popularity.
+
+the text simply states that many people are playing fortnite, but does not provide any objective evidence to support the claim that it is the best game ever.","answer: appeal to popularity.
+
+the text suggests that fortnite is the best game ever because everyone is playing it, implying that widespread popularity is an indicator of quality or superiority.","answer: appeal to bandwagon.
+
+the sentence suggests that everyone is playing fortnite, implying that it is the best game ever simply because many people are playing it.",False,ad populum
+55,"Every sunrise, the rooster makes a sound. So it is the rooster which makes the sun rise.",false causality,"answer: circular reasoning.
+
+the sentence suggests that the rooster is responsible for the sunrise based on the observation that the rooster makes a sound every time the sunrise occurs. however, the text provided does not contain any evidence or logical reasoning to establish a casual relationship between the rooster's sound and the sunrise.","answer: circular reasoning.
+
+the sentence implies that the rooster's crowing is the cause of the sunrise, when in reality, the rooster's crowing is simply coinciding with the sunrise.","answer: circular reasoning.
+
+the sentence implies that the rooster's crowing is the cause of the sunrise, when in reality, the rooster's crowing simply happens at the same time as the sunrise.",False,circular reasoning
+56,I passed my math test after going out to the movies the night before. I should go to the movies the night before every math test!,false causality,"answer: appeal to positive emotion.
+
+the sentence suggests that going to the movies the night before a math test will help someone pass the test, purely based on the fact that the person passed the test after doing so.","answer: appeal to positive emotion.
+
+the sentence suggests that going to the movies the night before a math test will help someone pass the test, but this lacks sufficient evidence or logical reasoning to support this claim.","answer: appeal to positive emotion.
+
+the sentence suggests that going to the movies the night before a math test will help someone pass the test, without providing any evidence or logical reasoning to support this claim.",False,appeal to positive emotion
+57,"According to Freud, your belief in God stems from your need for a strong father figure. So don't you see that it's silly to continue believing in God?",Appeal to Ridicule,"answer: appeal to authority.
+
+freud's theory should not be taken as definitive evidence for all individuals or belief systems.","answer: appeal to authority.
+
+the text relies on the authority of freud to support the conclusion that the belief in god is irrational. however, the text does not provide any evidence that freud was an authority on the topic of religion.","answer: appeal to authority.
+
+the text relies on the authority of freud to support the conclusion that the belief in god is based on a need for a strong father figure.",False,appeal to (false) authority
+58,Human are omnivores. End of argument.,appeal to nature,"answer: appeal to tradition.
+
+humans have traditionally been thought of as omnivores, consuming both plant and animal matter.","answer: appeal to authority.
+
+the premise suggests that human being are omnivores simply because an alleged authority (no authority is mentioned in the text) believes it.",answer: appeal to authority.,False,appeal to (false) authority
+59,I got into a discussion with someone on here who claimed that even though he supported legalized abortion and was pro choice he still received.,false dilemma,"answer: appeal to contradiction.
+
+the person claims to be pro-choice and support legalized abortion, yet still received the argument that he must be against it.","answer: appeal to contradiction.
+
+the person is claiming that one can support legalized abortion and be pro-choice, and still receive criticism.","answer: appeal to contradiction.
+
+the person contradicts themselves by supporting a position (legalized abortion and pro-choice) while simultaneously claiming to have received the same position.",False,no match
+60,And he was flippant and dismissive. The Eucharist is not a reward or something you deserve if you are obstinate to church teachings,ad hominem,answer: appeal to negative emotion.,answer: appeal to negative emotion.,answer: appeal to negative emotion.,False,appeal to emotion (level 1)
+61,"Choosing compassion over virtue signaling should not place any individual in mortal sin. After all, 51% of US Catholics believe abortion should be legal in all or most cases.",ad populum,"answer: appeal to majority.
+
+the argument assumes that the majority always knows what is best, and that following their lead is always the right course of action.","answer: appeal to majority.
+
+the argument suggests that because a majority of us catholics believe abortion should be legal, it is therefore not a sin to choose compassion over virtue signaling.","answer: appeal to majority.
+
+the argument assumes that simply because a majority of us catholics believe abortion should be legal in all or most cases, that this alone is sufficient to justify choosing compassion over virtue signaling, regardless of any other ethical or moral considerations.",False,ad populum
+62,"I dont have to justify it, vegans assume most people consider an animal life to be on par with human life, its not.",straw man,"answer: appeal to assumption.
+
+the sentence suggests that vegans believe that most people consider animal life to be on par with human life, and therefore, vegans do not need to justify their position against eating animals.","answer: appeal to assumption.
+
+the sentence assumes that all people consider an animal life to be on par with human life, which is not necessarily true.","answer: appeal to pity.
+
+the author suggests that vegans believe that animal life is equal to human life, solely based on the assumption of others.",False,no match
+63,"There is nothing morally wrong about killing animals for food, you realise animals kill other animals for food too right?",appeal to nature,"answer: appeal to parallel.
+
+the text suggests that humans are justified in killing animals for food because animals themselves kill other animals for food, therefore it must be morally acceptable. however, this ignores the fact that humans and animals are different beings with different ethical considerations.","answer: appeal to analogy.
+
+the argument confuses the moral status of animals by drawing an analogy between human eating animals and animals eating other animals.","answer: appeal to analogy.
+
+the argument confuses the intentional killing of animals for food with the natural predatory actions of other animals.",False,false analogy
+64,We won the Cold War because we invested and we went forward.,causal oversimplification,"answer: appeal to tradition.
+
+the cold war ended due to various factors, not necessarily because of increased investment.","answer: appeal to positive emotion.
+
+the text suggests that the united states won the cold war solely due to its investment, implying that investment alone is sufficient for victory.","answer: appeal to positive emotion.
+
+the sentence suggests that the cold war was won solely due to investments and forward progress, overlooking other factors that contributed to the soviet union's collapse.",False,appeal to positive emotion
+65,"He was born to Catholic parents and raised as a Catholic until his confirmation in 8th grade. Therefore, he is bound to want to defend some Catholic traditions and, therefore, cannot be taken seriously.",false causality,answer: appeal to tradition.,"answer: appeal to tradition.
+
+the argument assumes that someone who was raised as catholic will always uphold and defend catholic traditions simply because of their upbringing.","answer: appeal to tradition.
+
+the premise assumes that someone raised as catholic would always want to defend catholic traditions. this ignores the fact that individuals can have nuanced or evolving beliefs about their upbringing or religion.",False,appeal to tradition
+66,"Therefore, he is bound to want to defend some Catholic traditions and, therefore, cannot be taken seriously.",ad hominem,answer: appeal to prejudice.,answer: appeal to prejudice.,answer: appeal to prejudice.,False,no match
+67,"As a matter of fact, the tools now given to the terrorist fighters are the same tools that we've been using against drug dealers and white-collar criminals.",nothing,"answer: appeal to analogy.
+
+the author suggests that the tools used by terrorists are similar to those used to fight other criminals, implying that the use of these tools is justified in all cases.","answer: appeal to analogy.
+
+the author is suggesting that the tools used by terrorists are similar to those used by law enforcement in their battles against drug dealers and white-collar criminals.","answer: appeal to positive emotion.
+
+the sentence attempts to make the actions of terrorist fighters seem less harmful by comparing them to the actions of drug dealers and white-collar criminals.",False,false analogy
+68,My way of responding to difficult patients is by far the most ethical because no other way is so ethical and it is the only way that is completely ethical.,circular reasoning,"answer: appeal to authority.
+
+the premise suggests that the author's way of responding to difficult patients is the only ethical way. the provided text lacks evidence or authority to support the claim that their way is the only ethical way of handling difficult patients.","answer: appeal to authority.
+
+the premise suggests that the author is an authority on ethics, and therefore their response must be ethical.","answer: appeal to authority.
+
+the text suggests that the author's way of responding to difficult patients is the only ethical way because an authority figure (presumably someone with medical expertise) has endorsed this method.",False,appeal to (false) authority
+69,"Well, democracy gave us Trump to the whole world. I'll let others judge what democracy is.",causal oversimplification,answer: appeal to negative emotion.,answer: appeal to negative emotion.,answer: appeal to negative emotion.,False,appeal to emotion (level 1)
+70,"Chihuahuas are good inside dogs. German Shepherds are dogs; therefore, German Shepherds would be good inside dogs, too.",false analogy,answer: straw man fallacy. the argument confuses the size and temperament of different dog breeds.,"answer: straw man fallacy. 
+
+the argument confuses the size and temperament of different dog breeds by implying that because german shepherds are dogs, they would necessarily be good inside dogs like chihuahuas.","answer: straw man fallacy.
+
+the arguer suggests that because chihuahuas are good inside dogs, all dogs must be good inside dogs, ignoring the fact that different dog breeds have different temperaments and suitability for different environments.",False,straw man
+71,"Most animals, including humans are meant to consume meat. Humans would've probably died out by eating vegetables alone. So why not doing what we were meant to do by enjoying some salmon?",appeal to nature,"answer: appeal to tradition.
+
+the premise of this argument implies that early humans only ate meat and would have died out if they had eaten only vegetables. this ignores the fact that early humans did indeed consume plant material and that a balanced diet including both meat and vegetation has sustained human populations for millennia.","answer: appeal to tradition.
+
+the premise assumes that humans are meant to consume meat based on some traditional belief, rather than providing factual evidence supporting the claim.","answer: appeal to tradition.
+
+the premise relies on the idea that humans are biologically programmed to consume meat, drawing on traditional beliefs rather than scientific evidence.",False,appeal to tradition
+72,So why not doing what we were meant to do by enjoying some salmon? Or do you actually think fish is okay since you don't think they look cute?,Appeal to Ridicule,answer: appeal to positive emotion. the author is manipulating the reader's emotional response to fish to make them appear more palatable.,"answer: appeal to positive emotion.
+
+the author tries to make the argument appear reasonable by appealing to the reader's positive emotions towards fish, rather than providing substantial evidence in favor of the claim.","answer: appeal to positive emotion.
+
+the author attempts to make the reader feel positively towards fish by appealing to their perceived cuteness.",False,appeal to positive emotion
+73,The United States is the wealthiest nation in the world. So every American is wealthy.,fallacy of division,"answer: appeal to generalization.
+
+the statement ignores the vast wealth inequality within the united states, where a significant portion of the population remains financially struggling.","answer: appeal to generalisations - the text assumes that since the us is wealthiest nation in the world, every single individual in the us is wealthy, which is inaccurate and fails to consider income inequality.","answer: appeal to generalization.
+
+the sentence wrongly assumes that since the united states is the wealthiest nation in the world, every individual in the country must also be wealthy, which is not necessarily true.",False,hasty generalization
+74,"As he goes by, the driver yells""get on the sidewalk where you belong!"" Sam sees that the car has Ohio plates and concludes that all Ohio drivers are jerks.",hasty generalization,"answer: appeal to stereotype.
+
+the driver's generalization about all ohio drivers is based on a limited interaction and does not necessarily reflect the behavior of all ohio drivers.","answer: appeal to generalization.
+
+the argument concludes that all ohio drivers are jerks based on the behavior of one driver.","answer: appeal to generalization.
+
+the driver's comment cannot be used to conclude that all ohio drivers are jerks.",False,hasty generalization
+75,Advancement and maybe kickbacks? Either that or he's just a psychopath who gets off on destroying people's lives. Either way this asshole should never see the light of day again.,false dilemma,answer: appeal to negative emotion.,answer: appeal to negative emotion.,answer: appeal to negative emotion.,False,appeal to emotion (level 1)
+76,Either that or he's just a psychopath who gets off on destroying people's lives. Either way this asshole should never see the light of day again.,ad hominem,"answer: appeal to emotion (specifically, ad hominem).","answer: appeal to anger.
+
+the sentence relies on emotional language and exaggerated statements to convey its argument, rather than presenting logical evidence or facts.","answer: appeal to anger.
+
+the argument suggests that the person is either a psychopath or should never see the light of day again, based on some unspecified actions. this is an appeal to anger, as it relies on strong emotional language rather than logical evidence to support the conclusion.",False,appeal to anger
+77,"only man is rational no women is man Therefore, no women is rational",equivocation,"answer: circular reasoning.
+
+the premise ""only man is rational"" is already contained in the conclusion ""no women is rational"", making the argument circular and without logical progression.","answer: circular reasoning.
+
+the premise ""only man is rational"" already contains the conclusion ""no women is rational"". so the argument is just restating the premise with a different wording.","answer: circular reasoning.
+
+the premise ""only man is rational"" already contains the conclusion ""no women is rational"". therefore, the argument is based on the premise itself, without providing any additional evidence.",False,circular reasoning
+78,"You should never gamble. Once you start gambling you find it hard to stop. Soon you are spending all your money on gambling, and eventually you will turn to crime to support your earnings.",slippery slope,"answer: appeal to fear.
+
+the text suggests that gambling is inherently dangerous and will inevitably lead to financial ruin and criminal behavior.","answer: appeal to fear.
+
+the sentence suggests that once someone starts gambling, they will inevitably become addicted and eventually resort to crime to fund their gambling habits. this is an exaggeration and does not accurately represent the reality of gambling for most people.","answer: appeal to fear.
+
+the text attempts to create fear around the idea of gambling by suggesting that it inevitably leads to financial ruin and criminal activity.",False,appeal to fear
+79,"If it is very low, for instance around one, it means greenhouse gas emissions are simply not worth doing anything about. But if ECS is high -- say, around four degrees or more -- then climate change is probably a big problem. We may not be able to stop it, but we' d better get ready to adapt to it.",false dilemma,answer: appeal to authority. the text relies on the authority of an unnamed scientist to make the claim that climate change is probably a big problem if ecs is high.,"answer: appeal to authority.
+
+the premise assumes that the ecs (earth's critical systems) readings are an accurate indicator of the severity of climate change and that anything below a certain threshold (1) is not worth addressing, while anything above that threshold (4 or more) is a ""big problem.""","answer: appeal to cherry picking. the text selectively presents two scenarios (ecs around 1 or around 4) to support the claim that climate change is either not a problem or a big problem, without providing sufficient evidence or a nuanced explanation for the relationship between ecs and the severity of climate change.",False,appeal to (false) authority
+80,"Hopefully the police will use their resources on more serious issues such as knife crime, drug gangs and scooter criminals.",appeal to worse problems,"answer: appeal to irrelevant concerns.
+
+the sentence suggests that the police should prioritize addressing more serious crimes instead of focusing on less serious issues. however, this assumes that the police are solely responsible for addressing these various types of crime, which is not necessarily accurate.","answer: appeal to worse problems.
+
+the author suggests that the police should prioritize more serious crimes over less serious ones, implying that the latter are not as important.","answer: appeal to positive emotion.
+
+the author suggests that the police should prioritize more serious crimes over less serious ones, implying that the latter are less important.",False,no match
+81,From a practicing judge?,ad hominem,"answer: appeal to authority.
+
+the sentence suggests that because the author is a practicing judge, their opinion on a particular issue is automatically authoritative and correct.","answer: nothing.
+
+the text does not provide any information regarding fallacies or logical errors.","answer: appeal to authority.
+
+the premise suggests that a practicing judge's opinion should be automatically accepted as an accurate authority on a given issue without further examination of the facts or arguments presented.",False,appeal to (false) authority
+82,"So don't be upset someone is your age and way luckier than you, be thankful you weren't born into worse circumstances because there are likely plenty.",appeal to worse problems,"answer: appeal to pity.
+
+the text attempts to make the current situation seem better by comparing it to a worse case scenario (being born into worse circumstances).",answer: appeal to worse problems.,"answer: appeal to pity.
+
+the sentence tries to make the current situation seem better by comparing it to a worse situation.",False,appeal to pity
+83,"Also, fun fact, they've done studies and if you make around $80k in the US anything beyond that doesn't really contribute to your overall happiness.",straw man,"answer: appeal to positive emotion.
+
+the sentence suggests that once a person reaches a certain income level ($80k), any additional income will not contribute to their overall happiness, implying that money cannot buy happiness.","answer: appeal to positive emotion.
+
+the text tries to make the reader believe that once you reach a certain income level, additional wealth will not make you happier by appealing to the positive emotion of happiness associated with wealth.","answer: appeal to positive emotion.
+
+the sentence suggests that once a person reaches a certain income level, additional wealth will not significantly contribute to their happiness, implying that wealth alone cannot buy happiness.",False,appeal to positive emotion
+84,I think what's cooler about Post Malone and other wildly successful people is they are doing what they love doing. That's real success.,straw man,"answer: appeal to positive emotion.
+
+the text suggests that the success of post malone and other wildly successful people is due to their passion for what they do, implying that this is the definition of real success.","answer: appeal to positive emotion.
+
+the argument suggests that doing what you love is the key to success, implying that those who love what they do are more likely to achieve success than those who don't.","answer: appeal to positive emotion.
+
+the sentence suggests that doing what one loves is the ultimate definition of success.",False,appeal to positive emotion
+85,We know God exists because he made everything,circular reasoning,"answer: appeal to traditional.
+
+the belief in god is based on tradition and religious teachings, rather than concrete evidence or logical reasoning.",answer: appeal to design.,answer: appeal to authority.,False,no match
+86,"2 chicks rejected me for being a virgin. I had sex as soon as I started lying about having had sex. And all those weren't even casual sex, it was in the frame of relationships. Apparently it holds bearing on who you are as a person and you're not the same person when you loose it.",equivocation,"answer: appeal to positive emotion.
+
+the author manipulates the reader's emotions by suggesting that losing one's virginity is necessary to be seen as a desirable person.","answer: appeal to negative emotion.
+
+the sentence suggests that losing one's virginity makes a person a different and better person.",answer: appeal to negative emotion.,False,appeal to emotion (level 1)
+87,"The numbers show that we hit twice the audience with TV, and our focus groups remember the TV commercial 38 percent more than the radio slot.",nothing,"answer: appeal to authority.
+
+the provided text suggests that the tv commercial was more memorable due to the authority of the focus groups.","answer: appeal to authority.
+
+the provided text suggests that the recall for the tv commercial is higher simply because the audience remembers it more, rather than the commercial actually resonating with the audience.","answer: appeal to authority.
+
+the provided text suggests that the audience remembers the tv commercial more than the radio slot simply because a higher percentage of the audience was reached through tv.",False,appeal to (false) authority
+88,This is a ridiculous post and this mechanic will never be changed. Seat switching has always been a BF mechanic.,appeal to tradition,"answer: appeal to tradition.
+
+the mechanic's seating arrangement has always been a tradition in this particular organization, implying that it is unnecessary to change it.","answer: appeal to tradition.
+
+the mechanic's traditional practice of seat switching is not necessarily valid or reliable as evidence that the mechanic will never change their ways.","answer: appeal to tradition.
+
+the premise assumes that seat switching has always been a bf mechanic, implying that this mechanic will never change his ways despite any evidence or logic suggesting that this is not necessarily the case.",True,appeal to tradition
+89,Dont sit here and try and talk about realism or how you shouldnt be able to swap instantly between seats when there is hardly anything realistic about BF vehicle play in general.,Appeal to Ridicule,"answer: appeal to realism.
+
+the sentence suggests that the way vehicle play in general is unrealistic, so it is inappropriate to use realism as an argument against swapping seats.",answer: appeal to unrealistic expectations.,"answer: straw man fallacy. the sentence suggests that traditional bf vehicle play is unrealistic, therefore arguing that swapping seats is also unrealistic.",False,no match
+90,Sounds like you need to get better if you are having trouble shooting down the most vulnerable aircraft in the sky.,Appeal to Ridicule,"answer: appeal to pity.
+
+the author is attempting to elicit sympathy for the person they are addressing by suggesting that they are in dire need of help.",answer: appeal to pity. the author attempts to elicit sympathy for the person's perceived struggles as a means of avoiding accountability for their poor performance.,answer: appeal to pity. the author is attempting to evoke pity from the reader in order to support their argument that the person needs to get better.,False,appeal to pity
+91,"Social media is the worst. People don't realize how much of an effect it has on someone, especially his generation.",hasty generalization,"answer: appeal to negative emotion.
+
+the text suggests that social media has a negative effect on people, without providing any substantial evidence or logical reasoning to support this claim.","answer: appeal to negative emotion.
+
+the text relies on a negative emotional response (disgust or worry) to establish its premise rather than presenting verifiable facts or data.","answer: appeal to negative emotion. the text suggests that social media has a negative effect on people, but does not provide any evidence or logical reasoning to support this claim.",False,appeal to emotion (level 1)
+92,Anyone in the public eye who has any sort of mental health issue should rid themselves of their accounts if they possibly can.,false dilemma,"answer: appeal to pity.
+
+the premise implies that anyone in the public eye with a mental health issue should feel ashamed and should erase themselves from online presence. this overlooks the reality that mental health issues are common and that people with them should be supported, not shamed.","answer: appeal to pity.
+
+the argument suggests that anyone in the public eye with a mental health issue should delete their online accounts due to the assumed negative perception from the public. this overlooks the reality that mental health struggles are prevalent among the general population and does not automatically make someone unworthy of an online presence.","answer: appeal to pity. the author suggests that people in the public eye should remove themselves from public accounts due to their mental health, implying that such a removal is necessary to address their mental health issues.",False,appeal to pity
+93,"China has people in internment camps and people in the middle east get stoned for not wearing head scarves, but it's social media that's the worst?",appeal to worse problems,"answer: appeal to worse problems.
+
+the argument suggests that social media is worse than government oppression and religious practices based on the premise that other countries have worse problems.","answer: appeal to worse problems.
+
+the text suggests that social media is worse than government oppression and religious persecution because it is more widespread.","answer: appeal to worse problems.
+
+the premise suggests that social media is worse than oppressive regimes that impose harsh punishments based on cultural or religious beliefs.",True,appeal to worse problems
+94,"Mr. Gough supports the cell phone ban and he's an idiot, so we should let teachers keep their cell phones.",ad hominem,answer: appeal to emotion (pity).,answer: appeal to emotion (pity).,answer: appeal to emotion (pity).,False,appeal to emotion (level 1)
+95,"Bill, you drive a beat-up car from the 1980s. For this reason, we can never allow you to be a lifeguard at the community pool.",ad hominem,"answer: appeal to prejudice.
+
+the premise unfairly judges bill based on his car's condition, implying that it reflects negatively on his suitability as a lifeguard.",answer: appeal to prejudice. the argument unfairly generalizes that anyone who drives an old car is incapable of being a responsible lifeguard.,answer: appeal to prejudice. the premise of the sentence unfairly associates bill's old car with his ability to be a lifeguard.,False,no match
+96,The teenagers where rude and disrespectful therefore all teenagers are rude and disrespectful.,hasty generalization,"answer: circular reasoning.
+
+the premise that ""teenagers were rude and disrespectful"" is supported by the conclusion that ""all teenagers are rude and disrespectful,"" creating a circular reasoning.","answer: appeal to hasty generalization.
+
+the premise only shows that some teenagers were rude and disrespectful, not that all teenagers are rude and disrespectful.","answer: appeal to hasty generalization.
+
+the premise only shows that some teenagers were rude and disrespectful, not that all teenagers are like that.",True,hasty generalization
+97,"If you give the government *any* control over what is considered""hate speech"", you are basically relinquishing your freedom of speech. It's a slippery slope. For example: saying""hateful"" things about Islam becomes illegal. Let's say you criticise Sharia laws (laws based off of the rules set out in Islam for those who are unaware). Next thing you know, your own government has full power to censor this""hate"", and you are persecuted simply for disagreeing with the laws of an ally nation. Governments have shown time and time again that they are more than happy to censor and abuse their peoples. Don't ever relinquish your freedoms willingly.",appeal to fear,"answer: appeal to slippery slope.
+
+the argument suggests that giving the government control over what is considered ""hate speech"" will inevitably lead to censorship and persecution of dissenting voices.","answer: appeal to fear.
+
+the author suggests that giving the government control over what is considered ""hate speech"" will lead to censorship and persecution of dissenting voices.","answer: appeal to fear.
+
+the text uses fear-mongering tactics to persuade the reader that giving the government control over hate speech will lead to government censorship and persecution of dissenting voices.",True,appeal to fear
+98,Governments have shown time and time again that they are more than happy to censor and abuse their peoples.,hasty generalization,answer: appeal to negative emotion.,answer: appeal to negative emotion.,answer: appeal to negative emotion.,False,appeal to emotion (level 1)
+99,That means it must be really good!,ad populum,"answer: appeal to positive emotion.
+
+the sentence implies that something is excellent or of high quality simply because it is highly desired or sought after.","answer: appeal to positive emotion.
+
+the sentence suggests that if something is repeatedly emphasized or recommended, it must be very good.","answer: appeal to positive emotion.
+
+the sentence suggests that something must be good simply because it is highly praised or recommended.",False,appeal to positive emotion
+100,"If we ban Hummers because they are bad for the environment, then eventually the government will ban all cars; therefore, we should not ban Hummers.""",slippery slope,"answer: appeal to worse problems.
+
+the argument suggests that if we start banning things that are bad for the environment, we will eventually ban everything, so we shouldn't ban hummers. however, this ignores the fact that banning harmful products or practices is a necessary step to address environmental problems.","answer: appeal to worse problems.
+
+the argument suggests that if we ban hummers because they are bad for the environment, we will eventually ban all cars, so we should not ban hummers. this is an appeal to worse problems because it suggests that the consequences of banning hummers are much worse than they actually are.","answer: appeal to worse problems.
+
+the argument suggests that if we ban hummers because they are bad for the environment, we will eventually ban all cars, so we should not ban hummers. this implies that environmental problems are less important than other problems.",False,appeal to worse problems
+101,"My roommate from Maine loves lobsters, therefore all people from Maine love lobsters.",hasty generalization,"answer: appeal to generalization.
+
+the premise states that one roommate from maine loves lobsters, but the conclusion draws a generalization that all people from maine love lobsters, without sufficient evidence to support this claim.",answer: appeal to generalization.,"answer: appeal to generalization.
+
+the premise only states that one roommate from maine loves lobsters, not that all people from maine love lobsters.",False,hasty generalization
+102,I worked in an engineering factory for years and was never supplied a back belt so I now have a bad back and the only way I can get any sleep is to take 4 pain killers before bed or smoke one joint so I'll stick to what's natural rather than use so many painkillers my liver will be useless in a few years so cannabis for the win with me,appeal to nature,"answer: appeal to pity.
+
+the author uses their personal experience of pain and reliance on cannabis as evidence that it is a better option than pain killers for managing back pain.","answer: appeal to personal experience.
+
+the person is using their own experience of working in an engineering factory to support the claim that cannabis is better than pain killers for pain relief. however, this argument is not generalizable to everyone and may not be applicable to other situations.","answer: appeal to pity.
+
+the author uses their personal experience of pain and their perceived health consequences of taking pain killers as evidence that cannabis is a better option.",False,appeal to pity
+103,There must be a firm basis to people hating Islam. There are many of us and we can't all be wrong.,ad populum,"answer: appeal to majority.
+
+the premise wrongly concludes that a widespread dislike for islam must be valid just because many people dislike it.",answer: appeal to majority.,"answer: appeal to majority.
+
+the argument assumes that just because many people hate islam, there must be a firm basis for their hatred, without providing any evidence or reasoning to support this claim.",False,ad populum
+104,"You are damn right i am and with good reason. With my own two eyes i have seen how it destroys countries, Islamic countries none the less.",false causality,"answer: appeal to fear.
+
+the author uses fear-mongering by claiming that islam destroys countries, without providing any evidence or credible sources to support this claim.","answer: appeal to fear.
+
+the author uses fear-mongering by claiming that islamic countries are destroyed by something without providing any evidence or examples.","answer: appeal to anger.
+
+the sentence uses strong emotional language to convey a sense of anger and righteousness, rather than providing evidence or logical arguments to support the claim.",False,appeal to fear
+105,People that support this religion blowing each other up.,appeal to fear,answer: appeal to negative emotion.,answer: appeal to negative emotion.,answer: appeal to negative emotion.,False,appeal to emotion (level 1)
+106,"You are doing a dis-service to your country being""politically correct"" in regard to Islam and your children will suffer because of it.",appeal to fear,"answer: appeal to fear.
+
+the sentence uses fear-mongering tactics to manipulate the audience by suggesting that being politically correct regarding islam will have negative consequences for the children.","answer: appeal to negative emotions.
+
+the sentence uses negative emotions like suffering and dis-service to support the claim that political correctness regarding islam will negatively affect the children of the person making the argument.","answer: appeal to fear.
+
+the premise suggests that being politically correct regarding islam will negatively impact the children of the arguer.",True,appeal to fear
+107,Good thing CA is able to focus on this hugely important issue and doesn't have massive homelessness plaguing it's cities or an ever increasing affordable housing crisis to worry about.,appeal to worse problems,"answer: appeal to better problems.
+
+the author suggests that california is fortunate not to have the problems of homelessness and housing affordability, implying that these issues are less important than the one they are focusing on.","answer: appeal to positive emotion.
+
+the text suggests that california is fortunate not to have major homelessness or housing crisis issues like other places.",answer: appeal to positive emotion. the text suggests that california is fortunate not to have major homelessness or housing crises because it allows them to focus on a different issue.,False,appeal to positive emotion
+108,I'm so glad CA is at the forefront of tackling our nation's most pressing issues. Keep being a beacon of hope CA and I'm sure other states will follow.,Appeal to Ridicule,"answer: appeal to positive emotion.
+
+the sentence expresses strong support and praise for california's handling of national issues, implying that other states should follow their example.","answer: appeal to positive emotion. the sentence praises california for tackling pressing issues, presumably inspiring other states to follow suit.","answer: appeal to positive emotion.
+
+the sentence expresses strong positive emotions towards california's handling of national issues, implying that other states should follow california's example.",False,appeal to positive emotion
+109,The policies of the last eight years and -- and Washington's unwillingness to tackle the tough problems for decades has left us in the worst economic crisis since the Great Depression.,causal oversimplification,answer: appeal to negative emotions.,answer: appeal to worst problems.,"answer: appeal to tradition.
+
+the premise relies on the assumption that the current economic crisis is the worst since the great depression based on tradition or historical precedent rather than objective data or analysis.",False,no match
+110,And that's why the biggest risk we could take right now is to adopt the same failed policies and the same failed politics that we've seen over the last eight years and somehow expect a different result.,appeal to fear,answer: appeal to frustration.,"answer: appeal to repetition.
+
+the argument suggests that the current political and policy approaches have failed in the past eight years, and therefore will fail again if repeated.","answer: appeal to repetition.
+
+the argument suggests that the current policies and politics have failed in the past eight years, and therefore, adopting them again will lead to the same negative results.",False,no match
+111,"Ive collectively had sex hundreds of times with my partners over the years, that doesn't make me better than someone who's had sex with more people, one time each.",false analogy,"answer: appeal to equality.
+
+the argument suggests that having sex with multiple partners does not make someone better or worse than someone who has had sex with fewer partners.",answer: appeal to equality.,"answer: appeal to equality.
+
+the sentence suggests that having sex with many people does not make someone better than someone who has had sex with fewer people, implying that sexual frequency is not a measure of moral or social worth.",False,no match
+112,Almost everyone in the world will look more favorably on a person who has had sex 100x times with one person versus having sex 1x each with 100 different people.,ad populum,"answer: appeal to positive emotion.
+
+the premise suggests that having multiple sexual partners is less favorable than having sex exclusively with one partner. this is likely based on the assumption that having sex with multiple partners is associated with negative consequences, such as risk of disease or emotional distress.","answer: appeal to positive emotion.
+
+the sentence suggests that people will have a more positive opinion of someone who has had sex multiple times with one partner compared to someone who has had sex once with many different partners, regardless of whether this is actually true.","answer: appeal to positive emotion.
+
+the argument suggests that people will have a more positive view of someone who has had multiple sexual encounters with one partner compared to someone who has had a single sexual encounter with many different partners, solely based on the emotional response associated with the former scenario.",False,appeal to positive emotion
+113,I work 6 ten hour days very frequently and don't get weekends off. In a way it's pretty insulting to see people angry with a 9-5 40 hour work week. I'd be so grateful to have that extra time to spend with my family and friends.,appeal to pity,"answer: appeal to pity.
+
+the author suggests that people with demanding jobs should be grateful for their situation and feel insulted by those who have less demanding jobs.","answer: appeal to envy.
+
+the speaker is envious of people who have a 9-5 job with 40-hour workweeks because they believe they have more free time to spend with their family and friends.","answer: appeal to pity.
+
+the author suggests that people who work 9-5 jobs are lucky enough to have that extra time for their families and friends, implying that those working longer hours are not.",True,appeal to pity
+114,A few students are misbehaving...therefore the whole class is bad.,hasty generalization,answer: appeal to hasty generalization.,answer: appeal to hasty generalization.,"answer: appeal to hasty generalization.
+
+the speaker has made a generalization from a few misbehaving students to the whole class, without providing any evidence that the other students in the class are also misbehaving.",True,hasty generalization
+115,It implies an existing framework of what the extremes of diet are or can be.,straw man,"answer: appeal to tradition.
+
+the sentence suggests that there is a traditional framework of what the extremes of diet are or can be.","answer: appeal to tradition.
+
+the premise suggests that there exists a traditional understanding of what extreme diets are, which implies that any deviation from this traditional framework must be illegitimate or unnatural.","answer: appeal to tradition.
+
+the premise assumes that there is a traditional framework of what the extremes of diet are or can be.",False,appeal to tradition
+116,"For example, if we're speaking'natural' diet. Balance can't include any refined sugar at all because we weren't able to process it. Before the food pyramid came around the upper end of sugar consumption would have been much lower.",straw man,"answer: appeal to authority. the text cites the lack of our ability to process refined sugar as the reason for its exclusion from a natural diet. however, it does not provide any evidence or authority to support this claim.","answer: appeal to authority. the text cites the lack of our ability to process refined sugar as the reason for excluding it from a natural diet, but provides no evidence or authority to support this claim.","answer: appeal to authority.
+
+the text cites an unnamed source (""food pyramid"") as the basis for claiming that refined sugar should be avoided.",False,appeal to (false) authority
+117,But irrespective of whether he thinks it is or not means less than fact that this country cannot morally and socially and economically accept an economy running out the clock on the 20th Century.,appeal to fear,"answer: appeal to tradition.
+
+the premise suggests that because society has traditionally accepted a certain economic model, that model cannot be changed.","answer: appeal to tradition.
+
+the premise suggests that traditional economic systems cannot adapt to the 21st century, implying that any nation attempting such adaptation would be morally and socially unacceptable.","answer: appeal to tradition.
+
+the sentence suggests that the nation cannot morally and socially and economically accept an economy that is outdated. this relies on the traditional notion that economic systems should be upgraded or replaced every century.",False,appeal to tradition
+118,We're treading water. We have families that are hurting. We have people who are unemployed. We have people with no property. We have an administration that is demolishing public housing in our inner cities and not providing anything else but more public housing.,appeal to anger,"answer: appeal to pity.
+
+the author uses emotional language and highlights the suffering of families and individuals to create a sense of pity and urge the audience to take action.","answer: appeal to pity.
+
+the author uses emotional language to evoke sympathy for various individuals and groups affected by economic and social challenges, rather than providing factual evidence to support their claim.","answer: appeal to pity.
+
+the author is attempting to elicit sympathy for various social and economic problems by appealing to the reader's emotions rather than providing concrete evidence or logical arguments.",False,appeal to pity
+119,"Their solution to the inner city is more -- excuse the expression but it's true,""socialism.""",false dilemma,"appeal to negative emotion.
+
+the sentence implies that socialism is associated with negativity or unpleasantness.",answer: appeal to negative emotion.,answer: appeal to negative emotion.,False,appeal to emotion (level 1)
+120,"Michael Jackson, Kurt Cobain, and Jimi Hendrix were rock stars who died young. Therefore, if you become a rock star, don't expect to live a long life.",hasty generalization,"answer: appeal to association.
+
+the argument suggests that if someone becomes a rock star, they will definitely die young like michael jackson, kurt cobain, and jimi hendrix. however, this association does not necessarily mean that all rock stars will meet the same fate.","answer: appeal to tradition.
+
+the premise falsely generalizes that all rock stars die young, which is not supported by sufficient evidence.","answer: appeal to association.
+
+the logic suggests that because rock stars michael jackson, kurt cobain, and jimi hendrix died young, anyone who becomes a rock star will certainly meet the same fate. however, this fails to recognize that many other rock stars have lived long and fulfilling lives.",False,no match
+121,Over 5 million Filipinos use our products. It's time to switch to our brand now!,ad populum,answer: appeal to authority.,"answer: appeal to authority.
+
+the provided text suggests that the use of their products is endorsed by a large number of filipinos, implying that the brand is reliable and trustworthy.",answer: appeal to authority.,False,appeal to (false) authority
+122,"I think I'm right because I believe that we must have a consistent foreign policy, a strong America, and a strong economy.",appeal to positive emotion,"answer: appeal to authority.
+
+the sentence relies on the authority of the arguer to support the conclusion, rather than providing evidence or logical reasoning.","answer: nothing.
+
+the sentence simply expresses an opinion about desirable qualities for a nation, without making any logical argument or employing any of the fallacies listed in the prompt.","answer: appeal to authority.
+
+the sentence suggests that the author believes that their opinion is correct because they believe that the author has consistent foreign policy, a strong america, and a strong economy.",False,appeal to (false) authority
+123,it's clear enough so that there are 2.18 billion Christians,ad populum,"answer: appeal to authority.
+
+the premise lacks evidence or authority to support the claim that there are 2.18 billion christians.",answer: appeal to (false) authority.,"answer: appeal to authority.
+
+the text cites the number of christians without providing any evidence or authority to support that claim.",False,appeal to (false) authority
+124,"And the budget plan that I've put out, according to the""Los Angeles Times"" again, the way these things are typically measured as a percentage of the GDP, will bring government spending down to the lowest level in 50 years. So I want to proceed carefully to cover more people.",appeal to (false) authority,answer: appeal to authority.,"answer: appeal to authority.
+
+the text cites the ""los angeles times"" as the source of information regarding the budget plan. however, the text does not provide any information regarding the expertise or authority of the ""los angeles times"" on the matter of budget plans or economic policy.","answer: appeal to authority.
+
+the text cites the ""los angeles times"" as the source of information regarding the budget plan, but it does not provide any information regarding the expertise or credibility of the source on the matter.",False,appeal to (false) authority
+125,"Animals aren't food for us. If you wouldn't eat a dog or cat, don't eat a cow or chicken. Even if you would eat a dog or cat, don't.",false analogy,"answer: appeal to emotion (pity).
+
+the argument suggests that because people don't eat dogs or cats, they shouldn't eat cows or chickens either.","answer: appeal to emotion (specifically, appeal to compassion).","answer: appeal to emotion (pity).
+
+the argument suggests that it is wrong to eat animals because it is morally wrong to eat dogs and cats, even though many people do eat those animals.",False,appeal to emotion (level 1)
+126,"Animals are food for other animals, why they wouldn't be food for humans?",appeal to nature,"answer: appeal to tradition.
+
+the premise assumes that the tradition of not eating animals is valid and should be followed by humans.","answer: appeal to tradition.
+
+the idea that animals are only food for other animals is a traditional belief that is not necessarily supported by scientific evidence.","answer: appeal to tradition.
+
+the premise assumes that eating animals is unethical only because humans are animals.",False,appeal to tradition
+127,The president of Honduras is a good leader because he is a leader of the country.,circular reasoning,"answer: appeal to authority.
+
+the text uses the president of honduras as an authority to support the claim that he is a good leader, without providing any evidence or reasoning beyond that.","answer: appeal to authority.
+
+the provided sentence suggests that the president's leadership qualities are valid because he is the leader of the country, without providing evidence or other authoritative sources to support this claim.","answer: appeal to authority.
+
+the text relies on the authority of the president of honduras to support the claim that he is a good leader, without providing any objective evidence or qualifications to substantiate this claim.",False,appeal to (false) authority
+128,"The government's bigger than it was when President Kennedy was around, even though he says it's not.",nothing,"answer: appeal to authority.
+
+the text cites president kennedy's alleged statement that the government is not as big as it is today, implying that the current government is larger than during his presidency.","answer: appeal to authority.
+
+the text relies on the authority of president kennedy to support the claim that the government is not as big as it is today. however, the text does not provide any evidence that president kennedy actually said this.","answer: appeal to authority.
+
+the text confuses the statement of a historical figure (president kennedy) with the actions or statements of the government today.",False,appeal to (false) authority
+129,Families communicate less and less in the past forty years since feminism became mainstream. Feminism is to blame for this deterioration in the family.,false causality,"answer: appeal to tradition.
+
+the premise suggests that family communication has deteriorated since the rise of feminism, implying that feminism is responsible for this decline. however, the provided text lacks evidence or historical context to support this claim.","answer: appeal to tradition.
+
+the premise falsely assumes that traditional family structures have remained constant over the past forty years and that feminism has negatively impacted family communication.","answer: appeal to tradition.
+
+the premise suggests that the deterioration of family communication is due to the rise of feminism, implying that families communicated more effectively before feminism.",False,appeal to tradition
+130,"Our military is the strongest military in the world. It is the strongest, best prepared, best equipped it has ever been.",appeal to positive emotion,"answer: appeal to authority.
+
+the text relies on the apparent authority of the speaker to establish the claim that the military is the strongest in the world, rather than providing evidence or facts to support the claim.","answer: appeal to authority.
+
+the sentence relies on the authority of the military itself to establish its strength, rather than providing concrete evidence or objective assessments from military experts or historical records.","answer: appeal to authority.
+
+the text relies on the supposed authority of the speaker to assert that the military is the strongest in the world, without providing any evidence or reasoning to support this claim.",False,appeal to (false) authority
+131,"Murder is morally wrong. Therefore, abortion is morally wrong.",false analogy,"answer: circular reasoning.
+
+the argument suggests that because murder is morally wrong, abortion must also be morally wrong. however, this overlooks the fact that murder and abortion are different situations with different ethical considerations.","answer: circular reasoning.
+
+the premise that murder is morally wrong is used to support the conclusion that abortion is morally wrong, and the premise that abortion is morally wrong is used to support the conclusion that murder is morally wrong.",answer: appeal to analogy. the two actions are not directly comparable.,False,circular reasoning
+132,"Violent video games cause teens to be violent, because violent teens play violent video games.",circular reasoning,answer: appeal to correlation/causation.,answer: appeal to correlation/causation.,answer: appeal to correlation/causation.,False,no match
+133,"These test results are clearly wrong, and it must be either because the client was malingering or because I bungled the test administration.",false dilemma,"answer: appeal to bias. the author assumes that the client either fabricated the results or that the author made a mistake, without providing any evidence to support this claim.","answer: appeal to the better option.
+
+the sentence suggests that either the client was faking the test results or the test administrator made a mistake, without providing any evidence to support either claim.",answer: appeal to authority. the text suggests that the author's opinion is the only valid one because either the client was faking or the test was administered incorrectly.,False,no match
+134,Is that why my prescriptions and premiums keep going up massively?,Appeal to Ridicule,"answer: appeal to pity.
+
+the author suggests that the reason for the increase in prescription and premium prices is due to pity.","answer: appeal to pity.
+
+the text suggests that the increase in prescription and premium costs is due to external factors rather than the actual cost of healthcare services.",answer: appeal to pity. the text suggests that the high cost of prescriptions and premiums is due to external circumstances rather than the actual cause.,False,appeal to pity
+135,"Trump hasn't done shit to improve healthcare, he has done the complete opposite.",appeal to anger,answer: appeal to negative emotion.,answer: appeal to negative emotions.,answer: appeal to negative emotion.,False,appeal to emotion (level 1)
+136,I did it because I worked my ass off and learned a skill in the military. It's not that hard you just got to do the best you can.,causal oversimplification,answer: appeal to hard work and merit.,"answer: appeal to difficulty.
+
+the premise suggests that doing well in the military is effortless.",answer: appeal to easy success.,False,no match
+137,"Or put another way If you run into an asshole in the morning, you ran into an asshole.",nothing,"answer: appeal to tradition.
+
+the proverb suggests a general principle that negative experiences will continue to happen throughout the day, based on a past experience.",answer: appeal to negative emotion.,answer: appeal to negative emotion.,False,appeal to emotion (level 1)
+138,For want of a nail the shoe was lost. For want of a shoe the horse was lost. For want of a horse the rider was lost. For want of a rider the battle was lost. For want of a battle the kingdom was lost.,slippery slope,"answer: circular reasoning.
+
+the argument assumes that each successive loss (nail, shoe, horse, rider, battle, kingdom) is directly caused by the preceding one, creating a circular logic where the conclusion (kingdom lost) is simply repeated in different forms throughout the argument.","answer : circular reasoning.
+
+the argument simply restates the premise in different terms, without providing any new evidence or reasoning.","answer : circular reasoning.
+
+the argument assumes that each successive loss (nail, shoe, horse, rider, battle, kingdom) is directly caused by the previous one, creating a circular reasoning structure.",False,circular reasoning
+139,"I bought a ticket to win a new car at the mall, since I have never won anything like that in the past.",false causality,"answer: appeal to positive emotion.
+
+the sentence suggests that the person is hoping to win the car because they have never won anything like that before, implying that winning is likely.","answer: appeal to positive emotion.
+
+the sentence suggests that the person is likely to be happy if they win the car, but this does not necessarily mean that they will actually win the car.","answer: appeal to positive emotion.
+
+the sentence suggests that the person is likely to be happy if they win the car, even though there is no evidence to support this claim.",False,appeal to positive emotion
+140,"I went veg because factory farming is horribly unnatural, but I can't really come up with an argument against hunting based on what made me go veg...",appeal to nature,"answer: appeal to emotion.
+
+the argument suggests that the motivations for going vegetarian and the motivations for opposing hunting are parallel, without providing any evidence or logical connection between the two.","answer: appeal to emotional analogy.
+
+the author uses their decision to go vegetarian as an analogy to argue against hunting, but this doesn't necessarily mean they're valid comparisons.","answer: appeal to emotion (specifically, an appeal to negative emotion).",False,appeal to emotion (level 1)
+141,"I'm vegan, I'll never part take in this activity, but I don't feel like hunting for fun should be considered a mental illness. Our ancestors used to depend on it to survive, so I can see how it might be in someone's genome to want to hunt.",appeal to tradition,"answer: appeal to tradition.
+
+the sentence suggests that our ancestors' practice of hunting is still present in our genes, implying a psychological compulsion to engage in the activity.","answer: appeal to tradition.
+
+the premise relies on the traditional activity of hunting being part of our ancestors' survival instincts, implying that a desire to engage in such an activity is therefore part of our genome.","answer: appeal to tradition.
+
+the argument suggests that because our ancestors hunted, it is still a natural desire in humans, implying that those who don't enjoy hunting may have a mental illness.",True,appeal to tradition
+142,"Our ancestors used to depend on it to survive, so I can see how it might be in someone's genome to want to hunt. Hunting is almost entirely aligned with the natural cycle of life, factory farming in horrible conditions isn't.",appeal to nature,"answer: appeal to tradition.
+
+the premise assumes that hunting is naturally ingrained in human dna based on its historical necessity for survival.","answer: appeal to tradition.
+
+the text argues that humans have a natural desire to hunt because our ancestors depended on it for survival.","answer: appeal to tradition.
+
+the premise suggests that human ancestors depended on hunting for survival, therefore it must be part of our genome to want to hunt.",False,appeal to tradition
+143,Cooking and eating meat is an artistic practice with thousands of years of history. My choice to cook and eat meat is a choice to participate in the continuation of this art form.,appeal to tradition,"answer: appeal to tradition.
+
+the sentence suggests that the practice of cooking and eating meat has a long and significant history, implying that it is an artistic practice worthy of continuation.","answer: appeal to tradition.
+
+the text suggests that the practice of cooking and eating meat has a long and significant history, implying that it is an artistic practice that should be respected and continued.",answer: appeal to tradition.,True,appeal to tradition
+144,"I support eating meat for the same reason I would support classical music, theater, or sculpture: because I support art.",false analogy,"answer: appeal to positive emotion.
+
+the author attempts to justify their support for eating meat by equating it with supporting art forms like classical music, theater, and sculpture. this is an emotional appeal rather than a logical argument based on evidence or reason.","answer: appeal to positive emotion.
+
+the author suggests that supporting eating meat is akin to supporting art forms like classical music, theater, or sculpture, appealing to a positive emotional response rather than providing factual evidence.","answer: appeal to positive emotion.
+
+the author attempts to justify their support for eating meat by equating it with supporting art forms like classical music, theater, or sculpture. this is an emotional appeal rather than a logical argument.",False,appeal to positive emotion
+145,"He was right, but then he put in place deficits twice that size for every one of his four years.",tu quoque,"answer: circular reasoning.
+
+the argument assumes that because the previous president made mistakes, the current president will necessarily make the same mistakes, without providing any evidence to support this claim.","answer: appeal to worse problems.
+
+the author implies that the politician's deficits are worse than those of previous presidents, implying that the current president is worse than his predecessors.","answer: appeal to emotion.
+
+the sentence suggests that the person was initially correct but then made mistakes that were twice as large as before. this implies that the person is not capable of making sound decisions.",False,circular reasoning
+146,14 year olds are plenty old enough to be around loaded guns. They arent 4. I had guns in a safe in my bedroom from 10 years old. I had the key and ammo.,hasty generalization,"answer: appeal to personal experience.
+
+the author argues that 14 year olds are mature enough to handle guns because they themselves had guns at a younger age.","answer: appeal to personal experience.
+
+the author argues that 14 year olds are responsible enough to handle loaded guns based on their own experience of having guns when they were 10.","answer: appeal to authority.
+
+the author suggests that 14 year olds are responsible enough to handle loaded guns based on their own experiences of having guns when they were 10 years old.",False,no match
+147,"Yeah its not just about my approval, pretty sure the majority of people in the U.S are against open carrying an AR. No one sees someone carrying a long gun in public and thinks wow look at them go, so glad they are exercising their rights.",ad populum,"answer: appeal to prejudice.
+
+the premise of the premise suggests that most people in the us are against open carrying of ars, despite lacking evidence to support this claim.","answer: appeal to prejudice.
+
+the premise assumes that the general public in the us shares the speaker's negative opinion of open carrying ar-15s, without providing any evidence or polling data to support this claim.",answer: appeal to majority.,False,no match
+148,"No one sees someone carrying a long gun in public and thinks wow look at them go, so glad they are exercising their rights. Theyre thinking Im glad I have my ccw so I can drop this motherfucker if he sneezes. And youre right, I should just assume that all 14 year olds were taught properly on how to handle firearms even if their parents are pieces of shit. I shouldnt care if he hurts himself or someone else because if I did Id just be infringing in someones rights. Glad your parents believed you wouldnt kill someone with a gun that young. Too bad other parents believed the same thing.",Appeal to Ridicule,"answer: appeal to anger.
+
+the author uses strong emotions and aggressive language to make their argument, rather than providing logical evidence.",answer: appeal to fear and appeal to pity.,answer: appeal to pity and appeal to authority.,False,appeal to pity
+149,There is nothing wrong with being racist or anti Semitic. Being tribal is a normal part of being human.,appeal to nature,"answer: appeal to prejudice.
+
+the sentence suggests that racism, antisemitism and tribalism are natural or normal aspects of human nature, implying that there is nothing wrong with such attitudes or behaviors.","answer: appeal to negative emotion.
+
+the sentence suggests that racism, anti-semitism, and tribalism are normal and acceptable aspects of human nature, which is a dangerous and harmful generalization.",answer: appeal to negative authority.,False,no match
+150,Almost 3k upvotes show that most people agree with me.,ad populum,"answer: appeal to majority.
+
+the provided sentence suggests that because many people agree with the author, it must be true. however, this ignores the possibility that the majority is simply wrong or that their opinion is based on faulty reasoning.","answer: appeal to majority.
+
+the text relies on the fact that if many people agree with something, then it must be true. however, this ignores the possibility that the majority is simply wrong or that they are simply following the crowd.","answer: appeal to majority.
+
+the text relies on the common human tendency to defer to the majority opinion as evidence of correctness without considering the motivations and biases of the majority.",False,ad populum
+151,"Its weird, its not socially or mentally healthy, its not a thing.",ad hominem,"answer: appeal to negative emotion.
+
+the sentence suggests that something is unhealthy because it is weird and not socially or mentally healthy. however, this does not provide any objective evidence or reasoning to support the claim.",answer: appeal to negative emotion.,answer: appeal to negative emotion.,False,appeal to emotion (level 1)
+152,Even the Republican platform has criticized the lack of leadership in Mr. Ford and they've criticized the foreign policy of this administration.,appeal to (false) authority,answer: appeal to negative emotions.,answer: appeal to negative emotion.,answer: appeal to negative emotions.,False,no match
+153,"This is one instance where I agree with - with the Republican platform. I might say this in closing, and that is that as far as foreign policy goes, Mr. Kissinger has been the president of this country.",ad hominem,answer: appeal to authority.,"answer: appeal to authority.
+
+the premise assumes that kissinger's foreign policy expertise qualifies him to be president.","answer: appeal to authority.
+
+the sentence suggests that henry kissinger's foreign policy expertise qualifies him to be president.",False,appeal to (false) authority
+154,he thinks he's just hanging out with a buddy but what he fails to realize is that he has a huge platform with a fan base of highly impressionable young men who feel wronged by society and entitled to scream like a monkey on the back of a pig with a cowboy hat,hasty generalization,answer: appeal to negative emotions.,answer: appeal to negative emotions.,answer: appeal to negative emotions.,False,no match
+155,Free speech bad,Appeal to Ridicule,"answer: appeal to negative emotion.
+
+the sentence suggests that free speech is bad because it implies that people will use it to say negative things.",answer: appeal to negative emotion.,answer: appeal to negative emotion.,False,appeal to emotion (level 1)
+156,"Mrs. Miller taught your older brother, who was the class clown. She decides to be strict with you from the very first day of class because she thinks you will be a clown, too.",guilt by association,answer: appeal to prejudice.,answer: appeal to authority.,answer: appeal to prejudice.,False,no match
+157,"Mankind has been using""recreational drugs"" since we developed agriculture, and probably before too.",appeal to tradition,"answer: appeal to tradition.
+
+the premise assumes that the use of recreational drugs has been consistent throughout human history simply because it has been practiced since agriculture.","answer: appeal to tradition.
+
+the premise suggests that the practice of recreational drug use has been continuous since the development of agriculture, implying that it is a traditional practice.","answer: appeal to tradition.
+
+the premise suggests that the use of recreational drugs has been a constant throughout human history.",True,appeal to tradition
+158,"James' mom is concerned when she finds out that he skipped class one day. She tells him that she is concerned that since he skipped one class, he will start skipping more frequently. Then he will drop out altogether, never graduate or get into college, and end up unemployed and living at home for the rest of his life.",slippery slope,"answer: appeal to fear.
+
+the premise suggests that skipping one class will inevitably lead to dropping out, unemployment, and living at home.","answer: appeal to exaggeration.
+
+the argument suggests that skipping one class will inevitably lead to james dropping out of school, never graduating, and ending up unemployed and living at home. this is an exaggerated and unlikely outcome from skipping one class.","answer: appeal to fear.
+
+the premise suggests that skipping one class will inevitably lead to dropping out, never graduating, and a bleak future.",False,appeal to fear
+159,So the least corrupt state is anarchy by this logic.,Appeal to Ridicule,"answer: appeal to authority.
+
+the premise suggests that the least corrupt state is anarchy based on some authority's argument. however, the provided text does not contain any information regarding the identity or expertise of this supposed authority, making the argument unreliable.","answer: appeal to worst problems.
+
+the author suggests that the least corrupt state is anarchy by implying that any form of governance is necessarily corrupt.","answer: circular reasoning.
+
+the argument suggests that because the current system is corrupt, the only way to avoid corruption is to abolish the system entirely and move to anarchy. however, this ignores the possibility that other forms of governance might also be less corrupt than the current system.",False,appeal to (false) authority
+160,"This is""deep"" libertarian bullshit.",ad hominem,answer: appeal to negative emotion.,answer: appeal to negative emotion.,answer: appeal to negative emotion.,False,appeal to emotion (level 1)
+161,"Good people don't need laws to tell them how to be good, bad people either ignore laws or use/create them to hide behind...",circular reasoning,answer: appeal to negative stereotype.,answer: appeal to negative stereotypes.,answer: appeal to negative stereotypes.,False,no match
+162,"Well if 10 minutes isnt bad, then surely 11 is ok. If 11 is ok then 13 is fine. If 13 is fine then whats wrong with 15. You said 15 is ok, 16 is just a minute more. Were at 16, Im finishing up and will be checked out by 18. See how it keeps getting stretched out?????",slippery slope,"answer: fallacy of division.
+
+the argument assumes that if each additional minute is just one minute more than the previous minute, then all of the minutes are somehow magically equivalent.","answer: appeal to false analogy.
+
+the argument implies that if a series of increasingly larger numbers are all considered ""okay,"" then the next number in the series must also be ""okay."" however, this fails to consider other factors that may influence whether or not a number is considered ""okay"" in the context of a particular situation.","answer: appeal to false analogy.
+
+the argument assumes that because 10 minutes is not bad, and each subsequent number is just one more minute, that each number is acceptable. however, this ignores the fact that each number is a hypothetical scenario, and the actual time it takes to complete the task may be different.",False,false analogy
+163,When the goddamned sign says the store closes at 9:00 the fucking customers need to get the fuck out by 8:59. They had all day to get their shit taken care of.,causal oversimplification,"answer: appeal to anger.
+
+the sentence uses extreme language and emotional language to convey a sense of urgency and frustration, rather than providing factual evidence or logical reasoning.","answer: appeal to anger.
+
+the sentence uses exaggerated and insulting language to convey a sense of urgency and impatience, rather than providing a logical argument or evidence.","answer: appeal to anger.
+
+the sentence uses exaggerated and disrespectful language to convey a sense of urgency and hostility towards the customers, rather than providing a logical argument or evidence.",False,appeal to anger
+164,When the goddamned sign says the store closes at 9:00 the fucking customers need to get the fuck out by 8:59. They had all day to get their shit taken care of. At 9 0 0 youre on my time.,appeal to anger,"answer: appeal to anger.
+
+the author uses exaggerated and insulting language to express their frustration with customers who are still in the store at 8:59, despite the sign indicating that the store closes at 9:00.","answer: appeal to anger.
+
+the author uses exaggerated and insulting language to express their annoyance with customers who are still in the store at 8:59pm when the store is supposed to close at 9pm.","answer: appeal to anger.
+
+the author uses strong emotional language to express their annoyance with customers who are still in the store when the store is closing. this is an appeal to anger rather than a logical argument.",True,appeal to anger
+165,Three congressional representatives have had affairs. Members of Congress are adulterers.,hasty generalization,"answer: appeal to hasty generalization.
+
+the argument concludes that all members of congress are adulterers based on the premise that three congressional representatives have had affairs. this is a generalization from a small sample size to a larger population.","answer: appeal to hasty generalization. 
+the argument concludes that all members of congress are adulterers based on the fact that three of them have had affairs.","answer: appeal to hasty generalization.
+
+the argument concludes that all members of congress are adulterers based on the fact that three congressional representatives have had affairs.",True,hasty generalization
+166,So he's saying liberals are better educated than conservatives. We agree. Trump isn't the only one who loves the poorly educated.,Appeal to Ridicule,"answer: appeal to positive emotion.
+
+the sentence attempts to make the argument seem reasonable by appealing to the listener's agreement with the premise that liberals are better educated than conservatives.","answer: appeal to positive emotion.
+
+the sentence suggests that liberals are better educated than conservatives based on some unspecified evidence, and that trump is among those who love the poorly educated. this is likely an attempt to manipulate the emotions of the reader by appealing to their preconceptions about political affiliations and education levels.","answer: appeal to positive emotion.
+
+the sentence implies that liberals are better educated than conservatives based on their apparent preference for trump, who is seen as loving the poorly educated.",False,appeal to positive emotion
+167,"Or, more accurately, many liberal professors abuse their positions by attempting to force their political opinions into subjects they don't belong in, like the English professor who insists their students each write a paper on""Why the GOP are terrorists"" and grade students poorly who disagree with that opinion (experienced that first hand).",hasty generalization,"answer: appeal to anger.
+
+the author's emotional response to the political opinions of certain professors leads them to make a generalization that all liberal professors abuse their positions.","answer: appeal to anger.
+
+the author implies that all liberal professors are abusive and biased, simply because one or more of them have assigned a paper on a politically controversial topic.",answer: appeal to prejudice.,False,appeal to anger
+168,"Many of the big name institutions have become incestuous single minded orgies which no longer challenge students to think out of the box, challenge assumed truths and seek to learn all they can, but instead have become factories to produce a very specific set of opinions and mindsets never to be questioned.",ad hominem,answer: appeal to negative emotions.,answer: appeal to negative emotions.,answer: appeal to negative emotion.,False,no match
+169,Incoming comments of things that are nutritious but people don't consider healthy because they're high in calories AND other random shit they read on a blog who's ultimate goal is to convince them to spend money on something at some point.,Appeal to Ridicule,"appeal to positive emotion.
+
+the author attempts to make the claim seem reasonable by appealing to the reader's positive emotions, rather than providing substantial evidence.","answer: appeal to positive emotion.
+
+the author relies on the reader's emotional desire to be healthy to promote their product/service.","answer: appeal to positive emotion.
+
+the author tries to make the argument seem reasonable by appealing to the reader's emotions by suggesting that the person reading the text will be happy if they buy something at some point.",False,appeal to positive emotion
+170,Dairy and red meat are fine - people have been consuming them for centuries and they did shit like building pyramids using just their hands.,appeal to tradition,"answer: appeal to tradition.
+
+the argument suggests that because people have been consuming dairy and red meat for centuries, it must be fine and that people have accomplished great things without modern technology.","answer: appeal to tradition.
+
+the argument suggests that because people have been consuming dairy and red meat for centuries, it is therefore acceptable and fine to continue consuming them.","answer: appeal to tradition.
+
+the argument assumes that because people have been consuming dairy and red meat for centuries, it means they are fine and did great things in the past.",True,appeal to tradition
+171,"You don't need to live off of bland chicken breasts, broccoli, and scrambled eggs to be healthy.",straw man,"answer: appeal to positive emotion.
+
+the text suggests that eating only bland foods will make one healthy, implying that eating other foods would be unhealthy.","answer: appeal to negative emotions.
+
+the text implies that eating bland food is necessary to be healthy, which is an exaggerated and misleading generalization.","answer: appeal to negative emotion.
+
+the author suggests that eating bland food is necessary to be healthy, implying that eating enjoyable foods will make one unhealthy.",False,appeal to positive emotion
+172,I think one of the biggest reasons for the obesity epidemic in America is the over-complication of nutrition.,causal oversimplification,answer: appeal to negative emotion.,answer: appeal to negative emotion.,answer: appeal to negative emotion.,False,appeal to emotion (level 1)
+173,"I think one of the biggest reasons for the obesity epidemic in America is the over-complication of nutrition. A new food is""unhealthy"" every week.",Appeal to Ridicule,answer: appeal to negative emotion.,answer: appeal to negative emotion.,answer: appeal to negative emotion.,False,appeal to emotion (level 1)
+174,Distracted driving is a HUGE problem but the fact that people are begging for a state run mass surveillance system is terrifying. It may seem innocuous and even helpful at first but the implications are tremendous. These are the first steps towards mass facial recognition and social credit systems... and people are clamoring for it.,appeal to fear,"answer: appeal to negative emotion.
+
+the author suggests that people are eagerly requesting a mass surveillance system, implying malicious intent when there is no evidence to support this claim.","answer: appeal to fear.
+
+the author suggests that the implementation of a state-run mass surveillance system is terrifying because it implies the potential for mass facial recognition and social credit systems.",answer: appeal to negative emotion.,False,appeal to emotion (level 1)
+175,The Cardinals are the best football team because they're better than all the other teams. They're better than all the other teams because they're the best.,circular reasoning,"answer: circular reasoning.
+
+the sentence implies that the cardinals are the best team because they are better than all the other teams, and that they are the best because they are the best.","answer: straw man fallacy.
+
+the sentence argues that the cardinals are the best football team because they are better than all the other teams, without providing any evidence or reasoning to support this claim. this is a classic straw man fallacy, as it misrepresents the argument of the other teams being worse than the cardinals.","answer: circular reasoning.
+
+the sentence relies on the premise that the cardinals are the best team because they are better than all the other teams, which is then used to support the conclusion that the cardinals are the best team.",True,circular reasoning
+176,But did they check slow food? Dollars to donuts that eating at an average restaurant is unhealthier than 30 years ago by an even wider margin.,appeal to worse problems,"answer: appeal to authority.
+
+the sentence uses the claim of a study that eating at an average restaurant is unhealthier than 30 years ago by an even wider margin, but it does not provide any evidence or source for this claim.","answer: appeal to authority.
+
+the text relies on the authority of an unnamed source to support the claim that eating at an average restaurant is unhealthier today than 30 years ago.","answer: appeal to tradition.
+
+the premise assumes that eating at restaurants is unhealthier now than 30 years ago, solely based on the fact that eating at restaurants has become more common in the past 30 years.",False,appeal to (false) authority
+177,Fast food isn't fueling the obesity epidemic; FOOD is fueling the obesity epidemic.,causal oversimplification,"answer: appeal to positive emotion.
+
+the author suggests that the abundance of food, rather than fast food, is the primary cause of obesity.","answer: appeal to positive emotion.
+
+the sentence suggests that the abundance of food, rather than fast food, is the primary cause of the obesity epidemic. this ignores other factors such as lifestyle and genetic factors that contribute to obesity.","answer: appeal to positive emotion.
+
+the author attempts to make the argument appear reasonable by appealing to the positive emotion of the reader by suggesting that the real cause of the obesity epidemic is not fast food, but rather the food itself.",False,appeal to positive emotion
+178,Let's not forget Genetically Modified foods. They are not on our food chain.,appeal to nature,"answer: appeal to tradition.
+
+the premise suggests that genetically modified foods are not part of the natural food chain, implying a potential danger to the ecosystem. however, this premise lacks scientific consensus and fails to acknowledge the extensive research and monitoring of genetically modified crops conducted over the past two decades.",answer: appeal to authority. the text cites no evidence or authority to support the claim that gmo foods are not on our food chain.,"answer: appeal to fear.
+
+the premise of this sentence suggests that genetically modified foods are not part of the natural food chain, implying potential harm to the ecosystem.",False,appeal to tradition
+179,"Yeah, I always go to religious organizations to supply me with clear and objective scientific studies...",Appeal to Ridicule,"answer: appeal to authority.
+
+the premise suggests that religious organizations are reliable sources of scientific studies, which is inaccurate.","answer: appeal to authority.
+
+the provided text suggests that religious organizations provide clear and objective scientific studies, implying that science supports their religious beliefs. this is an appeal to authority as it relies on the perceived authority of religious organizations rather than verifiable scientific evidence to support the claim.","answer: appeal to authority.
+
+the sentence suggests that religious organizations provide clear and objective scientific studies, which is a false claim.",False,appeal to (false) authority
+180,"But as Admiral Yarnell has said, and he's been supported by most military authority, these islands that we're now talking about are not worth the bones of a single American soldier; and I know how difficult it is to sustain troops close to the shore under artillery bombardment.",appeal to (false) authority,"answer: appeal to authority.
+
+the provided text relies on the alleged authority of admiral yarnell to support the conclusion that the islands are not worth the lives of american soldiers.","answer: appeal to authority.
+
+the text relies on the supposed authority of admiral yarnell to support the conclusion that the islands are not worth the cost of defending.","answer: appeal to authority.
+
+the provided text relies on the authority of admiral yarnell to support the conclusion that the islands are not worth the cost of american soldiers.",False,appeal to (false) authority
+181,"I propose that for a modern account of a miracle, if the person telling you the account is trustworthy, that is a reason to take the account seriously.",appeal to (false) authority,"answer: appeal to authority.
+
+the premise suggests that if someone is trustworthy, their account of a miracle should be taken seriously, implying that trustworthiness is sufficient evidence for the veracity of the miracle.","answer: appeal to authority.
+
+the sentence suggests that if a person telling a story is trustworthy, that is sufficient evidence to take the story seriously, regardless of whether the story is actually true or not.","answer: appeal to authority.
+
+the premise suggests that if the person telling the story is trustworthy, then the story is automatically credible.",False,appeal to (false) authority
+182,He has smoked cigarettes his entire life and he doesn't have lung cancer. Therefore smoking doesn't cause lung cancer.,hasty generalization,answer: appeal to selective observation. the text only notes the absence of lung cancer in the one's life and ignores the countless instances where smoking did cause lung cancer.,"answer: appeal to selective evidence.
+
+the text ignores the fact that just because someone doesn't have lung cancer after smoking doesn't mean smoking is safe.",answer: appeal to the cherry picking of evidence.,False,no match
+183,"It causes economic problems and turmoil, and then we turn around, as we did in Mexico, having to bail them out.",causal oversimplification,"answer: appeal to authority.
+
+the text cites the supposed experience in mexico as evidence that rescuing automakers will prevent economic collapse in the us.",answer: appeal to authority.,answer: appeal to authority.,False,appeal to (false) authority
+184,"Yeah, this doctor is a moron. Not smart like you.",Appeal to Ridicule,answer: appeal to negative authority.,answer: appeal to negative authority.,answer: appeal to negative authority.,False,appeal to (false) authority
+185,But you don't have a lot of experience in project management either!,tu quoque,answer: appeal to authority.,answer : appeal to authority.,answer: appeal to authority.,False,appeal to (false) authority
+186,"Rightly so. I don't care how it makes trans people feel, the vast majority of people would want to know if someone was born a different sex to that which they're passing themselves off as.",ad populum,answer: appeal to negative emotion.,answer: appeal to prejudice.,answer: appeal to negative emotion.,False,appeal to emotion (level 1)
+187,"or as my sister called it,""laundry over dirt field""  Well it's common in Sichuan where this dish is originated from to serve it like this, so it's not a stupid restaurant plating thing it's how it should be
+",nothing,"answer: appeal to tradition.
+
+the sentence assumes that because something has always been done a certain way, that is how it should always be done.","answer: appeal to tradition.
+
+the argument suggests that because this dish is traditionally served in a certain way in its origin, it is not stupid for the restaurant to do the same.","answer: appeal to tradition.
+
+the argument suggests that the way of serving the dish in sichuan is the correct way, implying that it is not a stupid restaurant practice.",False,appeal to tradition
+188,all believe I would make a stronger commander in chief. And they believe it because they know I would not take my eye off of the goal: Osama bin Laden.,appeal to (false) authority,"answer: appeal to authority.
+
+the text cites the belief of others that the candidate would make a stronger commander in chief based on their belief that the candidate would not take their eye off the goal of capturing osama bin laden.","answer: appeal to authority.
+
+the sentence suggests that people believe the candidate would make a better commander-in-chief because they believe he would be focused on achieving a specific goal. however, this is an appeal to authority because it relies on the perceived authority of the candidate rather than providing evidence to support the claim.","answer: appeal to authority.
+
+the premise suggests that people believe the candidate would make a strong commander in chief because they believe he would not take his eye off the goal of capturing osama bin laden. this relies on the authority of the people's belief rather than an actual evaluation of the candidate's abilities.",False,appeal to (false) authority
+189,"Fred, the German, stole my wallet. Therefore, all Germans are thieves.",hasty generalization,"answer: appeal to hasty generalization.
+
+the argument concludes that all germans are thieves based on the action of one german (fred). this is a hasty generalization that fails to consider the actions of other germans.","answer: appeal to hasty generalization.
+
+the argument wrongly concludes that all germans are thieves based on the action of one german individual (fred).",answer: appeal to hasty generalization.,True,hasty generalization
+190,"Slavery is accepted by just about everyone in our society, so it's ethical to keep slaves.",ad populum,"answer: appeal to tradition.
+
+the premise assumes that slavery has always been accepted and therefore it is seen as ethical. however, this ignores the fact that slavery has been widely condemned throughout history and is considered a violation of human rights.","answer: appeal to tradition.
+
+the premise relies on the traditional practice of slavery, which is unethical, rather than on any factual evidence supporting the claim that slavery is ethical.","answer: appeal to tradition.
+
+the premise assumes that slavery has always been ethically accepted by society, which is inaccurate and perpetuates a harmful misconception.",False,appeal to tradition
+191,"EDIT: The good news is they will be cheap, the bad news is you need someone who can do smd soldering, which, for no good reason, is a dark art.",nothing,"answer: appeal to darkness.
+
+the author suggests that soldering is a ""dark art,"" implying it is complex and difficult, without providing any evidence or reasoning to support this claim.","answer: appeal to darkness.
+
+the author suggests that soldering is a ""dark art,"" implying it is complex and mysterious, even though no explanation is given for this claim.","answer: appeal to ignorance.
+
+the premise that soldering is a dark art implies that it is complex and difficult, when in reality it is a relatively straightforward skill.",False,no match
+192,"
+ I just picked up one of the tinted balms and it's a really lovely product.",nothing,"answer: nothing. 
+
+the text simply expresses a personal opinion about the tinted balm and does not contain any logical fallacies.","answer: nothing.
+
+the sentence simply expresses a personal opinion about a product without providing any reasoning or evidence to support that opinion.",answer: nothing. the sentence simply expresses the speaker's subjective opinion about the tinted balm.,True,nothing
+193,Have you not know that this poster is extremely popular in Oculus sub reddit?,ad populum,answer: appeal to authority.,answer: appeal to authority. the text assumes that the popularity of the poster among oculus users is sufficient evidence of its quality or effectiveness.,answer: appeal to authority.,False,appeal to (false) authority
+194,"Thank you, have a nice day
+ Enter Bios and see if your hdd is detected.",nothing,answer: appeal to positive emotion. the writer suggests that the user will feel happy if they enter their bios and check if their hdd is detected.,answer: appeal to pity. the author suggests that the user should be thanked simply because they are experiencing technical issues.,"answer: appeal to positive emotion. the sentence attempts to make the user feel good by thanking them and suggesting they should check their bios to see if their hdd is detected, presumably creating a positive emotional response.",False,appeal to positive emotion
+195," New Firefox Update
+ Dog software on cat hardware
+ Wouldn't it be the other way around?",nothing,"answer: straw man fallacy. 
+
+the argument implies that dog software would run better on cat hardware, when in reality the premise is incorrect as the operating system and hardware are designed for their respective species.","answer: straw man fallacy.
+
+the argument suggests that software designed for dogs should run on hardware designed for cats, instead of the other way around as would be logical.","answer: straw man fallacy.
+
+the author suggests that the usual arrangement of software (firefox) on hardware (cat) should be reversed (cat on firefox), implying that this would be more logical.",False,straw man
+196,"Most people I spoke to didn't like TLJ, so if anything, it should have a lower than 55% score.",hasty generalization,"answer: appeal to bandwagon.
+
+the premise suggests that because most people disapprove of tlj, it must receive a score lower than 55%. this ignores the possibility that some people may like tlj and that individual preferences do not necessarily reflect overall popularity or score.","answer: appeal to anecdotes.
+
+the premise relies on a limited sample of people's opinions to draw a conclusion about the entire population's opinion of tlj.","answer: appeal to hasty generalization.
+
+the sentence assumes that the opinion of a few people is representative of the opinion of everyone.",False,ad populum
+197," Legion is the best overall expac we will ever get and here is why
+ This feels like definite nostalgia talking to me.",nothing,"answer: appeal to positive emotion.
+
+the sentence suggests that the person feels a sense of nostalgia for legion, implying that it is the best overall experience they will ever have.","answer: appeal to positive emotion.
+
+the sentence suggests that the person feels nostalgia for the legion expac and believes it is the best overall expac ever, simply because it evokes positive emotions.","answer: appeal to positive emotion.
+
+the sentence suggests that the author believes legion is the best overall expansion based on some emotional connection or nostalgia, rather than providing objective evidence or reasoning.",False,appeal to positive emotion
+198,"I don't know, it's just a thing with me because I've been helping orphans for a long time and their mental health is seriously fucked up because of it.",nothing,answer: appeal to emotion (pity).,"answer: appeal to pity.
+
+the author is attempting to elicit sympathy for the mental health of orphans by implying that their work has negatively impacted them.","answer: appeal to pity.
+
+the author attempts to evoke sympathy for the mental health of orphans by claiming that their exposure to the author's help has negatively impacted them.",False,appeal to pity
+199,"
+ I got those tests and they came back fine, I was so confident that it was lupus for a while but that negative test has really thrown me !",nothing,"answer: appeal to pity.
+
+the person is using their emotional response (feeling thrown off by the negative test result) to question the accuracy of the test, rather than presenting any objective evidence.","answer: appeal to pity.
+
+the person is using their emotional response (being thrown off by the negative test results) to undermine the accuracy of the test results.","answer: appeal to pity.
+
+the person is trying to evoke pity from the reader by expressing their emotional response (throw) to the negative test result despite previously believing they had lupus.",False,appeal to pity
+200,"
+ So a woman got in an altercation, got mad and grabbed a gun and starting shooting, and was then shot by someone else.",nothing,"answer: appeal to emotion (pity). 
+
+the sentence focuses on the emotional response to the event rather than presenting facts or relevant information about the altercation.",answer: appeal to emotion (pity). the text uses the emotional response to the violent act to make the conclusion that someone else shot the woman seem justified.,"answer: appeal to emotion (pity). 
+
+the text focuses on the emotional response to the event rather than providing factual information about the cause or consequences of the altercation.",False,appeal to emotion (level 1)
+201,"
+ I get that it's weird that someone from the lgbtq+community supports fascists who want people like him to die, but I don't see his sexual identity having any relevance to this story.",nothing,"answer: appeal to irrelevant information.
+
+the provided text suggests that the sexual identity of the person in question is irrelevant to the story, despite the fact that they support fascists who want people like them to die.","answer: appeal to relevance.
+
+the argument suggests that a person's sexual identity is irrelevant to a story simply because they support a group that wants people like them to die.","answer: appeal to relevance.
+
+the argument suggests that the sexual identity of the individual is irrelevant to the story, despite the fact that the individual is supporting fascists who want people like him to die.",False,no match
+202," Ned, the actor behind Micheal, was recently admitted in the hospital for Covid Pneumonia, hoping for his good health and be well soon
+ First we nearly lost Dr. Dre now we might lose Michael.",nothing,"answer: appeal to pity.
+
+the author implies that we should pity ned because he is sick, just as we should have pitied dr. dre when he was hospitalized.","answer: appeal to pity.
+
+the sentence suggests that the recent hospitalization of actor michael is due to a widespread medical crisis, similar to the case of dr. dre.","answer: appeal to pity.
+
+the author attempts to evoke sympathy for ned's health situation in order to appeal to the reader's emotions rather than provide substantial evidence or reasoning.",False,appeal to pity
+203,"
+ many people have been calling out science subreddit mods like mvea etc for spamming ""shill articles"" etc.",nothing,answer: appeal to negative emotion.,answer: appeal to negative emotion.,answer: appeal to negative emotion.,False,appeal to emotion (level 1)
+204,"
+ Oh man, I'm actually relieved, because I had to do this same shit to my subordinates, and honestly I made up numbers 99% of the time because they worked their full hours and could prove it, and their performance was the best in the office because they weren't being crushed by an asshole dictator.",nothing,"answer: appeal to pity.
+
+the author uses the emotional response to their own fabricated workload experience to influence the audience's opinion of the subordinates' performance evaluation.","answer: appeal to pity.
+
+the author is attempting to evoke sympathy by claiming that they fabricated performance numbers for their subordinates in order to avoid crushing them with an asshole dictator.","answer: appeal to pity.
+
+the author suggests that the employee made up numbers because their subordinates worked hard and performed well, implying that the dictator-like management style is responsible for the subordinates' performance.",False,appeal to pity
+205,Female sexual history obviously plays a big role in the success of marriage.,false causality,"answer: appeal to tradition.
+
+the premise implies that traditional marriage has always involved a man and a woman, therefore implying that female sexual history outside of this tradition is irrelevant to marriage success.",answer: appeal to traditional.,"answer: appeal to tradition.
+
+the premise assumes that traditional marriage has always been between a man and a woman, and therefore female sexual history outside of this traditional definition must negatively impact marriage success.",False,appeal to tradition
+206,With the amount of weapons in the USA and the ease of smuggling in the country assault weapon bans wouldn't do anything because you could still get then illegally.,false causality,"answer: appeal to futility.
+
+the argument suggests that assault weapon bans would be ineffective due to the ease of smuggling in the country. however, this ignores the potential impact of such bans on reducing the number of illegal weapons in circulation and decreasing gun violence.","answer: appeal to common misconception.
+
+the premise of the argument implies that assault weapons are easily smuggled into the country, regardless of any legal restrictions. this premise is not supported by evidence or commonly accepted by law enforcement or security experts.","answer: appeal to futility.
+
+the argument suggests that assault weapon bans would be ineffective due to the ease of smuggling weapons into the country. however, this ignores the potential impact of such bans in reducing the number of legal weapons in circulation and deterring violent crime.",False,no match
+207,Restrictions on acquisitions are not going to stop that. Enforcement of possession laws will stop that and no politician is campaigning to do that.,false dilemma,"answer: appeal to positive emotion.
+
+the sentence suggests that enforcing possession laws is more effective than restricting acquisitions to stop a particular issue, implying that the latter is not effective. however, the provided text does not contain any evidence or logical reasoning to support this claim.","answer: appeal to authority.
+
+the text suggests that enforcement of possession laws will stop people from engaging in acquisitions, implying that politicians campaigning to strengthen such laws would be effective in preventing such acquisitions.","answer: appeal to authority.
+
+the text suggests that enforcing possession laws will stop people from acquiring things illegally, implying that this is the consensus among politicians.",False,appeal to (false) authority
+208,"The NRA commits terror by encouraging circumstances and laws which lead to 30,000 deaths a year",appeal to anger,"answer: appeal to emotion. the text uses emotionally charged language to describe the nra's actions, rather than providing evidence to support the claim.","answer: appeal to emotional manipulation.
+
+the text attempts to evoke strong emotions (terror) in order to support the claim that the nra is responsible for 30,000 deaths per year.","answer: appeal to emotion.
+
+the text uses emotional language (""terror"", ""30,000 deaths a year"") to make an argument without providing any factual evidence.",False,appeal to emotion (level 1)
+209,"Young people who do not vote should be shamed. What can we do to get more young people involved? The barriers today are much less than any other time in history, eg women and people of color segregation and disenfranchisement",causal oversimplification,"answer: appeal to pity. the text attempts to evoke sympathy for young people by mentioning barriers they face, but this does not address the actual argument of shaming those who do not vote.","answer: appeal to pity.
+
+the author suggests that young people should be shamed into voting due to the perceived ease of voting for young people today.","answer: appeal to pity.
+
+the author attempts to evoke sympathy for young people by mentioning historical barriers to voting faced by marginalized groups, suggesting that young people today have fewer obstacles to overcome.",False,appeal to pity
+210,"Lars, Kirk and even Cliff have all been criticized for their technical skills, but their creativity, along with James (who is an excellent songwriter and rhythm guitarist), was what made Metallica the greatest metal band of all time, not their chops.",causal oversimplification,"answer: appeal to sentiment.
+
+the sentence suggests that metallica's creativity, rather than their technical skills, is what made them the greatest metal band of all time. this ignores the fact that technical skills are also important for creating great music.","answer: appeal to popularity.
+
+the argument suggests that metallica became the greatest metal band of all time simply because they were creative, despite criticisms of their technical skills.","answer: straw man fallacy.
+
+the author suggests that metallica's greatness is due to their creativity, not their technical skills. this misrepresents the critics' argument, which likely focused on both creativity and technical skills as factors in metallica's success.",False,no match
+211,Every one I remember seeing has proven itself to be between 50% and 90% overstated. Our death counts ended up being 10% of what the models were forecasting.,hasty generalization,"answer: appeal to authority.
+
+the text suggests that death count predictions are consistently inaccurate, despite the fact that the author offers no evidence from reliable sources to support this claim.",answer: appeal to authority.,"answer: appeal to authority.
+
+the premise relies on the alleged authority's (models) overestimation of death counts, without providing evidence or expertise of the alleged authority on the accuracy of such models.",False,appeal to (false) authority
+212,They claim they don't have the personnel to staff them....despite the state's NG being given authorization from our governor to send its stock of nurses and doctors to do it.,causal oversimplification,"answer: appeal to authority.
+
+the text suggests that the state's national guard (ng) has been authorized by the governor to send their nurses and doctors to staff the facilities, implying that the personnel shortage is simply a matter of the state not providing enough resources.","answer: appeal to authority.
+
+the text suggests that the state's ng has been given authorization by the governor to send its stock of nurses and doctors to staff the facilities, implying that the claim of lack of personnel is false.","answer: appeal to authority.
+
+the text implies that the state's ng has the authority to send its nurses and doctors to staff the facilities, which undermines the claim that they don't have the personnel.",False,appeal to (false) authority
+213,It makes me wonder of it was just the usual bureaucratic waste or if they've got a future use in mind for the facility...,false dilemma,"answer: appeal to imagination.
+
+the sentence suggests that the author is speculating about the possible future use of a facility, rather than presenting concrete evidence or logical arguments.","answer: appeal to speculation.
+
+the sentence suggests that the author is unsure of the true purpose of the facility, but speculates that it might have a future use.","answer: appeal to speculation.
+
+the sentence suggests that the author is speculating about the future use of the facility, rather than presenting any concrete evidence or facts.",False,no match
+214,You havent played but are talking about it like this? Oof,tu quoque,"answer: appeal to pity.
+
+the speaker is attempting to evoke sympathy from the listener by suggesting that their lack of experience is irrelevant due to their exaggerated emotional response.","answer: appeal to anger.
+
+the sentence suggests that the speaker is surprised and skeptical of the person's knowledge about a particular topic based on their lack of experience or familiarity with it.","answer: appeal to emotion.
+
+the sentence expresses disapproval of someone's opinion without providing any logical reasoning or evidence to support the disapproval.",False,appeal to pity
+215,"Imagine being a horny naive 16 year old. You were talking to a girl, you guys exchange nudes. You're 21. It's been revealed to other adults that you sent a picture of your dick (nice cock btw). You're on the sex offender registry. You will get almost all job offers turned down. Your life is fucked because someone decided your life should be shit for being a horny teenager.",Appeal to Ridicule,"answer: appeal to pity.
+
+the author uses pity to make the reader feel bad for the person in order to make the argument seem reasonable.","answer: appeal to pity.
+
+the author attempts to elicit sympathy for the individual by describing their youthful indiscretions and the subsequent negative consequences.","answer: appeal to pity.
+
+the author uses emotional manipulation by depicting a dramatic and negative outcome as a result of the individual's actions, appealing to the reader's sympathy to accept the premise.",False,appeal to pity
+216,21 year old aren't teenagers,straw man,"answer: appeal to definition.
+
+the definition of a teenager typically refers to someone between the ages of 13 and 19. therefore, the premise that 21 year olds aren't teenagers is inaccurate.","answer: appeal to tradition.
+
+the traditional understanding of teenagers is those between the ages of 13 and 19.",answer: appeal to false authority.,False,no match
+217,"If this was just people getting details mixed up, the Mandela Effect would not sustain the interest it has.",ad populum,"answer: appeal to tradition.
+
+the mandela effect relies on the collective memory of people remembering things differently than historical records suggest. this suggests that people's memories are not always accurate, and that the mandela effect is not necessarily evidence of any conspiracy or error in the historical record.","answer: appeal to tradition.
+
+the mandela effect involves widespread public misremembering of historical events, suggesting that cultural memory can be unreliable.","answer: appeal to tradition.
+
+the mandela effect suggests widespread confusion about historical events, despite overwhelming evidence that the events occurred as history records them.",False,appeal to tradition
+218,"a lot of leftists are mad that its 1400 checks not 2000, because it was meant to supplement the 600 passed in december",causal oversimplification,"answer: appeal to frustration.
+
+the sentence suggests that the reduction in the number of checks from 2000 to 1400 is deliberately intended to anger leftists.","answer: appeal to selective memory. 
+
+the text suggests that the reduction in the number of checks is the sole reason for the leftists' anger, ignoring other potential factors that may contribute to their sentiment.",answer: appeal to selective memory. the text suggests that the amount of financial assistance was intentionally reduced to anger or appease certain political factions.,False,no match
+219,If Kavanaugh is innocent he should be yelling from the hills demanding an investigation by the FBI.,causal oversimplification,"answer: appeal to emotion.
+
+the argument assumes that if kavanaugh is innocent, he would be aggressively demanding an investigation, even though this may not be true.","answer: appeal to emotion.
+
+the sentence suggests that if kavanaugh is innocent, he should publicly demand an investigation, implying that his innocence is obvious and that the fbi investigation is necessary to prove his innocence.","appeal to emotion.
+
+the premise suggests that kavanaugh's innocence should be proven by his public outcry for an fbi investigation, rather than presenting evidence or legal proceedings.",False,appeal to emotion (level 1)
+220,"If Dr. Ford *is* lying, then Republicans should be *eager* to get her in front of an FBI interrogator.",causal oversimplification,"answer: appeal to emotion. the sentence suggests that if dr. ford is lying, republicans should be motivated by strong emotions (eagerness) to subject her to an fbi interrogation.","answer: appeal to emotion (pity).
+
+the sentence suggests that if dr. ford is lying, republicans should be motivated to question her honesty by subjecting her to an fbi interrogation, implying that republicans care about the truth.","answer: appeal to emotion (specifically, eagerness due to a perceived lie).",False,appeal to emotion (level 1)
+221,The government has no right to spilt up your business,appeal to fear,"answer: appeal to tradition.
+
+the traditional view of government is that it should not interfere in the business of private citizens.","answer: appeal to tradition.
+
+the traditional role of the government is to regulate certain industries and businesses in order to protect consumers and promote economic stability.","answer: appeal to tradition.
+
+the government has traditionally not interfered in the private business of citizens.",False,appeal to tradition
+222,"But every time I bring this point up, GOP_Fanboy just reverts to ""lol who are you to decide who gets paid what communist etc""",Appeal to Ridicule,"answer: appeal to authority.
+
+the argument suggests that the author is more qualified than gop_fanboy to decide who gets paid what, implying that gop_fanboy lacks the necessary authority or expertise to make such judgments.","answer: appeal to authority.
+
+the argument suggests that the author is more qualified than gop_fanboy to determine who gets paid what.","answer: appeal to authority.
+
+the text suggests that gop_fanboy lacks credibility to make judgments about who gets paid what.",False,appeal to (false) authority

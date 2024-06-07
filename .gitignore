@@ -161,3 +161,5 @@ cython_debug/
 
 
 Paper/
+
+.virtual_documents
