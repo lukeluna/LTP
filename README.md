@@ -47,6 +47,10 @@ Run `pip install -r requirements.txt` for the file `requirements.txt` included o
 ## Preprocessing
 *File paths relative to* `src/preprocessing`
 
+Run Jupyter and use `src/preprocessing/get_mafalda_spans.ipynb`. This code was used to extract the data on which we tested our LLM prompts from the MAFALDA dataset. Spans annotated with fallacies are extracted and paired with their annotation in a .csv file. 
+
+To properly balance the dataset over level-2 annotation, we add 20 items labeled 'nothing' to the dataset. These are extracted by finding MAFALDA texts that are labeled with no fallacies, and selecting the longest sentence from these texts. We do this because otherwise, the length of the 'nothing' sentences would be far too long, and this way, the average 'nothing' item length is almost identical to that of the other classes averaged.
+
 ## Prompting
 
 Prompt can be run by running
@@ -72,4 +76,10 @@ The prompts use are in folder `prompts`
 
 ## Postprocessing
 *File paths relative to* `src/postprocessing`
+
+### Canonical
+Run `src/postprocessing/data_postprocessing.py` to improve the labels of the given dataset to the synonym alike.
+
+### Backtracking fallacy level
+Run Jupyter and use `src/postprocessing/LTPAnalysis.ipynb` to postprocess the data to level 1 and level 0 mapping/
 
