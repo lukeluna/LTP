@@ -31,7 +31,8 @@ def level_1_mapping(column):
         'fallacy of division': 'fallacy of logic',
         'tu quoque': 'fallacy of credibility',
         'appeal to positive emotion': 'appeal to emotion',
-        'appeal to pity': 'appeal to emotion'
+        'appeal to pity': 'appeal to emotion',
+        'appeal to emotion (level 1)': 'appeal to emotion'
 
     }
     return column.map(level_1).fillna(column)
@@ -61,7 +62,8 @@ def level_0_mapping(column):
         'fallacy of division': 'fallacy detected',
         'tu quoque': 'fallacy detected',
         'appeal to positive emotion': 'fallacy detected',
-        'appeal to pity': 'fallacy detected'
+        'appeal to pity': 'fallacy detected',
+        'appeal to emotion (level 1)': 'fallacy detected'
     }
 
     return column.map(level_0).fillna('no fallacy detected')
