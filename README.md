@@ -78,7 +78,7 @@ The prompts use are in folder `prompts`
 *File paths relative to* `src/postprocessing`
 
 ### Canonical
-Run `src/postprocessing/data_postprocessing.py` to improve the labels of the given dataset to the synonym alike.
+Run `src/postprocessing/data_postprocessing.py` to extract the correct label from the model output and return it as a csv file under the column 'canonical'. Before running, ensure that the data path and file name are correctly noted 
 
 ### Backtracking fallacy level
 Run Jupyter and use `src/postprocessing/LTPAnalysis.ipynb` to postprocess the data to level 1 and level 0 mapping/
