@@ -6,7 +6,6 @@ from collections import Counter
 # important to know before you run:
 # - change the file path to the data directory
 # - change the file name to the data file name
-# - change
 
 # Used to perform regex on an input string
 def contains_whole_word(large_string, word):
@@ -85,7 +84,7 @@ def find_fallacy(input_sentence, rar_value):
     return matches if matches else no_match
 
 # Change the path to the data directory and change the filename to the filename of the data (without extension)
-path = '/Users/lukevandenwittenboer/PycharmProjects/LTP/test/results/results-spans/'
+path = '/results/results-spans/'
 filename1 = 'results-'
 filename2 = '-mafalda-spans-'
 llms = ['mistral', 'gemma', 'openchat']
