@@ -16,7 +16,8 @@ More information can go to https://github.com/rosakun/Fallacies
 
 ### MAFALDA
 *File paths relative to* `data/mafalda`
-TBD
+
+[MAFALDA](https://github.com/ChadiHelwe/MAFALDA), a gold standard dataset as a benchmark for fallacy classification that unites previous datasets. It comes with a taxonomy of fallacies that aligns, refines, and unifies previous classifications. `mafalda_gold_standard_by_span.csv` contains the processed MAFALDA with spans and `MAFALDA.csv` as the non-processed MAFALDA.
 
 ### github.csv
 
